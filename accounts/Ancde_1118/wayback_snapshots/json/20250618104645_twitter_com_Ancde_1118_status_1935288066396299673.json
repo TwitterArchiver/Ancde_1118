@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1935288066396299673",
+    "created_at": "2025-06-18T10:46:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T11:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935288066396299673"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lngyj147021/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/lngyj147021/status/1935206107292779001",
+          "start": 5,
+          "url": "https://t.co/4D7heDipMr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935288066396299673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935206107292779001",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯嗯对对 https://t.co/4D7heDipMr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 839,
+        "media_key": "3_1935206105149476864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gts7sxCaEAAAgt9.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1935288066396299673",
+        "created_at": "2025-06-18T10:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T11:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935288066396299673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lngyj147021/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/lngyj147021/status/1935206107292779001",
+              "start": 5,
+              "url": "https://t.co/4D7heDipMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935288066396299673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935206107292779001",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯嗯对对 https://t.co/4D7heDipMr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935206105149476864"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1935206107292779001",
+        "created_at": "2025-06-18T05:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T06:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935206107292779001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nw1txbrgGJ",
+              "end": 40,
+              "expanded_url": "https://x.com/lngyj147021/status/1935206107292779001/photo/1",
+              "media_key": "3_1935206105149476864",
+              "start": 17,
+              "url": "https://t.co/Nw1txbrgGJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935206107292779001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2180,
+          "like_count": 83,
+          "quote_count": 6,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的社交方式就是等缘分自己撞上来 https://t.co/Nw1txbrgGJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 235,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 476
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "我希望有个如你一般的人｜话很多｜碎碎念｜小女孩来找我互关交朋友好不好🥹🤲❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lngyj147021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lngyj147021",
+                "start": 0,
+                "url": "https://t.co/878iRogjsZ"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "心态不好爱骂人 神秘数字可以让我变脸⁃̀ ⩊ ⁃́",
+        "name": "咪",
+        "pinned_tweet_id": "1935145154492645802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933912341722361856/Ekgkt8Ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 64,
+          "like_count": 118,
+          "listed_count": 1,
+          "media_count": 307,
+          "tweet_count": 1863
+        },
+        "url": "https://t.co/878iRogjsZ",
+        "username": "lngyj147021",
+        "verified": false
+      }
+    ]
+  }
+}

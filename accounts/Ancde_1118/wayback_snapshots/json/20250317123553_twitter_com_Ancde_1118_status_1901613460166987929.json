@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1901613460166987929",
+    "created_at": "2025-03-17T12:35:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T13:35:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901613460166987929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/akanpc/status/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/akanpc/status/1899254735817121799",
+          "start": 12,
+          "url": "https://t.co/8ExpkRXVUm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901613460166987929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899254735817121799",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对不起😭 我活该不幸福 https://t.co/8ExpkRXVUm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1901613460166987929",
+        "created_at": "2025-03-17T12:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T13:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901613460166987929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akanpc/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/akanpc/status/1899254735817121799",
+              "start": 12,
+              "url": "https://t.co/8ExpkRXVUm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901613460166987929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899254735817121799",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起😭 我活该不幸福 https://t.co/8ExpkRXVUm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864468641305251844",
+        "conversation_id": "1899254735817121799",
+        "created_at": "2025-03-11T00:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T01:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899254735817121799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1899254735817121799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 36385,
+          "like_count": 345,
+          "quote_count": 8,
+          "reply_count": 32,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "擅长在幸福时得寸进尺把幸福作没 活该不幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 酗酒 抽烟 嗑药/想交朋友/我的tg频道⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+tGPZagccCeE0M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+tGPZagccCeE0M2I1",
+                "start": 0,
+                "url": "https://t.co/YOU43GttEH"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 97,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 74
+        },
+        "url": "https://t.co/YOU43GttEH",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T00:35:51.000Z",
+        "description": "做S会笑场，做M会还手☁️活着玩玩的，什么都没当真 唯一大号｜小号 @AkaNpc2｜仅此两号慎防受骗  ☺︎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 34,
+                "username": "AkaNpc2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akanpc",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akanpc",
+                "start": 0,
+                "url": "https://t.co/axvcrnKSfM"
+              }
+            ]
+          }
+        },
+        "id": "1864468641305251844",
+        "location": "迷失表參道",
+        "name": "曼醬⛓︎",
+        "pinned_tweet_id": "1868660805266473000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872590302583926785/o3oKSA94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5205,
+          "following_count": 94,
+          "like_count": 7318,
+          "listed_count": 4,
+          "media_count": 42,
+          "tweet_count": 1382
+        },
+        "url": "https://t.co/axvcrnKSfM",
+        "username": "AkaNpc",
+        "verified": false
+      }
+    ]
+  }
+}

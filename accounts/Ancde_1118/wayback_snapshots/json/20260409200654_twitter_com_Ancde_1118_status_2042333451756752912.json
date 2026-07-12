@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2042333451756752912",
+    "created_at": "2026-04-09T20:06:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T21:06:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042333451756752912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1940774486363779072",
+          "start": 3,
+          "username": "summerjuice_26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042333451756752912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041765767704965305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @summerjuice_26: 再喜欢长发男就被长发男摁床上操"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2042333451756752912",
+        "created_at": "2026-04-09T20:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T21:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042333451756752912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1940774486363779072",
+              "start": 3,
+              "username": "summerjuice_26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042333451756752912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041765767704965305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @summerjuice_26: 再喜欢长发男就被长发男摁床上操"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940774486363779072",
+        "conversation_id": "2041765767704965305",
+        "created_at": "2026-04-08T06:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T07:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041765767704965305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041765767704965305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 81071,
+          "like_count": 921,
+          "quote_count": 22,
+          "reply_count": 53,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "再喜欢长发男就被长发男摁床上操"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我是双性恋/tg@Sakura_sakura01118/我想交朋友 可以找我互fo/可以找我买电子烟",
+        "id": "1778719380639014913",
+        "name": "Sakura（烟代版）",
+        "pinned_tweet_id": "2003534488014643219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 427,
+          "like_count": 85,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 811
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T14:07:59.000Z",
+        "description": "别靠近我",
+        "id": "1940774486363779072",
+        "location": "🚪88",
+        "name": "一周睡八天",
+        "pinned_tweet_id": "1978534569574793516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040849202021015552/UNU3DYgZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2302,
+          "following_count": 100,
+          "like_count": 6397,
+          "listed_count": 7,
+          "media_count": 120,
+          "tweet_count": 2482
+        },
+        "username": "summerjuice_26",
+        "verified": false
+      }
+    ]
+  }
+}

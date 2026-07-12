@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1919564340564467966",
+    "created_at": "2025-05-06T01:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T02:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919564340564467966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mumuwithrabbit…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/mumuwithrabbit/status/1919249574218125394",
+          "start": 15,
+          "url": "https://t.co/CjNTBfAUIk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919564340564467966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919249574218125394",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我决定喜欢你！↖(^ω^)↗ https://t.co/CjNTBfAUIk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1919249562717589504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqKLTwUbEAA3JGH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1919564340564467966",
+        "created_at": "2025-05-06T01:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T02:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919564340564467966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mumuwithrabbit…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/mumuwithrabbit/status/1919249574218125394",
+              "start": 15,
+              "url": "https://t.co/CjNTBfAUIk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919564340564467966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919249574218125394",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我决定喜欢你！↖(^ω^)↗ https://t.co/CjNTBfAUIk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919249562717589504"
+          ]
+        },
+        "author_id": "1719064901145202688",
+        "conversation_id": "1919249574218125394",
+        "created_at": "2025-05-05T04:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T05:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919249574218125394"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "木木之兔"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qeNz5risiN",
+              "end": 29,
+              "expanded_url": "https://x.com/mumuwithrabbit/status/1919249574218125394/photo/1",
+              "media_key": "3_1919249562717589504",
+              "start": 6,
+              "url": "https://t.co/qeNz5risiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919249574218125394",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 40586,
+          "like_count": 764,
+          "quote_count": 8,
+          "reply_count": 4,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "#木木之兔 https://t.co/qeNz5risiN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo/🚪66",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 192,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 393
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-30T18:53:12.000Z",
+        "description": "木木之兔作者/ 小红书：木木之兔/木木和之兔，有不开心，来和兔说。人，兔兔很爱你！",
+        "id": "1719064901145202688",
+        "location": "Los Angeles, CA",
+        "name": "木木之兔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912374952524664832/3T4VbPUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3405,
+          "following_count": 1,
+          "like_count": 132,
+          "listed_count": 4,
+          "media_count": 30,
+          "tweet_count": 107
+        },
+        "username": "mumuwithrabbit",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1919288882065297785",
+    "created_at": "2025-05-05T07:11:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T08:11:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919288882065297785"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1919288882065297785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最终还是败给资本了，不知道是动了谁的蛋糕，蛋挞，蛋卷，巴斯克，巴巴露亚，芭菲，布丁，布蕾，千层，蒙布朗，布朗尼，泡芙，慕斯，舒芙蕾，松饼，可露丽，司康，派，巧克力，我的五一就这样逃走了，我承认，资本，你们赢了。😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1919288882065297785",
+        "created_at": "2025-05-05T07:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T08:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919288882065297785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919288882065297785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最终还是败给资本了，不知道是动了谁的蛋糕，蛋挞，蛋卷，巴斯克，巴巴露亚，芭菲，布丁，布蕾，千层，蒙布朗，布朗尼，泡芙，慕斯，舒芙蕾，松饼，可露丽，司康，派，巧克力，我的五一就这样逃走了，我承认，资本，你们赢了。😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo/🚪66",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 192,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 390
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

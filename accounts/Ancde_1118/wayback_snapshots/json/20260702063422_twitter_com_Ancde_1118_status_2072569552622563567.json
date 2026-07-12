@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2072380746745139600",
+    "created_at": "2026-07-02T06:34:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T07:34:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072569552622563567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2072375562291875840",
+          "start": 0,
+          "username": "xccpmc"
+        },
+        {
+          "end": 15,
+          "id": "1844356739539533829",
+          "start": 8,
+          "username": "xccpma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072569552622563567",
+    "in_reply_to_user_id": "2072375562291875840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072380746745139600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xccpmc @xccpma 我来互fo了！"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [xccpma].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "xccpma",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "xccpma"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072380737056296960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKTTOeaUAAYgpo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2072380746745139600",
+        "created_at": "2026-07-02T06:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T07:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072569552622563567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2072375562291875840",
+              "start": 0,
+              "username": "xccpmc"
+            },
+            {
+              "end": 15,
+              "id": "1844356739539533829",
+              "start": 8,
+              "username": "xccpma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072569552622563567",
+        "in_reply_to_user_id": "2072375562291875840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072380746745139600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xccpmc @xccpma 我来互fo了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072380737056296960"
+          ]
+        },
+        "author_id": "2072375562291875840",
+        "conversation_id": "2072380746745139600",
+        "created_at": "2026-07-01T18:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T19:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072380746745139600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1844356739539533829",
+              "start": 2,
+              "username": "xccpma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xoTH4wO16L",
+              "end": 87,
+              "expanded_url": "https://x.com/xccpmc/status/2072380746745139600/photo/1",
+              "media_key": "3_2072380737056296960",
+              "start": 64,
+              "url": "https://t.co/xoTH4wO16L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072380746745139600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 371,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "原号@xccpma 因药物分享被msk无情封禁，推友找回中\n\n法学在读，无偿提供各种法律和药物咨询，来者不拒哦🥰欢迎互fo交友 https://t.co/xoTH4wO16L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 665,
+          "like_count": 146,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 1553
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-01T17:45:42.000Z",
+        "description": "不要干这种事情，这都是要应验的（寻回互fo）",
+        "id": "2072375562291875840",
+        "name": "担麦人2.0",
+        "pinned_tweet_id": "2072380746745139600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072376257459957760/Ivizl5sZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 96,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "xccpmc",
+        "verified": false
+      }
+    ]
+  }
+}

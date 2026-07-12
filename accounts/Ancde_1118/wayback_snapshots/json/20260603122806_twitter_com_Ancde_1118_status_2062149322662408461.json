@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Jewelry",
+          "id": "845293633259552768",
+          "name": "Jewelry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Accessories",
+          "id": "846447164880433152",
+          "name": "Fashion accessories"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Jewelry",
+          "id": "845293633259552768",
+          "name": "Jewelry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Jewelry",
+          "id": "845293633259552768",
+          "name": "Jewelry"
+        }
+      }
+    ],
+    "conversation_id": "2061565839741182459",
+    "created_at": "2026-06-03T12:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062149322662408461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2046139534962790400",
+          "start": 0,
+          "username": "mong56055368154"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062149322662408461",
+    "in_reply_to_user_id": "2046139534962790400",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061565839741182459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mong56055368154 언니는 이미 아름다워서 제 약지에 반지를 끼게 되었습니다."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1318,
+        "media_key": "3_2061565837589491712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJwnNOaaMAARZN6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Jewelry",
+              "id": "845293633259552768",
+              "name": "Jewelry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Accessories",
+              "id": "846447164880433152",
+              "name": "Fashion accessories"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jewelry",
+              "id": "845293633259552768",
+              "name": "Jewelry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Jewelry",
+              "id": "845293633259552768",
+              "name": "Jewelry"
+            }
+          }
+        ],
+        "conversation_id": "2061565839741182459",
+        "created_at": "2026-06-03T12:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062149322662408461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046139534962790400",
+              "start": 0,
+              "username": "mong56055368154"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062149322662408461",
+        "in_reply_to_user_id": "2046139534962790400",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061565839741182459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mong56055368154 언니는 이미 아름다워서 제 약지에 반지를 끼게 되었습니다."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061565837589491712"
+          ]
+        },
+        "author_id": "2046139534962790400",
+        "conversation_id": "2061565839741182459",
+        "created_at": "2026-06-01T21:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T22:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061565839741182459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GYXUC5QoEZ",
+              "end": 49,
+              "expanded_url": "https://x.com/mong56055368154/status/2061565839741182459/photo/1",
+              "media_key": "3_2061565837589491712",
+              "start": 26,
+              "url": "https://t.co/GYXUC5QoEZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061565839741182459",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 754,
+          "impression_count": 866351,
+          "like_count": 18965,
+          "quote_count": 96,
+          "reply_count": 356,
+          "retweet_count": 1900
+        },
+        "reply_settings": "everyone",
+        "text": "중국인 언니들 말 겁나 웃기게 함ㅋㅋㅋㅋ\n🫶🫶 https://t.co/GYXUC5QoEZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 561,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1022
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T08:11:07.000Z",
+        "description": "초뎀 좋아요! 하트많아지면 찐따력 올라와서 튀어요\n담배펴요 보기 싫은 사람은 그냥 넘겨주세요,,🙇‍♀️ #트친구함 #섹트X남자X #정병 https://t.co/A4K9zC81Hz",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "트친구함"
+              },
+              {
+                "end": 71,
+                "start": 64,
+                "tag": "섹트X남자X"
+              },
+              {
+                "end": 75,
+                "start": 72,
+                "tag": "정병"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "asked.kr/s2_mong00",
+                "end": 99,
+                "expanded_url": "https://asked.kr/s2_mong00",
+                "start": 76,
+                "url": "https://t.co/A4K9zC81Hz"
+              }
+            ]
+          }
+        },
+        "id": "2046139534962790400",
+        "location": "♥︎소녀만 와 남자 싫어",
+        "name": "몽",
+        "pinned_tweet_id": "2061060905451110750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061421315597467648/gjt3kODx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 253,
+          "like_count": 6846,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1028
+        },
+        "username": "mong56055368154",
+        "verified": false
+      }
+    ]
+  }
+}

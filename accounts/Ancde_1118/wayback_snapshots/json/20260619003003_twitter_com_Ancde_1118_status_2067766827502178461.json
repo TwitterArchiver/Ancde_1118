@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2067766827502178461",
+    "created_at": "2026-06-19T00:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T01:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067766827502178461"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/m15642107811/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/m15642107811/status/2067279816806821981",
+          "start": 2,
+          "url": "https://t.co/dyWPkBM518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067766827502178461",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067279816806821981",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接 https://t.co/dyWPkBM518"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 837,
+        "media_key": "3_2067279704638558208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBz8D5bEAAi8_9.jpg",
+        "width": 821
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2067766827502178461",
+        "created_at": "2026-06-19T00:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T01:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067766827502178461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/m15642107811/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/m15642107811/status/2067279816806821981",
+              "start": 2,
+              "url": "https://t.co/dyWPkBM518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067766827502178461",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067279816806821981",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接 https://t.co/dyWPkBM518"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067279704638558208"
+          ]
+        },
+        "author_id": "1717086957002801152",
+        "conversation_id": "2067279816806821981",
+        "created_at": "2026-06-17T16:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067279816806821981"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "les"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "wlw"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "拉拉"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ORT6Or7sX3",
+              "end": 54,
+              "expanded_url": "https://x.com/m15642107811/status/2067279816806821981/photo/1",
+              "media_key": "3_2067279704638558208",
+              "start": 31,
+              "url": "https://t.co/ORT6Or7sX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067279816806821981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 17331,
+          "like_count": 68,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和别人约炮我就这样… #les #wlw #女同性恋 #拉拉 https://t.co/ORT6Or7sX3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 637,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 1342
+        },
+        "url": "",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-25T07:53:39.000Z",
+        "description": "les wlw 0.3sub 重生号 之前的号没了\n男的别打扰我\n没有主人没有妻子 作品是之前的",
+        "id": "1717086957002801152",
+        "name": "喜欢睡觉（重生版）",
+        "pinned_tweet_id": "2054954474972852628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041775447302897664/hoh_CnnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1871,
+          "following_count": 11,
+          "like_count": 47,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "m15642107811",
+        "verified": false
+      }
+    ]
+  }
+}

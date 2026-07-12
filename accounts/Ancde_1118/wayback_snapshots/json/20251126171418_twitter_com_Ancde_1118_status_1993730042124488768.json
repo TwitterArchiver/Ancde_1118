@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993730035703009284"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "conversation_id": "1993730042124488768",
+    "created_at": "2025-11-26T17:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T18:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993730042124488768"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/E6EIlHxpz2",
+          "end": 35,
+          "expanded_url": "https://x.com/Ancde_1118/status/1993730042124488768/photo/1",
+          "media_key": "3_1993730035703009284",
+          "start": 12,
+          "url": "https://t.co/E6EIlHxpz2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993730042124488768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "比食物更早出来的是眼泪 https://t.co/E6EIlHxpz2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1363,
+        "media_key": "3_1993730035703009284",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6sm53wa0AQ__7U.jpg",
+        "width": 1022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993730035703009284"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "conversation_id": "1993730042124488768",
+        "created_at": "2025-11-26T17:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T18:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993730042124488768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E6EIlHxpz2",
+              "end": 35,
+              "expanded_url": "https://x.com/Ancde_1118/status/1993730042124488768/photo/1",
+              "media_key": "3_1993730035703009284",
+              "start": 12,
+              "url": "https://t.co/E6EIlHxpz2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993730042124488768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比食物更早出来的是眼泪 https://t.co/E6EIlHxpz2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/tg@Sakura_sakura01118/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1993721402894238091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 428,
+          "like_count": 100,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 744
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

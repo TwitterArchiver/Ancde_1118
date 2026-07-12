@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1904875061913542718",
+    "created_at": "2025-03-27T18:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T19:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905332991532171458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1571735057332592640",
+          "start": 0,
+          "username": "rchngbngd1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905332991532171458",
+    "in_reply_to_user_id": "1571735057332592640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904875061913542718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rchngbngd1 主播求fo呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1904874953541115907",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm95rYNbYAMQGuu.jpg",
+        "width": 1722
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1904875061913542718",
+        "created_at": "2025-03-27T18:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T19:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905332991532171458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1571735057332592640",
+              "start": 0,
+              "username": "rchngbngd1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905332991532171458",
+        "in_reply_to_user_id": "1571735057332592640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904875061913542718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rchngbngd1 主播求fo呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904874953541115907"
+          ]
+        },
+        "author_id": "1571735057332592640",
+        "conversation_id": "1904875061913542718",
+        "created_at": "2025-03-26T12:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T13:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904875061913542718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n1va7xg198",
+              "end": 52,
+              "expanded_url": "https://x.com/rchngbngd1/status/1904875061913542718/photo/1",
+              "media_key": "3_1904874953541115907",
+              "start": 29,
+              "url": "https://t.co/n1va7xg198"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904875061913542718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3792,
+          "like_count": 81,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我是柏一\n你说什么都对所以就这样\n小女孩互fo大欢迎:P https://t.co/n1va7xg198"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒中 od/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 127,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 217
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-19T05:37:08.000Z",
+        "description": "双相/自伤癖  扩列请小窗",
+        "id": "1571735057332592640",
+        "name": "放松下",
+        "pinned_tweet_id": "1904875061913542718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905238294193164288/gLcBrVA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 261,
+          "like_count": 1118,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 498
+        },
+        "username": "rchngbngd1",
+        "verified": false
+      }
+    ]
+  }
+}

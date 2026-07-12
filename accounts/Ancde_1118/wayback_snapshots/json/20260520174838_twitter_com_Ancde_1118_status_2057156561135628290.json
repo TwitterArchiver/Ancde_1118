@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2057156561135628290",
+    "created_at": "2026-05-20T17:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T18:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057156561135628290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/winterfruit_1/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/winterfruit_1/status/2056845237323206972",
+          "start": 2,
+          "url": "https://t.co/vUiX7BrfSf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057156561135628290",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056845237323206972",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接 https://t.co/vUiX7BrfSf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2057156561135628290",
+        "created_at": "2026-05-20T17:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057156561135628290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/2056845237323206972",
+              "start": 2,
+              "url": "https://t.co/vUiX7BrfSf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057156561135628290",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056845237323206972",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接 https://t.co/vUiX7BrfSf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2056845237323206972",
+        "created_at": "2026-05-19T21:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T22:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056845237323206972"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056845237323206972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 11704,
+          "like_count": 270,
+          "quote_count": 6,
+          "reply_count": 80,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "说谎的人要吞一千片右美沙芬哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我是双性恋/tg@Sakura_sakura01118/我想交朋友 可以找我互fo/可以找我买电子烟",
+        "id": "1778719380639014913",
+        "name": "Sakura（烟代版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 439,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 826
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2606,
+          "following_count": 1490,
+          "like_count": 41761,
+          "listed_count": 6,
+          "media_count": 1818,
+          "tweet_count": 12357
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

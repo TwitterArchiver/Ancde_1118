@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066970748875325440",
+        "3_2066970748900556800",
+        "3_2066970748875419650"
+      ],
+      "media_source_tweet_id": [
+        "2066970763534479852",
+        "2066970763534479852",
+        "2066970763534479852"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2067064879547355366",
+    "created_at": "2026-06-17T02:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T03:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067064879547355366"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 73,
+          "start": 70,
+          "tag": "门槛"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2042473726986391552",
+          "start": 3,
+          "username": "camelliasjcd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/psCvMaFcRN",
+          "end": 97,
+          "expanded_url": "https://x.com/camelliasjcd/status/2066970763534479852/photo/1",
+          "media_key": "3_2066970748875325440",
+          "start": 74,
+          "url": "https://t.co/psCvMaFcRN"
+        },
+        {
+          "display_url": "pic.x.com/psCvMaFcRN",
+          "end": 97,
+          "expanded_url": "https://x.com/camelliasjcd/status/2066970763534479852/photo/1",
+          "media_key": "3_2066970748900556800",
+          "start": 74,
+          "url": "https://t.co/psCvMaFcRN"
+        },
+        {
+          "display_url": "pic.x.com/psCvMaFcRN",
+          "end": 97,
+          "expanded_url": "https://x.com/camelliasjcd/status/2066970763534479852/photo/1",
+          "media_key": "3_2066970748875419650",
+          "start": 74,
+          "url": "https://t.co/psCvMaFcRN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067064879547355366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066970763534479852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @camelliasjcd: 欢迎小女孩找我互fo\n128🚪好友位\n200🚪开放朋友圈\n520 🚪半个月电子女友会主动发信息分享日常\n#门槛 https://t.co/psCvMaFcRN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1645,
+        "media_key": "3_2066970748875325440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9a8d_WQAA63HS.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066970748900556800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9a8eFXQAA42da.jpg",
+        "width": 1647
+      },
+      {
+        "height": 855,
+        "media_key": "3_2066970748875419650",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9a8d_XsAIYlhC.jpg",
+        "width": 863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066970748875325440",
+            "3_2066970748900556800",
+            "3_2066970748875419650"
+          ],
+          "media_source_tweet_id": [
+            "2066970763534479852",
+            "2066970763534479852",
+            "2066970763534479852"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067064879547355366",
+        "created_at": "2026-06-17T02:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T03:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067064879547355366"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "门槛"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2042473726986391552",
+              "start": 3,
+              "username": "camelliasjcd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/psCvMaFcRN",
+              "end": 97,
+              "expanded_url": "https://x.com/camelliasjcd/status/2066970763534479852/photo/1",
+              "media_key": "3_2066970748875325440",
+              "start": 74,
+              "url": "https://t.co/psCvMaFcRN"
+            },
+            {
+              "display_url": "pic.x.com/psCvMaFcRN",
+              "end": 97,
+              "expanded_url": "https://x.com/camelliasjcd/status/2066970763534479852/photo/1",
+              "media_key": "3_2066970748900556800",
+              "start": 74,
+              "url": "https://t.co/psCvMaFcRN"
+            },
+            {
+              "display_url": "pic.x.com/psCvMaFcRN",
+              "end": 97,
+              "expanded_url": "https://x.com/camelliasjcd/status/2066970763534479852/photo/1",
+              "media_key": "3_2066970748875419650",
+              "start": 74,
+              "url": "https://t.co/psCvMaFcRN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067064879547355366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066970763534479852",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @camelliasjcd: 欢迎小女孩找我互fo\n128🚪好友位\n200🚪开放朋友圈\n520 🚪半个月电子女友会主动发信息分享日常\n#门槛 https://t.co/psCvMaFcRN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066970748875325440",
+            "3_2066970748900556800",
+            "3_2066970748875419650"
+          ]
+        },
+        "author_id": "2042473726986391552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066970763534479852",
+        "created_at": "2026-06-16T19:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T20:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066970763534479852"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "门槛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/psCvMaFcRN",
+              "end": 79,
+              "expanded_url": "https://x.com/camelliasjcd/status/2066970763534479852/photo/1",
+              "media_key": "3_2066970748875325440",
+              "start": 56,
+              "url": "https://t.co/psCvMaFcRN"
+            },
+            {
+              "display_url": "pic.x.com/psCvMaFcRN",
+              "end": 79,
+              "expanded_url": "https://x.com/camelliasjcd/status/2066970763534479852/photo/1",
+              "media_key": "3_2066970748900556800",
+              "start": 56,
+              "url": "https://t.co/psCvMaFcRN"
+            },
+            {
+              "display_url": "pic.x.com/psCvMaFcRN",
+              "end": 79,
+              "expanded_url": "https://x.com/camelliasjcd/status/2066970763534479852/photo/1",
+              "media_key": "3_2066970748875419650",
+              "start": 56,
+              "url": "https://t.co/psCvMaFcRN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066970763534479852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎小女孩找我互fo\n128🚪好友位\n200🚪开放朋友圈\n520 🚪半个月电子女友会主动发信息分享日常\n#门槛 https://t.co/psCvMaFcRN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 627,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 1292
+        },
+        "url": "",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T05:27:45.000Z",
+        "description": "这里是茶花 📍15r 可以口令或者赞赏码",
+        "id": "2042473726986391552",
+        "name": "camellia",
+        "pinned_tweet_id": "2066926272589000924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042474873834840064/tdbdQmo5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "camelliasjcd",
+        "verified": false
+      }
+    ]
+  }
+}

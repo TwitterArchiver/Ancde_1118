@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1960011180447236443",
+    "created_at": "2025-08-26T03:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T04:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960187830451507317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1936800973428752384",
+          "start": 0,
+          "username": "Miao012722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960187830451507317",
+    "in_reply_to_user_id": "1936800973428752384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960030311645081651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miao012722 受伤了！擦药了 现在还是好痛呜呜😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1960011180447236443",
+        "created_at": "2025-08-26T03:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T04:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960187830451507317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1936800973428752384",
+              "start": 0,
+              "username": "Miao012722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960187830451507317",
+        "in_reply_to_user_id": "1936800973428752384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960030311645081651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miao012722 受伤了！擦药了 现在还是好痛呜呜😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936800973428752384",
+        "conversation_id": "1960011180447236443",
+        "created_at": "2025-08-25T17:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T18:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960030311645081651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778719380639014913",
+              "start": 0,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960030311645081651",
+        "in_reply_to_user_id": "1778719380639014913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960011180447236443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ancde_1118 宝宝你受伤了没？有没有擦药？伤好点了没？🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1937294030800585027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 297,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 610
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T14:58:42.000Z",
+        "description": "INFP双子 每天高强度口嗨和互动 称呼我shea/shay/纸巾（哪个都可以，反正读音相同🤣）宝宝们想倾诉想分享想聊天都可以私信我哦！我可以作为你的树洞🥺🫶我看到我会聊的！！陌生人也可以！没回消息没互动的时候可能在看小说📖📚也可能是专注于现生😄🤲",
+        "id": "1936800973428752384",
+        "location": "田螺黑洞",
+        "name": "shea（蜜瓜教大护法）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958520136446730240/BpKUoIqY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 151,
+          "like_count": 2784,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 2195
+        },
+        "username": "Miao012722",
+        "verified": false
+      }
+    ]
+  }
+}

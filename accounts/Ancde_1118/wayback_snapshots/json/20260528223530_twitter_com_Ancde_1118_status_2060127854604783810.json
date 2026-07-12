@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2060020315770773920",
+    "created_at": "2026-05-28T22:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T23:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060127854604783810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2020861720437354496",
+          "start": 0,
+          "username": "yflnz_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060127854604783810",
+    "in_reply_to_user_id": "2020861720437354496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060020315770773920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yflnz_ 現在はすでに午前6時です。私は徹夜の人です┏ (^ω^)=、ぜひたくさんチャットしてくださいね"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2060020315770773920",
+        "created_at": "2026-05-28T22:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T23:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060127854604783810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2020861720437354496",
+              "start": 0,
+              "username": "yflnz_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060127854604783810",
+        "in_reply_to_user_id": "2020861720437354496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060020315770773920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yflnz_ 現在はすでに午前6時です。私は徹夜の人です┏ (^ω^)=、ぜひたくさんチャットしてくださいね"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020861720437354496",
+        "conversation_id": "2060020315770773920",
+        "created_at": "2026-05-28T15:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060020315770773920"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060020315770773920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1068,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "俺に夜行性の友達ください。夜中に沢山話してくれる人どこ？居たりしますか？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我是双性恋/tg@Sakura_sakura01118/我想交朋友 可以找我互fo/可以找我买电子烟",
+        "id": "1778719380639014913",
+        "name": "Sakura（烟代版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 496,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 921
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T14:06:15.000Z",
+        "description": "@7958n_ 別垢♡@nlhq8🗝@hhxyn_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "7958n_"
+              },
+              {
+                "end": 17,
+                "start": 11,
+                "username": "nlhq8"
+              },
+              {
+                "end": 25,
+                "start": 18,
+                "username": "hhxyn_"
+              }
+            ]
+          }
+        },
+        "id": "2020861720437354496",
+        "location": "俺の通知付けてね",
+        "name": "せふ",
+        "pinned_tweet_id": "2058545831054303397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020863251270283264/79tsYnjs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2188,
+          "following_count": 62,
+          "like_count": 9532,
+          "listed_count": 3,
+          "media_count": 33,
+          "tweet_count": 587
+        },
+        "username": "yflnz_",
+        "verified": false
+      }
+    ]
+  }
+}

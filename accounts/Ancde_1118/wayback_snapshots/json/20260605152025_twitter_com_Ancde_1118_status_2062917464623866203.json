@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2062917464623866203",
+    "created_at": "2026-06-05T15:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062917464623866203"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mmko_or/status…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/mmko_or/status/2062481960040308939",
+          "start": 3,
+          "url": "https://t.co/0gCrEer4qE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062917464623866203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062481960040308939",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯对 https://t.co/0gCrEer4qE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2062917464623866203",
+        "created_at": "2026-06-05T15:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062917464623866203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mmko_or/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/mmko_or/status/2062481960040308939",
+              "start": 3,
+              "url": "https://t.co/0gCrEer4qE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062917464623866203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062481960040308939",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯对 https://t.co/0gCrEer4qE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "838269820843896832",
+        "conversation_id": "2062481960040308939",
+        "created_at": "2026-06-04T10:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062481960040308939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062481960040308939",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 36188,
+          "like_count": 1318,
+          "quote_count": 27,
+          "reply_count": 3,
+          "retweet_count": 184
+        },
+        "reply_settings": "everyone",
+        "text": "好きな人の好きな人になりたいね"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 562,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1055
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-05T06:07:54.000Z",
+        "description": "",
+        "id": "838269820843896832",
+        "location": "恋愛で悩む人への手助け🕊️",
+        "name": "佐野くん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1493966127097344000/oBO0TtRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 3,
+          "like_count": 393,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 63
+        },
+        "username": "mmko_or",
+        "verified": false
+      }
+    ]
+  }
+}

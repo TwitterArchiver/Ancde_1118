@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1930157471202717944",
+    "created_at": "2025-06-04T06:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T07:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930157471202717944"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1930157471202717944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个世界总会用不同的痛来折磨我，我不断的挣扎也没无济于事，因为这些痛都是我活该的，不论多么痛苦，都熬下来了不是吗，每天都只想叹气，眼泪又控制不住了，熟悉的梗塞感在喉咙，说不出话只一味的擦这好像永远流不完的眼泪。杀了我吧，用什么东西杀死我吧，让我解脱，让我摆脱钻心刺骨的痛。唉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1930157471202717944",
+        "created_at": "2025-06-04T06:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T07:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930157471202717944"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1930157471202717944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个世界总会用不同的痛来折磨我，我不断的挣扎也没无济于事，因为这些痛都是我活该的，不论多么痛苦，都熬下来了不是吗，每天都只想叹气，眼泪又控制不住了，熟悉的梗塞感在喉咙，说不出话只一味的擦这好像永远流不完的眼泪。杀了我吧，用什么东西杀死我吧，让我解脱，让我摆脱钻心刺骨的痛。唉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 208,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 437
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

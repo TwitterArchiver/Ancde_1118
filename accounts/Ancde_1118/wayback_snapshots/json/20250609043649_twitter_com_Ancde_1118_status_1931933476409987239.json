@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931933470131200000"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "conversation_id": "1931933476409987239",
+    "created_at": "2025-06-09T04:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T05:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931933476409987239"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EYKuqOkyh5",
+          "end": 52,
+          "expanded_url": "https://x.com/Ancde_1118/status/1931933476409987239/photo/1",
+          "media_key": "3_1931933470131200000",
+          "start": 29,
+          "url": "https://t.co/EYKuqOkyh5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931933476409987239",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又降了一百块了 操你妈降价也买不起呀。。好想要电动车。。 https://t.co/EYKuqOkyh5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 429,
+        "media_key": "3_1931933470131200000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs-bQVjboAAH-pe.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931933470131200000"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "conversation_id": "1931933476409987239",
+        "created_at": "2025-06-09T04:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T05:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931933476409987239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EYKuqOkyh5",
+              "end": 52,
+              "expanded_url": "https://x.com/Ancde_1118/status/1931933476409987239/photo/1",
+              "media_key": "3_1931933470131200000",
+              "start": 29,
+              "url": "https://t.co/EYKuqOkyh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931933476409987239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又降了一百块了 操你妈降价也买不起呀。。好想要电动车。。 https://t.co/EYKuqOkyh5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 225,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 443
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1935262245900231078",
+    "created_at": "2025-06-18T09:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T10:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935262245900231078"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1935262245900231078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨晚吃了0.8g阿普唑伦600mg喹硫平8mg劳拉 今天一点醒了一回 三点醒了一回 四点醒了一回 五点又醒了一回 睡眠质量越来越差了 药量越来越多 睡眠时间越来越短 不知道今晚要吃多少才能有一个很好的睡眠呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1935262245900231078",
+        "created_at": "2025-06-18T09:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T10:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935262245900231078"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935262245900231078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚吃了0.8g阿普唑伦600mg喹硫平8mg劳拉 今天一点醒了一回 三点醒了一回 四点醒了一回 五点又醒了一回 睡眠质量越来越差了 药量越来越多 睡眠时间越来越短 不知道今晚要吃多少才能有一个很好的睡眠呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 235,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 472
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

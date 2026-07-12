@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1953472985685463048",
+    "created_at": "2025-08-07T15:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T16:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953472985685463048"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1953472985685463048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想要有一个自己的家\n我想能有一个自己的容身之处\n它不止能容纳我的肉体 也得容纳我的眼泪\n我需要一个能让我完全放声大哭的空间\n让我释放让我发泄 就这样哭 把眼泪哭干\n我需要一个家 \n一个回去以后就卸下所有包袱的地方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1953472985685463048",
+        "created_at": "2025-08-07T15:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T16:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953472985685463048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953472985685463048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想要有一个自己的家\n我想能有一个自己的容身之处\n它不止能容纳我的肉体 也得容纳我的眼泪\n我需要一个能让我完全放声大哭的空间\n让我释放让我发泄 就这样哭 把眼泪哭干\n我需要一个家 \n一个回去以后就卸下所有包袱的地方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1937294030800585027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 261,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 581
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

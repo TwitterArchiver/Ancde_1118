@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064198601413431296"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "conversation_id": "2064198661299642681",
+    "created_at": "2026-06-09T04:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T05:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064198661299642681"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pvpOAOglhf",
+          "end": 40,
+          "expanded_url": "https://x.com/Ancde_1118/status/2064198661299642681/video/1",
+          "media_key": "13_2064198601413431296",
+          "start": 17,
+          "url": "https://t.co/pvpOAOglhf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064198661299642681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给一点吧就给一点吧 讨口子来了😭 https://t.co/pvpOAOglhf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25933,
+        "height": 894,
+        "media_key": "13_2064198601413431296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064198601413431296/img/M3LYrhnV8TiD13_R.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064198601413431296/vid/avc1/320x396/bt7yD2v7MLC920y3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064198601413431296/vid/avc1/480x596/LxpPWUTu2ByCXjSl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064198601413431296/vid/avc1/720x894/mmHoSVjCGEH2g0kZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064198601413431296/pl/OdXKXlkScZJ8-yS8.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064198601413431296"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "conversation_id": "2064198661299642681",
+        "created_at": "2026-06-09T04:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064198661299642681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pvpOAOglhf",
+              "end": 40,
+              "expanded_url": "https://x.com/Ancde_1118/status/2064198661299642681/video/1",
+              "media_key": "13_2064198601413431296",
+              "start": 17,
+              "url": "https://t.co/pvpOAOglhf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064198661299642681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给一点吧就给一点吧 讨口子来了😭 https://t.co/pvpOAOglhf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 611,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1160
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

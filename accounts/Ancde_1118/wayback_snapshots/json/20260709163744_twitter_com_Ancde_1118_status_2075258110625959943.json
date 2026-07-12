@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2075258110625959943",
+    "created_at": "2026-07-09T16:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T17:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075258110625959943"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kotoro0223/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/kotoro0223/status/2074915210612375786",
+          "start": 6,
+          "url": "https://t.co/nlEmRkrD4U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075258110625959943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074915210612375786",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老子就这样 https://t.co/nlEmRkrD4U"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2075258110625959943",
+        "created_at": "2026-07-09T16:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075258110625959943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kotoro0223/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/kotoro0223/status/2074915210612375786",
+              "start": 6,
+              "url": "https://t.co/nlEmRkrD4U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075258110625959943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074915210612375786",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老子就这样 https://t.co/nlEmRkrD4U"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153373316977176576",
+        "conversation_id": "2074915210612375786",
+        "created_at": "2026-07-08T17:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074915210612375786"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074915210612375786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3867,
+          "like_count": 76,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "偷偷记恨别人，又淡淡地原谅，但其实内心一整套戏下来，人家根本都不知道你又在作什么妖。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 672,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 1644
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-22T18:36:42.000Z",
+        "description": "我只是一个乖乖的女孩 请不要欺负我",
+        "id": "1153373316977176576",
+        "location": "你心里",
+        "name": "kotoro",
+        "pinned_tweet_id": "2064938939014951381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791919850358775808/Ba0MfyyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4291,
+          "following_count": 87,
+          "like_count": 1111,
+          "listed_count": 4,
+          "media_count": 199,
+          "tweet_count": 1054
+        },
+        "url": "",
+        "username": "kotoro0223",
+        "verified": false
+      }
+    ]
+  }
+}

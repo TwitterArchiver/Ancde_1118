@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993721393738022913"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "conversation_id": "1993721402894238091",
+    "created_at": "2025-11-26T16:39:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T17:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993721402894238091"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/08sHjB07s7",
+          "end": 169,
+          "expanded_url": "https://x.com/Ancde_1118/status/1993721402894238091/photo/1",
+          "media_key": "3_1993721393738022913",
+          "start": 146,
+          "url": "https://t.co/08sHjB07s7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993721402894238091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自介条\n08/我有双相 精分 重焦 ed\n我是穿孔师 关于穿孔的都可以问我\n\nଘ*⑅┈⋆°˖ ┈ ୨୧ ┈°⋆┈⑅*ଓ\n\n🚪52纯绿聊天开放朋友圈自拍\n女孩子免🚪\n\n.｡✩⁺˚♪º·˚﹒ ᶻ ᶻ ᶻ\n\n本人还要上学了TT\n喜欢发一些有的没的 喜欢发自残血图\n我很好说话 欢迎女孩子和我互fo https://t.co/08sHjB07s7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "3_1993721393738022913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6sfC17aAAE2_4U.jpg",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993721393738022913"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "conversation_id": "1993721402894238091",
+        "created_at": "2025-11-26T16:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T17:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993721402894238091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/08sHjB07s7",
+              "end": 169,
+              "expanded_url": "https://x.com/Ancde_1118/status/1993721402894238091/photo/1",
+              "media_key": "3_1993721393738022913",
+              "start": 146,
+              "url": "https://t.co/08sHjB07s7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993721402894238091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自介条\n08/我有双相 精分 重焦 ed\n我是穿孔师 关于穿孔的都可以问我\n\nଘ*⑅┈⋆°˖ ┈ ୨୧ ┈°⋆┈⑅*ଓ\n\n🚪52纯绿聊天开放朋友圈自拍\n女孩子免🚪\n\n.｡✩⁺˚♪º·˚﹒ ᶻ ᶻ ᶻ\n\n本人还要上学了TT\n喜欢发一些有的没的 喜欢发自残血图\n我很好说话 欢迎女孩子和我互fo https://t.co/08sHjB07s7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/tg@Sakura_sakura01118/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1990862354285015102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 427,
+          "like_count": 98,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 740
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

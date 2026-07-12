@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1908179774121619889",
+    "created_at": "2025-04-04T15:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T16:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908179774121619889"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rchngbngd1/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/rchngbngd1/status/1907806848998322655",
+          "start": 9,
+          "url": "https://t.co/dsu4RHCfcv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908179774121619889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907806848998322655",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是个很棒的女孩 https://t.co/dsu4RHCfcv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1907806848998322655].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1907806848998322655",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1907806848998322655"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1908179774121619889",
+        "created_at": "2025-04-04T15:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T16:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908179774121619889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rchngbngd1/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/rchngbngd1/status/1907806848998322655",
+              "start": 9,
+              "url": "https://t.co/dsu4RHCfcv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908179774121619889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907806848998322655",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是个很棒的女孩 https://t.co/dsu4RHCfcv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒中 od/双性恋/1i/4i/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 142,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 282
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

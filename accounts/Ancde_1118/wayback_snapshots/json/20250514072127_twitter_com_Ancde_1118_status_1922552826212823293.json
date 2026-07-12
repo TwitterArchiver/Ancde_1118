@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1922552826212823293",
+    "created_at": "2025-05-14T07:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T08:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922552826212823293"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1922552826212823293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想要的一直都很简单，是一晚又一晚推心置腹的长夜慢谈，是一双平静而又温柔望向我的眼睛，是轻抚我泪痕随后紧紧抱住我的一双手，是突然变出来的我上次随口一提的小玩意儿，是深夜发自肺腑的一段文字，是无论如何都会偏向我...其实一点也不简单，我不奢望了，我只是好想叹气，唉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1922552826212823293",
+        "created_at": "2025-05-14T07:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T08:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922552826212823293"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922552826212823293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想要的一直都很简单，是一晚又一晚推心置腹的长夜慢谈，是一双平静而又温柔望向我的眼睛，是轻抚我泪痕随后紧紧抱住我的一双手，是突然变出来的我上次随口一提的小玩意儿，是深夜发自肺腑的一段文字，是无论如何都会偏向我...其实一点也不简单，我不奢望了，我只是好想叹气，唉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo/🚪66",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 204,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 412
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

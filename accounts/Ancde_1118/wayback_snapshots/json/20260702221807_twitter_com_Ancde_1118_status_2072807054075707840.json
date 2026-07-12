@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2072623884747395251",
+    "created_at": "2026-07-02T22:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T23:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072807054075707840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2024859435638902784",
+          "start": 0,
+          "username": "soto06820"
+        },
+        {
+          "end": 20,
+          "id": "2021843969882435587",
+          "start": 11,
+          "username": "sijd1014"
+        },
+        {
+          "end": 37,
+          "id": "1852895432269234176",
+          "start": 21,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072807054075707840",
+    "in_reply_to_user_id": "2024859435638902784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072805982116397222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soto06820 @sijd1014 @432Ifantrygroup 这是粤语"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2072623884747395251",
+        "created_at": "2026-07-02T22:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T23:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072807054075707840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2024859435638902784",
+              "start": 0,
+              "username": "soto06820"
+            },
+            {
+              "end": 20,
+              "id": "2021843969882435587",
+              "start": 11,
+              "username": "sijd1014"
+            },
+            {
+              "end": 37,
+              "id": "1852895432269234176",
+              "start": 21,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072807054075707840",
+        "in_reply_to_user_id": "2024859435638902784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072805982116397222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soto06820 @sijd1014 @432Ifantrygroup 这是粤语"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024859435638902784",
+        "conversation_id": "2072623884747395251",
+        "created_at": "2026-07-02T22:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T23:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072805982116397222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2021843969882435587",
+              "start": 0,
+              "username": "sijd1014"
+            },
+            {
+              "end": 26,
+              "id": "1852895432269234176",
+              "start": 10,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072805982116397222",
+        "in_reply_to_user_id": "2021843969882435587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072794307652723184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sijd1014 @432Ifantrygroup ？野人吗在叽里咕噜什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 669,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 1566
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T14:51:47.000Z",
+        "description": "Like badminton",
+        "id": "2024859435638902784",
+        "name": "徐soto",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024859647371517952/k2Rkg0o-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 292,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 392
+        },
+        "url": "",
+        "username": "soto06820",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T07:09:15.000Z",
+        "description": "荷蘭籍/三超級大國在政治上都不喜歡/粵語 普通話 EN/反戰偏右/支持任何意識形態/不是台灣人/我媽齊心歡迎來操/正常人互fo/客觀平靜討論 /家裡有所謂的共產黨高幹和民國領導人/叫我時間就好\n🇳🇱🇪🇺🇭🇰🇹🇼",
+        "id": "2021843969882435587",
+        "location": "荷蘭林堡",
+        "name": "tijd de duivel",
+        "pinned_tweet_id": "2022652816540815589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068742773050654720/GvjRaHF5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 192,
+          "like_count": 722,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1009
+        },
+        "url": "",
+        "username": "sijd1014",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment（8964）",
+        "pinned_tweet_id": "2071983805750276470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 4227,
+          "like_count": 45057,
+          "listed_count": 4,
+          "media_count": 542,
+          "tweet_count": 13011
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1982141961822748736",
+    "created_at": "2025-10-25T17:47:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T18:47:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982141961822748736"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1982141961822748736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "逃避所有人的时候，你是否就安全了。沉默，失语，不辩解，不靠近，像一条悄然滑入深海的鱼，以为沉入更暗的水域便能藏住一切。可那里太静了，静得只能听见自己的心跳，一声一声，像氧气从肺里一点点逃走。孤独是痛的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1982141961822748736",
+        "created_at": "2025-10-25T17:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T18:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982141961822748736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982141961822748736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逃避所有人的时候，你是否就安全了。沉默，失语，不辩解，不靠近，像一条悄然滑入深海的鱼，以为沉入更暗的水域便能藏住一切。可那里太静了，静得只能听见自己的心跳，一声一声，像氧气从肺里一点点逃走。孤独是痛的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1937294030800585027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 317,
+          "like_count": 57,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 681
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

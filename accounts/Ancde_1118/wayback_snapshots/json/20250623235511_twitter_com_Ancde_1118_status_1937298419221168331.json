@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1937022532017938582",
+    "created_at": "2025-06-23T23:55:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T00:55:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937298419221168331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1165858346378747906",
+          "start": 0,
+          "username": "4DangJia"
+        },
+        {
+          "end": 20,
+          "id": "1450339936444452868",
+          "start": 10,
+          "username": "HMFQingQu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937298419221168331",
+    "in_reply_to_user_id": "1165858346378747906",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937022532017938582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4DangJia @HMFQingQu 蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1937022164022001665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuGvZTiXAAEcN4p.jpg",
+        "width": 800
+      },
+      {
+        "height": 800,
+        "media_key": "3_1937022169256509440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuGvZnCXQAAwNiE.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1937022532017938582",
+        "created_at": "2025-06-23T23:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T00:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937298419221168331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1165858346378747906",
+              "start": 0,
+              "username": "4DangJia"
+            },
+            {
+              "end": 20,
+              "id": "1450339936444452868",
+              "start": 10,
+              "username": "HMFQingQu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937298419221168331",
+        "in_reply_to_user_id": "1165858346378747906",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937022532017938582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4DangJia @HMFQingQu 蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937022164022001665",
+            "3_1937022169256509440"
+          ]
+        },
+        "author_id": "1165858346378747906",
+        "conversation_id": "1937022532017938582",
+        "created_at": "2025-06-23T05:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T06:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937022532017938582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1450339936444452868",
+              "start": 28,
+              "username": "HMFQingQu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DzpJ6y53aa",
+              "end": 89,
+              "expanded_url": "https://x.com/4DangJia/status/1937022532017938582/photo/1",
+              "media_key": "3_1937022164022001665",
+              "start": 66,
+              "url": "https://t.co/DzpJ6y53aa"
+            },
+            {
+              "display_url": "pic.x.com/DzpJ6y53aa",
+              "end": 89,
+              "expanded_url": "https://x.com/4DangJia/status/1937022532017938582/photo/1",
+              "media_key": "3_1937022169256509440",
+              "start": 66,
+              "url": "https://t.co/DzpJ6y53aa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937022532017938582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11229,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 98,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "给大家推荐一款超可爱的玩具【popocat】\n 关注我和@HMFQingQu（红磨坊情趣） \n【转发+评论抽一个同款】\n周日开奖！ https://t.co/DzpJ6y53aa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1937294030800585027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 239,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 499
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-26T05:28:10.000Z",
+        "description": "谢谢你的关注\n防走丢@hrbc0820\n【匿名箱】https://t.co/LyxvrOOja3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "hrbc0820"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hrbc0820",
+                "end": 48,
+                "expanded_url": "https://ngl.link/hrbc0820",
+                "start": 25,
+                "url": "https://t.co/LyxvrOOja3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sidangjia.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://sidangjia.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/wPS2vSYYwr"
+              }
+            ]
+          }
+        },
+        "id": "1165858346378747906",
+        "location": "🚪52",
+        "name": "四当家",
+        "pinned_tweet_id": "1905146793870139735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922747560290287619/ivxVSQ46_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20442,
+          "following_count": 79,
+          "like_count": 1642,
+          "listed_count": 36,
+          "media_count": 251,
+          "tweet_count": 574
+        },
+        "url": "https://t.co/wPS2vSYYwr",
+        "username": "4DangJia",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-19T05:57:01.000Z",
+        "description": "贩卖快乐！\n\n天猫：红磨坊成人用品专营店\n微博：开往红磨坊\nB站：艳光四射红磨坊\n小红书：popocat猫猫队长",
+        "id": "1450339936444452868",
+        "name": "红磨坊情趣",
+        "pinned_tweet_id": "1927942848374030442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1450340242955792392/JZ7gNcFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 66,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 58
+        },
+        "username": "HMFQingQu",
+        "verified": false
+      }
+    ]
+  }
+}

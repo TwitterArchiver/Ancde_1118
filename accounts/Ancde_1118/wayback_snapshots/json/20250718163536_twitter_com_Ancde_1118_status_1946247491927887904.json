@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946247475133554697"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1946247491927887904",
+    "created_at": "2025-07-18T16:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T17:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946247491927887904"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VPDu0yhvrG",
+          "end": 28,
+          "expanded_url": "https://x.com/Ancde_1118/status/1946247491927887904/photo/1",
+          "media_key": "3_1946247475133554697",
+          "start": 5,
+          "url": "https://t.co/VPDu0yhvrG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946247491927887904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 10,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "像低温蜡 https://t.co/VPDu0yhvrG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946247475133554697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwJ1xFhWIAkT1N0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946247475133554697"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1946247491927887904",
+        "created_at": "2025-07-18T16:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T17:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946247491927887904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VPDu0yhvrG",
+              "end": 28,
+              "expanded_url": "https://x.com/Ancde_1118/status/1946247491927887904/photo/1",
+              "media_key": "3_1946247475133554697",
+              "start": 5,
+              "url": "https://t.co/VPDu0yhvrG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946247491927887904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像低温蜡 https://t.co/VPDu0yhvrG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1937294030800585027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 252,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 539
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

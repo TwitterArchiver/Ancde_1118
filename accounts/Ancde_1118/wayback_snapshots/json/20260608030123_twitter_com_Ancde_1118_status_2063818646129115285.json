@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2060323322676863455",
+    "created_at": "2026-06-08T03:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063818646129115285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1967257406129504256",
+          "start": 0,
+          "username": "Zdu1279757"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063818646129115285",
+    "in_reply_to_user_id": "1967257406129504256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060323322676863455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zdu1279757 来fo了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1364,
+        "media_key": "3_2060323007927848962",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe83BIakAI6qKD.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2060323035203387392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe84mvaQAAjN1l.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2060323087464464384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe87pbbAAA9sQ-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1034,
+        "media_key": "3_2060323310328791040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe9InqawAAEtMP.jpg",
+        "width": 1034
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2060323322676863455",
+        "created_at": "2026-06-08T03:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063818646129115285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1967257406129504256",
+              "start": 0,
+              "username": "Zdu1279757"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063818646129115285",
+        "in_reply_to_user_id": "1967257406129504256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060323322676863455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zdu1279757 来fo了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060323007927848962",
+            "3_2060323035203387392",
+            "3_2060323087464464384",
+            "3_2060323310328791040"
+          ]
+        },
+        "author_id": "1967257406129504256",
+        "conversation_id": "2060323322676863455",
+        "created_at": "2026-05-29T11:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060323322676863455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MJOMmToQUD",
+              "end": 89,
+              "expanded_url": "https://x.com/Zdu1279757/status/2060323322676863455/photo/1",
+              "media_key": "3_2060323007927848962",
+              "start": 66,
+              "url": "https://t.co/MJOMmToQUD"
+            },
+            {
+              "display_url": "pic.x.com/MJOMmToQUD",
+              "end": 89,
+              "expanded_url": "https://x.com/Zdu1279757/status/2060323322676863455/photo/1",
+              "media_key": "3_2060323035203387392",
+              "start": 66,
+              "url": "https://t.co/MJOMmToQUD"
+            },
+            {
+              "display_url": "pic.x.com/MJOMmToQUD",
+              "end": 89,
+              "expanded_url": "https://x.com/Zdu1279757/status/2060323322676863455/photo/1",
+              "media_key": "3_2060323087464464384",
+              "start": 66,
+              "url": "https://t.co/MJOMmToQUD"
+            },
+            {
+              "display_url": "pic.x.com/MJOMmToQUD",
+              "end": 89,
+              "expanded_url": "https://x.com/Zdu1279757/status/2060323322676863455/photo/1",
+              "media_key": "3_2060323310328791040",
+              "start": 66,
+              "url": "https://t.co/MJOMmToQUD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060323322676863455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5796,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 71,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "重新发个🔝\nabout me\n＝争渡/od💊/割🔪/请长假休学/泛性恋/互fo/m/\n长期互fo 私信都fo\n喜欢我的可以私信🥰🥰 https://t.co/MJOMmToQUD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 614,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1123
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T16:01:43.000Z",
+        "description": "不管这个世界上多少坏人讨厌我 攻击我 不爱我我依旧不语 就萌萌的躺在这里 🚪52",
+        "id": "1967257406129504256",
+        "name": "iukio",
+        "pinned_tweet_id": "2060323322676863455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060324836292059136/KMYYNM1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 35,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 235
+        },
+        "username": "Zdu1279757",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1942175872930467889",
+    "created_at": "2025-07-07T12:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T13:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942204064135291322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771513890138132480",
+          "start": 0,
+          "username": "iove3064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942204064135291322",
+    "in_reply_to_user_id": "1771513890138132480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942175872930467889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iove3064 我操这个真得接了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1942175860972539904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvP-p8ybUAAG6qi.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1942175872930467889",
+        "created_at": "2025-07-07T12:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T13:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942204064135291322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771513890138132480",
+              "start": 0,
+              "username": "iove3064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942204064135291322",
+        "in_reply_to_user_id": "1771513890138132480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942175872930467889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iove3064 我操这个真得接了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942175860972539904"
+          ]
+        },
+        "author_id": "1771513890138132480",
+        "conversation_id": "1942175872930467889",
+        "created_at": "2025-07-07T10:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T11:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942175872930467889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hHlLldI9iC",
+              "end": 32,
+              "expanded_url": "https://x.com/iove3064/status/1942175872930467889/photo/1",
+              "media_key": "3_1942175860972539904",
+              "start": 9,
+              "url": "https://t.co/hHlLldI9iC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942175872930467889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 30898,
+          "like_count": 165,
+          "quote_count": 0,
+          "reply_count": 66,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽卧槽7777 https://t.co/hHlLldI9iC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1937294030800585027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 248,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 527
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T12:26:49.000Z",
+        "description": "enfj ᰔᩚ",
+        "id": "1771513890138132480",
+        "location": "💚🚪",
+        "name": "湫",
+        "pinned_tweet_id": "1942193204117590079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772665243774464000/eITTTB3s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35953,
+          "following_count": 64,
+          "like_count": 114,
+          "listed_count": 61,
+          "media_count": 229,
+          "tweet_count": 3070
+        },
+        "username": "iove3064",
+        "verified": false
+      }
+    ]
+  }
+}

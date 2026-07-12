@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2060903805689204873",
+    "created_at": "2026-05-31T01:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T02:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060903805689204873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1940341842035486720",
+          "start": 3,
+          "username": "xiaoy0515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060903805689204873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060738179007967650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoy0515: 想要抱抱。\n好累\n还是有爱人也会在我懒得起来洗漱的时候把我抱在浴室轻轻擦洗吗。\n会在我晚上睡不着到时候唱儿歌哄我睡觉吗。\n会在我的头发到处乱飞的时候轻轻帮我扎起来吗。\n会在太阳好大的时候悄悄取出准备好的伞给我打吗。\n人类真的会这么幸福吗\n她真的会一…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2060903805689204873",
+        "created_at": "2026-05-31T01:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060903805689204873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1940341842035486720",
+              "start": 3,
+              "username": "xiaoy0515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060903805689204873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060738179007967650",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoy0515: 想要抱抱。\n好累\n还是有爱人也会在我懒得起来洗漱的时候把我抱在浴室轻轻擦洗吗。\n会在我晚上睡不着到时候唱儿歌哄我睡觉吗。\n会在我的头发到处乱飞的时候轻轻帮我扎起来吗。\n会在太阳好大的时候悄悄取出准备好的伞给我打吗。\n人类真的会这么幸福吗\n她真的会一…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940341842035486720",
+        "conversation_id": "2060738179007967650",
+        "created_at": "2026-05-30T15:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060738179007967650"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060738179007967650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2667,
+          "like_count": 97,
+          "quote_count": 1,
+          "reply_count": 37,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "想要抱抱。\n好累\n还是有爱人也会在我懒得起来洗漱的时候把我抱在浴室轻轻擦洗吗。\n会在我晚上睡不着到时候唱儿歌哄我睡觉吗。\n会在我的头发到处乱飞的时候轻轻帮我扎起来吗。\n会在太阳好大的时候悄悄取出准备好的伞给我打吗。\n人类真的会这么幸福吗\n她真的会一直这么幸福吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 550,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 970
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-02T09:28:54.000Z",
+        "description": "上来发牢骚喽。",
+        "id": "1940341842035486720",
+        "name": "筱瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992603646597660672/pFE-B3rp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 91,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 87
+        },
+        "username": "xiaoy0515",
+        "verified": false
+      }
+    ]
+  }
+}

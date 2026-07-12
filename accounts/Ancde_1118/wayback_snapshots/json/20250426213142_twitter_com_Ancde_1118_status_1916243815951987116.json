@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1916243815951987116",
+    "created_at": "2025-04-26T21:31:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T22:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916243815951987116"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fuyunxian/stat…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/fuyunxian/status/1916139775003906141",
+          "start": 25,
+          "url": "https://t.co/3Nhf4jKp5r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916243815951987116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916139775003906141",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "夜之城没有活着的传奇 同时爱也是最高规格的抑制剂 https://t.co/3Nhf4jKp5r"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1916243815951987116",
+        "created_at": "2025-04-26T21:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T22:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916243815951987116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fuyunxian/stat…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/fuyunxian/status/1916139775003906141",
+              "start": 25,
+              "url": "https://t.co/3Nhf4jKp5r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916243815951987116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916139775003906141",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "夜之城没有活着的传奇 同时爱也是最高规格的抑制剂 https://t.co/3Nhf4jKp5r"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837295212873535494",
+        "conversation_id": "1916139775003906141",
+        "created_at": "2025-04-26T14:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T15:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916139775003906141"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916139775003906141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 628,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次听I Really Want to Stay at Your House都有种淡淡的忧伤，夜之城没有活着的传奇T﹏T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo/🚪66",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 188,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 369
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-21T00:58:24.000Z",
+        "description": "我系小女孩🐰 妹宝fo我 我秒回 刚解除封印又被限制中……  经常被制裁 不🈷️\n\n🐱",
+        "id": "1837295212873535494",
+        "name": "扶云弦",
+        "pinned_tweet_id": "1914290076110241879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838503102791680000/6EeSvYp8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 218,
+          "like_count": 38684,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 998
+        },
+        "username": "fuyunxian",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2071755400295432515",
+    "created_at": "2026-06-30T00:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T01:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071755400295432515"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ww123qwq/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/ww123qwq/status/2071316677673857127",
+          "start": 11,
+          "url": "https://t.co/QWKqKaaqw3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071755400295432515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071316677673857127",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "pr80我爱你一辈子 https://t.co/QWKqKaaqw3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2071755400295432515",
+        "created_at": "2026-06-30T00:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T01:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071755400295432515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ww123qwq/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/ww123qwq/status/2071316677673857127",
+              "start": 11,
+              "url": "https://t.co/QWKqKaaqw3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071755400295432515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071316677673857127",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "pr80我爱你一辈子 https://t.co/QWKqKaaqw3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2071316677673857127",
+        "created_at": "2026-06-28T19:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071316677673857127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071316677673857127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1071,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林药效真好…\n抗焦虑 止痛 减少无端的想法，以及不会像bzd影响GABAA α5亚基影响认知记忆力学习能力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 653,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 1500
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /不建政/上海",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 285,
+          "like_count": 43343,
+          "listed_count": 4,
+          "media_count": 718,
+          "tweet_count": 13171
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

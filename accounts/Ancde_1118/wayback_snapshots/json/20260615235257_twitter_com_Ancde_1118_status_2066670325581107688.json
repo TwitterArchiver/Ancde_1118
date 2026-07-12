@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066670318836695040",
+        "3_2066670317314125824"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066670325581107688",
+    "created_at": "2026-06-15T23:52:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T00:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066670325581107688"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sbH17C7dzC",
+          "end": 119,
+          "expanded_url": "https://x.com/Ancde_1118/status/2066670325581107688/photo/1",
+          "media_key": "3_2066670318836695040",
+          "start": 96,
+          "url": "https://t.co/sbH17C7dzC"
+        },
+        {
+          "display_url": "pic.x.com/sbH17C7dzC",
+          "end": 119,
+          "expanded_url": "https://x.com/Ancde_1118/status/2066670325581107688/photo/1",
+          "media_key": "3_2066670317314125824",
+          "start": 96,
+          "url": "https://t.co/sbH17C7dzC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066670325581107688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "乐完了 自己做错事惹我生气 一边问能不能原谅你 我提出要求你又说有空再打😂😂那我也有空再原谅你呗😂😂 我的号就差4分上大师了😂😂你他妈是真的想取得我原谅吗还是觉得我在无理取闹😂😂闹麻了呗😂😂 https://t.co/sbH17C7dzC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1189,
+        "media_key": "3_2066670318836695040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5JtI4awAA580E.jpg",
+        "width": 727
+      },
+      {
+        "height": 1170,
+        "media_key": "3_2066670317314125824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5JtDNaMAAT6tL.jpg",
+        "width": 1214
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066670318836695040",
+            "3_2066670317314125824"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066670325581107688",
+        "created_at": "2026-06-15T23:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T00:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066670325581107688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sbH17C7dzC",
+              "end": 119,
+              "expanded_url": "https://x.com/Ancde_1118/status/2066670325581107688/photo/1",
+              "media_key": "3_2066670318836695040",
+              "start": 96,
+              "url": "https://t.co/sbH17C7dzC"
+            },
+            {
+              "display_url": "pic.x.com/sbH17C7dzC",
+              "end": 119,
+              "expanded_url": "https://x.com/Ancde_1118/status/2066670325581107688/photo/1",
+              "media_key": "3_2066670317314125824",
+              "start": 96,
+              "url": "https://t.co/sbH17C7dzC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066670325581107688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "乐完了 自己做错事惹我生气 一边问能不能原谅你 我提出要求你又说有空再打😂😂那我也有空再原谅你呗😂😂 我的号就差4分上大师了😂😂你他妈是真的想取得我原谅吗还是觉得我在无理取闹😂😂闹麻了呗😂😂 https://t.co/sbH17C7dzC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 611,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1241
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

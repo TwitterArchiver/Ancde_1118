@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2063700560709333216",
+    "created_at": "2026-06-09T03:07:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T04:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064182575510458720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1828440273254522883",
+          "start": 0,
+          "username": "tongbb233"
+        },
+        {
+          "end": 22,
+          "id": "1967257406129504256",
+          "start": 11,
+          "username": "Zdu1279757"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064182575510458720",
+    "in_reply_to_user_id": "1828440273254522883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064080272795246762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tongbb233 @Zdu1279757 不知道啊 卡住了TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2063700560709333216",
+        "created_at": "2026-06-09T03:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064182575510458720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1828440273254522883",
+              "start": 0,
+              "username": "tongbb233"
+            },
+            {
+              "end": 22,
+              "id": "1967257406129504256",
+              "start": 11,
+              "username": "Zdu1279757"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064182575510458720",
+        "in_reply_to_user_id": "1828440273254522883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064080272795246762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tongbb233 @Zdu1279757 不知道啊 卡住了TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828440273254522883",
+        "conversation_id": "2063700560709333216",
+        "created_at": "2026-06-08T20:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T21:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064080272795246762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778719380639014913",
+              "start": 0,
+              "username": "Ancde_1118"
+            },
+            {
+              "end": 23,
+              "id": "1967257406129504256",
+              "start": 12,
+              "username": "Zdu1279757"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064080272795246762",
+        "in_reply_to_user_id": "1778719380639014913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063785445402816983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ancde_1118 @Zdu1279757 我的也在天津 现在什么情况"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 611,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 1151
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T14:32:00.000Z",
+        "description": "",
+        "id": "1828440273254522883",
+        "location": "Osaka-shi Fukushima",
+        "name": "ba be_tong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828440459821359104/tvXEKaaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 61,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 68
+        },
+        "username": "tongbb233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T16:01:43.000Z",
+        "description": "不管这个世界上多少坏人讨厌我 攻击我 不爱我我依旧不语 就萌萌的躺在这里 🚪52",
+        "id": "1967257406129504256",
+        "name": "iukio",
+        "pinned_tweet_id": "2060323322676863455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060324836292059136/KMYYNM1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 36,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 248
+        },
+        "username": "Zdu1279757",
+        "verified": false
+      }
+    ]
+  }
+}

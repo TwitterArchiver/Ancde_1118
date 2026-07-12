@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1913843570529935865",
+    "created_at": "2025-04-20T06:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T07:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913843570529935865"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kawaiizeroo/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/kawaiizeroo/status/1913770980490764353",
+          "start": 11,
+          "url": "https://t.co/OkSqFjsxbD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913843570529935865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913770980490764353",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想做一个真诚的人 https://t.co/OkSqFjsxbD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1913843570529935865",
+        "created_at": "2025-04-20T06:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T07:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913843570529935865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kawaiizeroo/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/kawaiizeroo/status/1913770980490764353",
+              "start": 11,
+              "url": "https://t.co/OkSqFjsxbD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913843570529935865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913770980490764353",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想做一个真诚的人 https://t.co/OkSqFjsxbD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896059136758161408",
+        "conversation_id": "1913770980490764353",
+        "created_at": "2025-04-20T01:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T02:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913770980490764353"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913770980490764353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 875,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "趁现在关注我的人还很少 我有时候也可以说说真心话 不用再思考那些为了流量炒作 博关注的文案 \n我有一句很喜欢的话 /世界要你努力去考取功名 但是真诚是最大本领/这一次 我想努力地做一个 真诚的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒中 od/双性恋/1i/4i/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 173,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 351
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T04:45:09.000Z",
+        "description": "06 163 94♡sub ♑忧郁症小财迷✩︎‧₊我需要很多很多钱和很多很多爱/口令红包♡过门不退🚪199/520/1314/5200♡还是小零@zeroooqo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "zeroooqo"
+              }
+            ]
+          }
+        },
+        "id": "1896059136758161408",
+        "location": "苏/验证20r",
+        "name": "呆呆零",
+        "pinned_tweet_id": "1913278453530636470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913230477328334848/-Ma4Z9SX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 19,
+          "like_count": 187,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 53
+        },
+        "username": "kawaiizeroo",
+        "verified": false
+      }
+    ]
+  }
+}

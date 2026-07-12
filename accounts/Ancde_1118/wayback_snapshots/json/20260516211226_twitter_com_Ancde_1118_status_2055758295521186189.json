@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2055758295521186189",
+    "created_at": "2026-05-16T21:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T22:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055758295521186189"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055758295521186189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我应该还是想死去的吧。不然为何苦苦寻一个活着的理由？每次找到，都亲手捏碎。再找，再碎。找理由本身，成了我还不肯死的唯一理由。不是还想活，是还没攒够死的力气。一边给自己编造希望，一边看它溺毙。想死的我和想活的我，每天在同一个身体里互相凌迟。好疼。可这疼，是我还活着的证据。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2055758295521186189",
+        "created_at": "2026-05-16T21:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T22:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055758295521186189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055758295521186189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我应该还是想死去的吧。不然为何苦苦寻一个活着的理由？每次找到，都亲手捏碎。再找，再碎。找理由本身，成了我还不肯死的唯一理由。不是还想活，是还没攒够死的力气。一边给自己编造希望，一边看它溺毙。想死的我和想活的我，每天在同一个身体里互相凌迟。好疼。可这疼，是我还活着的证据。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我是双性恋/tg@Sakura_sakura01118/我想交朋友 可以找我互fo/可以找我买电子烟",
+        "id": "1778719380639014913",
+        "name": "Sakura（烟代版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 435,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 821
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1994415658961146335",
+    "created_at": "2025-11-28T14:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T15:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994415658961146335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rileykenny2223…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/rileykenny22234/status/1994271054408151315",
+          "start": 2,
+          "url": "https://t.co/hW9dCt3cwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994415658961146335",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994271054408151315",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接 https://t.co/hW9dCt3cwi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1994271043289272321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G60S8qEa0AEtT4-.jpg",
+        "width": 530
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1994415658961146335",
+        "created_at": "2025-11-28T14:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T15:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994415658961146335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rileykenny2223…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/rileykenny22234/status/1994271054408151315",
+              "start": 2,
+              "url": "https://t.co/hW9dCt3cwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994415658961146335",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994271054408151315",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接 https://t.co/hW9dCt3cwi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994271043289272321"
+          ]
+        },
+        "author_id": "1912698508328493056",
+        "conversation_id": "1994271054408151315",
+        "created_at": "2025-11-28T05:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T06:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994271054408151315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W7DKg8vXLm",
+              "end": 61,
+              "expanded_url": "https://x.com/RileyKenny22234/status/1994271054408151315/photo/1",
+              "media_key": "3_1994271043289272321",
+              "start": 38,
+              "url": "https://t.co/W7DKg8vXLm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994271054408151315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 23536,
+          "like_count": 241,
+          "quote_count": 12,
+          "reply_count": 33,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "真的特别好奇这种男生是怎么做到这么会哄人的 我一个女生都想不到这种哄人方式 https://t.co/W7DKg8vXLm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我是双性恋/tg@Sakura_sakura01118/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1993721402894238091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 438,
+          "like_count": 101,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 755
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T02:44:08.000Z",
+        "description": "每天都是小公主",
+        "id": "1912698508328493056",
+        "name": "吉吉如伊令",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992811808458158080/4K8-9mvs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 72,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 99
+        },
+        "username": "RileyKenny22234",
+        "verified": false
+      }
+    ]
+  }
+}

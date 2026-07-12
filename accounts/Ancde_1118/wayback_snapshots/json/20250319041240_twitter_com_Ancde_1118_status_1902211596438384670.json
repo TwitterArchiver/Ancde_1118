@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1902211596438384670",
+    "created_at": "2025-03-19T04:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T05:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1902211596438384670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miaoning000/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/miaoning000/status/1901928049215734128",
+          "start": 9,
+          "url": "https://t.co/5LM7wBEn05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902211596438384670",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901928049215734128",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "odod我的朋友 https://t.co/5LM7wBEn05"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 954,
+        "media_key": "3_1901928040470585344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmUBediaoAA1GAH.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1902211596438384670",
+        "created_at": "2025-03-19T04:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T05:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902211596438384670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miaoning000/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/miaoning000/status/1901928049215734128",
+              "start": 9,
+              "url": "https://t.co/5LM7wBEn05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902211596438384670",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901928049215734128",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "odod我的朋友 https://t.co/5LM7wBEn05"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901928040470585344"
+          ]
+        },
+        "author_id": "1764820595387305984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1901928049215734128",
+        "created_at": "2025-03-18T09:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T10:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901928049215734128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6sF4UgD1x2",
+              "end": 36,
+              "expanded_url": "https://x.com/miaoning000/status/1901928049215734128/photo/1",
+              "media_key": "3_1901928040470585344",
+              "start": 13,
+              "url": "https://t.co/6sF4UgD1x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901928049215734128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 508,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爷爷奶奶喂我喹硫平😃😃😃 https://t.co/6sF4UgD1x2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 酗酒 抽烟 嗑药/想交朋友/我的tg频道⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+tGPZagccCeE0M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+tGPZagccCeE0M2I1",
+                "start": 0,
+                "url": "https://t.co/YOU43GttEH"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 103,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 133
+        },
+        "url": "https://t.co/YOU43GttEH",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T01:10:05.000Z",
+        "description": "呐…这里是喵宁 谢谢你喜欢我♪ 看见会回fo│高一的网络寄生虫/MTX/ overdose💊/我真的很友善不信你和我说句话就知道了♡\n愿神明保佑世人✙",
+        "id": "1764820595387305984",
+        "location": "氢溴酸右美沙芬-普瑞巴林-盐酸美金刚-盐酸金刚烷胺",
+        "name": "喵宁💊🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764821147739357184/b-2HvW7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1973,
+          "following_count": 2060,
+          "like_count": 11561,
+          "listed_count": 4,
+          "media_count": 265,
+          "tweet_count": 4847
+        },
+        "username": "miaoning000",
+        "verified": false
+      }
+    ]
+  }
+}

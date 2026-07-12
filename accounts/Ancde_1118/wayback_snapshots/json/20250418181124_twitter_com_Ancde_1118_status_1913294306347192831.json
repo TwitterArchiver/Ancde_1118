@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1913294306347192831",
+    "created_at": "2025-04-18T18:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T19:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913294306347192831"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/landawanggg7/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/landawanggg7/status/1913187402195308658",
+          "start": 2,
+          "url": "https://t.co/Xunt8l1Wmg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913294306347192831",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913187402195308658",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接 https://t.co/Xunt8l1Wmg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1913294306347192831",
+        "created_at": "2025-04-18T18:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T19:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913294306347192831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/landawanggg7/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/landawanggg7/status/1913187402195308658",
+              "start": 2,
+              "url": "https://t.co/Xunt8l1Wmg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913294306347192831",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913187402195308658",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接 https://t.co/Xunt8l1Wmg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809002293049896960",
+        "conversation_id": "1913187402195308658",
+        "created_at": "2025-04-18T11:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T12:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913187402195308658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913187402195308658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3799,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "希望下次掉眼泪是因为做爱太爽了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒中 od/双性恋/1i/4i/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 172,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 346
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T23:12:26.000Z",
+        "description": "不在杭州 不线下 不约炮 不接任何推广 礼貌说话 文明上网 随缘看私信 不要发丑唧唧给我看 谢谢",
+        "id": "1809002293049896960",
+        "location": " 🚪88 纯绿 好友位",
+        "name": "老公你说句话啊",
+        "pinned_tweet_id": "1913082439905259627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909398518831497216/nhk6v1of_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5124,
+          "following_count": 130,
+          "like_count": 3003,
+          "listed_count": 14,
+          "media_count": 238,
+          "tweet_count": 2692
+        },
+        "username": "landawanggg7",
+        "verified": false
+      }
+    ]
+  }
+}

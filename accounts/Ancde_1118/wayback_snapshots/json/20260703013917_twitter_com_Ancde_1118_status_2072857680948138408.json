@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2072856478537695558",
+    "created_at": "2026-07-03T01:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T02:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072857680948138408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1938958377620824064",
+          "start": 0,
+          "username": "LuluvWiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072857680948138408",
+    "in_reply_to_user_id": "1938958377620824064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072856909649154306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuluvWiki 我爱你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2072856478537695558",
+        "created_at": "2026-07-03T01:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T02:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072857680948138408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1938958377620824064",
+              "start": 0,
+              "username": "LuluvWiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072857680948138408",
+        "in_reply_to_user_id": "1938958377620824064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072856909649154306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuluvWiki 我爱你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938958377620824064",
+        "conversation_id": "2072856478537695558",
+        "created_at": "2026-07-03T01:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T02:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072856909649154306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778719380639014913",
+              "start": 0,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072856909649154306",
+        "in_reply_to_user_id": "1778719380639014913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072856478537695558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ancde_1118 实现你的梦想了，宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 674,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 1580
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T13:51:26.000Z",
+        "description": "璐哥转世2.0\nhttps://t.co/Oh5yI4Htys\n永夜安港 https://t.co/hy97LSvZDv\n在售：0.33%雌二醇凝胶、4%烟酰胺0.75%熊果苷美白精华\n出售产品通知群 https://t.co/MxiKqofbkC\n我自己的wiki： https://t.co/gvPJtcy0S6 性别多元者友好的综合支持平台。\n精神病学、药理学、有机化学，询问🚪88",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 31,
+                "expanded_url": "http://t.me/ilovepr80",
+                "start": 8,
+                "url": "https://t.co/Oh5yI4Htys"
+              },
+              {
+                "display_url": "pr80.net",
+                "end": 60,
+                "expanded_url": "http://pr80.net",
+                "start": 37,
+                "url": "https://t.co/hy97LSvZDv"
+              },
+              {
+                "display_url": "t.me/LuluvCompany",
+                "end": 124,
+                "expanded_url": "http://t.me/LuluvCompany",
+                "start": 101,
+                "url": "https://t.co/MxiKqofbkC"
+              },
+              {
+                "display_url": "Luluv.wiki",
+                "end": 158,
+                "expanded_url": "http://Luluv.wiki",
+                "start": 135,
+                "url": "https://t.co/gvPJtcy0S6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "http://pr80.net",
+                "start": 0,
+                "url": "https://t.co/hy97LSvZDv"
+              }
+            ]
+          }
+        },
+        "id": "1938958377620824064",
+        "name": "Luvsenberg 璐璐",
+        "pinned_tweet_id": "2072641647054299373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072289907981398016/EzdYB0QL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 103,
+          "like_count": 14,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 29
+        },
+        "url": "https://t.co/hy97LSvZDv",
+        "username": "LuluvWiki",
+        "verified": true
+      }
+    ]
+  }
+}

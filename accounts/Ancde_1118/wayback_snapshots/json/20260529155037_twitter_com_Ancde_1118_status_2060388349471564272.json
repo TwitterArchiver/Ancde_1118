@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2060388349471564272",
+    "created_at": "2026-05-29T15:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T16:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060388349471564272"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rfbxauauj41685…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/rfbxauauj41685/status/2060327404514812262",
+          "start": 10,
+          "url": "https://t.co/xs4b4TUUpM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060388349471564272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060327404514812262",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "孩子我需要pr80 https://t.co/xs4b4TUUpM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2060388349471564272",
+        "created_at": "2026-05-29T15:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060388349471564272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rfbxauauj41685…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/rfbxauauj41685/status/2060327404514812262",
+              "start": 10,
+              "url": "https://t.co/xs4b4TUUpM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060388349471564272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060327404514812262",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子我需要pr80 https://t.co/xs4b4TUUpM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013517011729465344",
+        "conversation_id": "2060327404514812262",
+        "created_at": "2026-05-29T11:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060327404514812262"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060327404514812262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1221,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "孩子，你是不是想开普瑞巴林"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 509,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 939
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T07:40:54.000Z",
+        "description": "男/mtx 前世：@rednightmare962",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gjb2OqUsan1jO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gjb2OqUsan1jOGNl",
+                "start": 0,
+                "url": "https://t.co/nif78SR5wo"
+              }
+            ]
+          }
+        },
+        "id": "2013517011729465344",
+        "name": "洛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036639177761333249/V3qDiwX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 85,
+          "like_count": 836,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 501
+        },
+        "url": "https://t.co/nif78SR5wo",
+        "username": "RfbxaUauj41685",
+        "verified": false
+      }
+    ]
+  }
+}

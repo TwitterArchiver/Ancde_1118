@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2059761113089327223",
+    "created_at": "2026-05-27T22:18:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T23:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059761113089327223"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/longislandtea3…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/longislandtea32/status/2059289602935164981",
+          "start": 11,
+          "url": "https://t.co/3bDwbJARdq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059761113089327223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059289602935164981",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有我在广东喊湿热的 https://t.co/3bDwbJARdq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2059761113089327223",
+        "created_at": "2026-05-27T22:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T23:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059761113089327223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/longislandtea3…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/longislandtea32/status/2059289602935164981",
+              "start": 11,
+              "url": "https://t.co/3bDwbJARdq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059761113089327223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059289602935164981",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有我在广东喊湿热的 https://t.co/3bDwbJARdq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1372163567802183689",
+        "conversation_id": "2059289602935164981",
+        "created_at": "2026-05-26T15:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059289602935164981"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059289602935164981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 43453,
+          "like_count": 393,
+          "quote_count": 8,
+          "reply_count": 97,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我的推主页有两拨人\n一拨是在伦敦喊热的\n一拨是在江浙沪喊湿的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我是双性恋/tg@Sakura_sakura01118/我想交朋友 可以找我互fo/可以找我买电子烟",
+        "id": "1778719380639014913",
+        "name": "Sakura（烟代版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 482,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 908
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-17T12:31:12.000Z",
+        "description": "ENTP白羊/pevc从业/欢迎聊天\nTiming is everything.",
+        "id": "1372163567802183689",
+        "location": "无锡",
+        "name": "长岛冰茶",
+        "pinned_tweet_id": "1981365045637632167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951741917672456192/70-71tXq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 1467,
+          "like_count": 32694,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 1022
+        },
+        "username": "longislandtea32",
+        "verified": false
+      }
+    ]
+  }
+}

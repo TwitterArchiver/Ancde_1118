@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1905491593169436938",
+    "created_at": "2025-03-28T05:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T06:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905494363867660778"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1905494363867660778",
+    "in_reply_to_user_id": "1778719380639014913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905491593169436938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "6.对方说是纯4i结果对方居然想反攻 7.说好房费他给结果结束以后对方居然要我把房费a了还要给他打车费钱回家 到家以后说体验感不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1905491593169436938",
+        "created_at": "2025-03-28T05:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T06:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905494363867660778"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905494363867660778",
+        "in_reply_to_user_id": "1778719380639014913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905491593169436938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "6.对方说是纯4i结果对方居然想反攻 7.说好房费他给结果结束以后对方居然要我把房费a了还要给他打车费钱回家 到家以后说体验感不好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1905491593169436938",
+        "created_at": "2025-03-28T05:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T06:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905491593169436938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbwwoai/status…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/bbwwoai/status/1791079231570825627",
+              "start": 140,
+              "url": "https://t.co/T3DXo4fRcm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905491593169436938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791079231570825627",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "四爱女妹1至暗时刻 我也要写几条\n1.被龟责的时候受不了叫的声音很难听2.玩sp的时候打了没几下就喊疼受不了🤦‍♀️3.指奸都没进完最细的手指就说受不了爬走了4.龟责老是干 水基润滑我恨你5.去到酒店民宿发现吃错东西了拉肚子 灌不了肠只能责 责了没两次以后 两个人在那大眼瞪小眼 https://t.co/T3DXo4fRcm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒中 od/双性恋/1i/4i/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 132,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 244
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

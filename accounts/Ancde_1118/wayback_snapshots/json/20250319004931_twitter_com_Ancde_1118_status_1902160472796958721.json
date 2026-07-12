@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1902160472796958721",
+    "created_at": "2025-03-19T00:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T01:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1902160472796958721"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ina_puppywwww/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/ina_puppywwww/status/1901934031291527320",
+          "start": 9,
+          "url": "https://t.co/EeucZ6jDck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902160472796958721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901934031291527320",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "伤疤是女人的勋章 https://t.co/EeucZ6jDck"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1902160472796958721",
+        "created_at": "2025-03-19T00:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T01:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902160472796958721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ina_puppywwww/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/ina_puppywwww/status/1901934031291527320",
+              "start": 9,
+              "url": "https://t.co/EeucZ6jDck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902160472796958721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901934031291527320",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "伤疤是女人的勋章 https://t.co/EeucZ6jDck"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "840743965368311808",
+        "conversation_id": "1901934031291527320",
+        "created_at": "2025-03-18T09:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T10:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901934031291527320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901934031291527320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6492,
+          "like_count": 164,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "自残发网上为啥就是博同情了，我觉得伤痕是女人的勋章还不行吗🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 酗酒 抽烟 嗑药/想交朋友/我的tg频道⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+tGPZagccCeE0M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+tGPZagccCeE0M2I1",
+                "start": 0,
+                "url": "https://t.co/YOU43GttEH"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 102,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 123
+        },
+        "url": "https://t.co/YOU43GttEH",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-12T01:59:16.000Z",
+        "description": "椒椒，一个普通的自残逼",
+        "id": "840743965368311808",
+        "location": "银河小狗帝国",
+        "name": "藏身在无花的雾里",
+        "pinned_tweet_id": "1866172429531566183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837257482109861888/VGb5vAol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2574,
+          "following_count": 918,
+          "like_count": 11565,
+          "listed_count": 6,
+          "media_count": 311,
+          "tweet_count": 2359
+        },
+        "username": "Ina_puppywwww",
+        "verified": false
+      }
+    ]
+  }
+}

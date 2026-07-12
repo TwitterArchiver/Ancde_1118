@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1901489384114798989",
+    "created_at": "2025-03-17T04:22:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T05:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901489384114798989"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/akanpc/status/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/akanpc/status/1901471107527655627",
+          "start": 13,
+          "url": "https://t.co/Q70J2BCw4m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901489384114798989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901471107527655627",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要这样 我们只是网友😭 https://t.co/Q70J2BCw4m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1901489384114798989",
+        "created_at": "2025-03-17T04:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T05:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901489384114798989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akanpc/status/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/akanpc/status/1901471107527655627",
+              "start": 13,
+              "url": "https://t.co/Q70J2BCw4m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901489384114798989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901471107527655627",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要这样 我们只是网友😭 https://t.co/Q70J2BCw4m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864468641305251844",
+        "conversation_id": "1901471107527655627",
+        "created_at": "2025-03-17T03:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T04:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901471107527655627"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901471107527655627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1256,
+          "like_count": 67,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "那个把你搞一团糟的人 你們不会压根没交往过吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 酗酒 抽烟 嗑药/想交朋友/我的tg频道⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+tGPZagccCeE0M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+tGPZagccCeE0M2I1",
+                "start": 0,
+                "url": "https://t.co/YOU43GttEH"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 96,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/YOU43GttEH",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T00:35:51.000Z",
+        "description": "做S会笑场，做M会还手☁️活着玩玩的，什么都没当真 唯一大号｜小号 @AkaNpc2｜仅此两号慎防受骗  ☺︎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 34,
+                "username": "AkaNpc2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akanpc",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akanpc",
+                "start": 0,
+                "url": "https://t.co/axvcrnKSfM"
+              }
+            ]
+          }
+        },
+        "id": "1864468641305251844",
+        "location": "迷失表參道",
+        "name": "曼醬⛓︎",
+        "pinned_tweet_id": "1868660805266473000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872590302583926785/o3oKSA94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5176,
+          "following_count": 94,
+          "like_count": 7291,
+          "listed_count": 4,
+          "media_count": 42,
+          "tweet_count": 1379
+        },
+        "url": "https://t.co/axvcrnKSfM",
+        "username": "AkaNpc",
+        "verified": false
+      }
+    ]
+  }
+}

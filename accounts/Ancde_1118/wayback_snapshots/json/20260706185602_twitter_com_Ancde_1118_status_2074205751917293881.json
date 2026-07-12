@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2074205751917293881",
+    "created_at": "2026-07-06T18:56:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T19:56:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074205751917293881"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/apipleeeee/sta…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/apipleeeee/status/2073451856794399147",
+          "start": 37,
+          "url": "https://t.co/N2tdrAZpRj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074205751917293881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073451856794399147",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "确实如此 不得不佩服之前认识的某些人的厚脸皮能力 把我当存款机来了^_^ https://t.co/N2tdrAZpRj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2074205751917293881",
+        "created_at": "2026-07-06T18:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074205751917293881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/apipleeeee/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/apipleeeee/status/2073451856794399147",
+              "start": 37,
+              "url": "https://t.co/N2tdrAZpRj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074205751917293881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073451856794399147",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实如此 不得不佩服之前认识的某些人的厚脸皮能力 把我当存款机来了^_^ https://t.co/N2tdrAZpRj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905566526595629060",
+        "conversation_id": "2073451856794399147",
+        "created_at": "2026-07-04T17:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073451856794399147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073451856794399147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 70783,
+          "like_count": 1317,
+          "quote_count": 7,
+          "reply_count": 189,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "谁追人谁请客 谁邀约谁请客 跟男女无关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 679,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 1622
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T10:24:09.000Z",
+        "description": "be water",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fengniaocloud.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fengniaocloud.top/#/register?code=Fs8KeJ0x",
+                "start": 0,
+                "url": "https://t.co/TMmfJOdrNV"
+              }
+            ]
+          }
+        },
+        "id": "1905566526595629060",
+        "name": "苹果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021931545674850304/T1ritExR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13598,
+          "following_count": 1,
+          "like_count": 4211,
+          "listed_count": 36,
+          "media_count": 578,
+          "tweet_count": 1820
+        },
+        "url": "https://t.co/TMmfJOdrNV",
+        "username": "Apipleeeee",
+        "verified": false
+      }
+    ]
+  }
+}

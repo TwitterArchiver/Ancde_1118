@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1912005476080140574",
+    "created_at": "2025-04-15T04:50:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T05:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912005476080140574"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sakuradied/sta…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/sakuradied/status/1911701607441432602",
+          "start": 53,
+          "url": "https://t.co/RuDQUl4C86"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912005476080140574",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911701607441432602",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的烟不抽了 酒也戒了 嗑药正在慢慢戒 清纯可爱的穿搭和爱笑的性格我正在学 给我点时间 请你不要爱上别人 https://t.co/RuDQUl4C86"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1912005476080140574",
+        "created_at": "2025-04-15T04:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T05:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912005476080140574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sakuradied/sta…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/sakuradied/status/1911701607441432602",
+              "start": 53,
+              "url": "https://t.co/RuDQUl4C86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912005476080140574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911701607441432602",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的烟不抽了 酒也戒了 嗑药正在慢慢戒 清纯可爱的穿搭和爱笑的性格我正在学 给我点时间 请你不要爱上别人 https://t.co/RuDQUl4C86"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724279773470535680",
+        "conversation_id": "1911701607441432602",
+        "created_at": "2025-04-14T08:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T09:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911701607441432602"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911701607441432602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6327,
+          "like_count": 94,
+          "quote_count": 6,
+          "reply_count": 10,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "我的钉子摘掉了 嗑药正在慢慢戒 清纯可爱的穿搭和爱笑的性格我正在学 给我点时间 请你不要爱上别人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒中 od/双性恋/1i/4i/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 153,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 332
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T04:15:17.000Z",
+        "description": "被我媽打壓我已從良 这是我的日记本",
+        "id": "1724279773470535680",
+        "location": "NewYork",
+        "name": "柊夢愛✍✍✍",
+        "pinned_tweet_id": "1889570821905002877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907657129160503296/NKUbBCcj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 718,
+          "like_count": 5529,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 3653
+        },
+        "username": "Sakuradied",
+        "verified": false
+      }
+    ]
+  }
+}

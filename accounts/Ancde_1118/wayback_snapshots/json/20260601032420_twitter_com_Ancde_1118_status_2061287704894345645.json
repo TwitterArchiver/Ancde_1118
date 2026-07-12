@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061287696409264128"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "conversation_id": "2061287704894345645",
+    "created_at": "2026-06-01T03:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T04:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061287704894345645"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zFSYGO3OOj",
+          "end": 36,
+          "expanded_url": "https://x.com/Ancde_1118/status/2061287704894345645/photo/1",
+          "media_key": "3_2061287696409264128",
+          "start": 13,
+          "url": "https://t.co/zFSYGO3OOj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061287704894345645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想认识日本韩国欧美妹子 https://t.co/zFSYGO3OOj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1033,
+        "media_key": "3_2061287696409264128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsqPRxbgAAQHEy.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061287696409264128"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "conversation_id": "2061287704894345645",
+        "created_at": "2026-06-01T03:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061287704894345645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zFSYGO3OOj",
+              "end": 36,
+              "expanded_url": "https://x.com/Ancde_1118/status/2061287704894345645/photo/1",
+              "media_key": "3_2061287696409264128",
+              "start": 13,
+              "url": "https://t.co/zFSYGO3OOj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061287704894345645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想认识日本韩国欧美妹子 https://t.co/zFSYGO3OOj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 552,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 985
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

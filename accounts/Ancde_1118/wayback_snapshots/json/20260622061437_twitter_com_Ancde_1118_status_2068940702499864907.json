@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2068758752522907826",
+    "created_at": "2026-06-22T06:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T07:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068940702499864907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2009802986600767489",
+          "start": 0,
+          "username": "_mucha_000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068940702499864907",
+    "in_reply_to_user_id": "2009802986600767489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068758752522907826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_mucha_000 我来互fo互转啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2068758589574180864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLW0-fmbcAA7_1t.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2068758752522907826",
+        "created_at": "2026-06-22T06:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068940702499864907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2009802986600767489",
+              "start": 0,
+              "username": "_mucha_000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068940702499864907",
+        "in_reply_to_user_id": "2009802986600767489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068758752522907826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_mucha_000 我来互fo互转啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068758589574180864"
+          ]
+        },
+        "author_id": "2009802986600767489",
+        "conversation_id": "2068758752522907826",
+        "created_at": "2026-06-21T18:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068758752522907826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VvX977sLus",
+              "end": 93,
+              "expanded_url": "https://x.com/_mucha_000/status/2068758752522907826/photo/1",
+              "media_key": "3_2068758589574180864",
+              "start": 70,
+              "url": "https://t.co/VvX977sLus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068758752522907826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 970,
+          "like_count": 27,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "你们好！我是牧雨，我回来啦！\n（话说真的还有人记得我吗hhhh）\n如果有认识的人刷到我请帮我转发帮我转发帮我转发，谢谢！\n前世互关寻回中… https://t.co/VvX977sLus"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 641,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1396
+        },
+        "url": "",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T01:42:27.000Z",
+        "description": "今天有没有想我！前世互关寻回中…",
+        "id": "2009802986600767489",
+        "location": "疯人院里猫咪多",
+        "name": "旋宫牧雨2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068756861625704448/aoZSfs8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 14,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "_mucha_000",
+        "verified": false
+      }
+    ]
+  }
+}

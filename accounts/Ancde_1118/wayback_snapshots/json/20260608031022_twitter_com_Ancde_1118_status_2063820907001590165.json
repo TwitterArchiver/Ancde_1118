@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2063688622835139055",
+    "created_at": "2026-06-08T03:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063820907001590165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2055586228704104448",
+          "start": 0,
+          "username": "mioqaq7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063820907001590165",
+    "in_reply_to_user_id": "2055586228704104448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063688622835139055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mioqaq7 戒不掉 我去年三月开始戒 中间一次没o过 但是今年五月底还是复o了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2063688622835139055",
+        "created_at": "2026-06-08T03:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063820907001590165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055586228704104448",
+              "start": 0,
+              "username": "mioqaq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063820907001590165",
+        "in_reply_to_user_id": "2055586228704104448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063688622835139055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mioqaq7 戒不掉 我去年三月开始戒 中间一次没o过 但是今年五月底还是复o了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055586228704104448",
+        "conversation_id": "2063688622835139055",
+        "created_at": "2026-06-07T18:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063688622835139055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063688622835139055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 318,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞戒断多久记忆力才会恢复啊 好难受戒断的时候记忆力差的不行 也不知道多久大脑才能自动恢复。。其实最难戒的是心瘾吧唉⊙︿⊙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 614,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1126
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T09:49:40.000Z",
+        "description": "想被人喜欢被得到认可 想治愈所有人🐹👁坐标北上广深港 关注就是暗恋你 想和小女孩聊天",
+        "id": "2055586228704104448",
+        "location": "🚪88/288/520/1314不封顶 ",
+        "name": "腐朽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060628851898929152/3eLohZ4b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 20,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 79
+        },
+        "username": "mioqaq7",
+        "verified": false
+      }
+    ]
+  }
+}

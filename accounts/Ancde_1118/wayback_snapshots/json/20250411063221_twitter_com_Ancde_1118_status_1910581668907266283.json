@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1910581668907266283",
+    "created_at": "2025-04-11T06:32:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T07:32:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1910581668907266283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/overdose_day/s…",
+          "end": 112,
+          "expanded_url": "https://twitter.com/overdose_day/status/1910494239760539797",
+          "start": 89,
+          "url": "https://t.co/mxsCEkddyU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910581668907266283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910494239760539797",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "普瑞巴林胶囊有种塑料的感觉，但是不难吃，香香的，是那种很清新的类型，比傻逼愈美片好得多，一点都不苦甚至还很香甜，掰出16t混着矿泉水一口咽下，接触到舌尖的是一种温和又细腻的口感 https://t.co/mxsCEkddyU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1910581668907266283",
+        "created_at": "2025-04-11T06:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T07:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910581668907266283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdose_day/s…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/overdose_day/status/1910494239760539797",
+              "start": 89,
+              "url": "https://t.co/mxsCEkddyU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910581668907266283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910494239760539797",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "普瑞巴林胶囊有种塑料的感觉，但是不难吃，香香的，是那种很清新的类型，比傻逼愈美片好得多，一点都不苦甚至还很香甜，掰出16t混着矿泉水一口咽下，接触到舌尖的是一种温和又细腻的口感 https://t.co/mxsCEkddyU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867639848569372672",
+        "conversation_id": "1910494239760539797",
+        "created_at": "2025-04-11T00:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T01:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910494239760539797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910494239760539797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 461,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林这个药很神奇，抗焦虑催眠镇静抗雄激素增加泌乳素食欲大增止痛还有娱乐效果，这个药物不应该禁，可用性太多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒中 od/双性恋/1i/4i/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 149,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 326
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T18:37:15.000Z",
+        "description": "化学极乐百科🧪 未来可能会倒闭，但绝不会变味",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/W009AsBfUr"
+              }
+            ]
+          }
+        },
+        "id": "1867639848569372672",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "1909494318605517140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909493731260289024/ezggnfUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 179,
+          "like_count": 67,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 78
+        },
+        "url": "https://t.co/W009AsBfUr",
+        "username": "overdose_day",
+        "verified": false
+      }
+    ]
+  }
+}

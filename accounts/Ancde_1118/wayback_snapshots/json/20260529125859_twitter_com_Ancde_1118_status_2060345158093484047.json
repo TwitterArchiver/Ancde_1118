@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2059960391556558889",
+    "created_at": "2026-05-29T12:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T13:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060345158093484047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1408538611528601600",
+          "start": 0,
+          "username": "r3rtkMFxo1rFL0T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060345158093484047",
+    "in_reply_to_user_id": "1408538611528601600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059960391556558889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@r3rtkMFxo1rFL0T 18歳になる前に自殺する機会はすでに失われました。18歳以降に自殺すると美しさを失い、絶望的な大人しか見ることができません。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2059960391556558889",
+        "created_at": "2026-05-29T12:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060345158093484047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1408538611528601600",
+              "start": 0,
+              "username": "r3rtkMFxo1rFL0T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060345158093484047",
+        "in_reply_to_user_id": "1408538611528601600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059960391556558889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@r3rtkMFxo1rFL0T 18歳になる前に自殺する機会はすでに失われました。18歳以降に自殺すると美しさを失い、絶望的な大人しか見ることができません。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408538611528601600",
+        "conversation_id": "2059960391556558889",
+        "created_at": "2026-05-28T11:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059960391556558889"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "自殺"
+            },
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "死にたい願望"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059960391556558889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 26221,
+          "like_count": 1383,
+          "quote_count": 6,
+          "reply_count": 41,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "死にたい人ってどのくらいいるのだろう？\n#自殺\n#死にたい願望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 507,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 936
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-25T21:33:33.000Z",
+        "description": "東広島市 170.71.43です",
+        "id": "1408538611528601600",
+        "location": "日本",
+        "name": "たか",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 142,
+          "like_count": 3,
+          "listed_count": 7,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "r3rtkMFxo1rFL0T",
+        "verified": false
+      }
+    ]
+  }
+}

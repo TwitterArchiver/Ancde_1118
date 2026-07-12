@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1901215682634588395",
+    "created_at": "2025-03-16T12:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T13:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901245570863550660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797727504540807168",
+          "start": 0,
+          "username": "od_angelkaii_od"
+        },
+        {
+          "end": 29,
+          "id": "1893688350076542976",
+          "start": 17,
+          "username": "drug_artist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901245570863550660",
+    "in_reply_to_user_id": "1797727504540807168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901215682634588395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@od_angelkaii_od @drug_artist 哦不😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1901215682634588395",
+        "created_at": "2025-03-16T12:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T13:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901245570863550660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797727504540807168",
+              "start": 0,
+              "username": "od_angelkaii_od"
+            },
+            {
+              "end": 29,
+              "id": "1893688350076542976",
+              "start": 17,
+              "username": "drug_artist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901245570863550660",
+        "in_reply_to_user_id": "1797727504540807168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901215682634588395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@od_angelkaii_od @drug_artist 哦不😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797727504540807168",
+        "conversation_id": "1901215682634588395",
+        "created_at": "2025-03-16T10:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T11:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901215682634588395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 68,
+              "id": "1893688350076542976",
+              "start": 56,
+              "username": "drug_artist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901215682634588395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1491,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "紧急通知📢 :本站wiki主已经宣布退役\n不在负责网站管理 已经交出网站权限 \n\n各位再见\n\n新的wiki主: @drug_artist \n\noverdose百科未来可能会倒闭\n\n但绝不会变味 \n\n原wiki主计划陪女朋友一起殉情\n\n我拒绝任何心理治疗以及自杀救助 \n\n网站计划续费十年 不知道大家能否活到十年 十年后又会是什么样子的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 酗酒 抽烟 嗑药/想交朋友/我的tg频道⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+tGPZagccCeE0M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+tGPZagccCeE0M2I1",
+                "start": 0,
+                "url": "https://t.co/YOU43GttEH"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 82,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 18
+        },
+        "url": "https://t.co/YOU43GttEH",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T20:30:21.000Z",
+        "description": "古希腊掌管od的神\n本账号为多人账号\n有事说事，没事别私聊，不然似全家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/ZzzwvEW8Sn"
+              }
+            ]
+          }
+        },
+        "id": "1797727504540807168",
+        "name": "overdose百科",
+        "pinned_tweet_id": "1901216591343391081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889532170391396352/BjXFZMK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5272,
+          "following_count": 4344,
+          "like_count": 2833,
+          "listed_count": 5,
+          "media_count": 246,
+          "tweet_count": 3070
+        },
+        "url": "https://t.co/ZzzwvEW8Sn",
+        "username": "od_angelkaii_od",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T15:44:29.000Z",
+        "description": "overdose百科wiki主\n愿每一位药物滥用的人都能脱离深渊\n提供 od 咨询",
+        "id": "1893688350076542976",
+        "name": "💕🎀沐雨ソース💞✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893688536513040384/B_JIysQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 95,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 220
+        },
+        "username": "drug_artist",
+        "verified": false
+      }
+    ]
+  }
+}

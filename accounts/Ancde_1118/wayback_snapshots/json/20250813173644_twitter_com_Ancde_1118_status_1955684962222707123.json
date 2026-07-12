@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955684951741145088",
+        "3_1955684951745277953"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1955684962222707123",
+    "created_at": "2025-08-13T17:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T18:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955684962222707123"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f7r3jLnMdP",
+          "end": 170,
+          "expanded_url": "https://x.com/Ancde_1118/status/1955684962222707123/photo/1",
+          "media_key": "3_1955684951741145088",
+          "start": 147,
+          "url": "https://t.co/f7r3jLnMdP"
+        },
+        {
+          "display_url": "pic.x.com/f7r3jLnMdP",
+          "end": 170,
+          "expanded_url": "https://x.com/Ancde_1118/status/1955684962222707123/photo/1",
+          "media_key": "3_1955684951745277953",
+          "start": 147,
+          "url": "https://t.co/f7r3jLnMdP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955684962222707123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然被炒可能是因为手上的疤 虽然要找新工作仍然不能露出我的手臂 虽然已经很久没割了 但是控制不住自己去割 我好痛苦 我一边想变成正常人 不想再因为手上的疤被歧视 一边又控制不住自己 我好难受 我好痛苦 我下手很慢很轻 感受到刀在我手里划过肌肤而因为纹路不同而产生的颤动 对不起 我应该要怎么做 https://t.co/f7r3jLnMdP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955684951741145088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyP9GhkboAAg64f.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955684951745277953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyP9GhlasAE_p0h.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955684951741145088",
+            "3_1955684951745277953"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1955684962222707123",
+        "created_at": "2025-08-13T17:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T18:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955684962222707123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f7r3jLnMdP",
+              "end": 170,
+              "expanded_url": "https://x.com/Ancde_1118/status/1955684962222707123/photo/1",
+              "media_key": "3_1955684951741145088",
+              "start": 147,
+              "url": "https://t.co/f7r3jLnMdP"
+            },
+            {
+              "display_url": "pic.x.com/f7r3jLnMdP",
+              "end": 170,
+              "expanded_url": "https://x.com/Ancde_1118/status/1955684962222707123/photo/1",
+              "media_key": "3_1955684951745277953",
+              "start": 147,
+              "url": "https://t.co/f7r3jLnMdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955684962222707123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然被炒可能是因为手上的疤 虽然要找新工作仍然不能露出我的手臂 虽然已经很久没割了 但是控制不住自己去割 我好痛苦 我一边想变成正常人 不想再因为手上的疤被歧视 一边又控制不住自己 我好难受 我好痛苦 我下手很慢很轻 感受到刀在我手里划过肌肤而因为纹路不同而产生的颤动 对不起 我应该要怎么做 https://t.co/f7r3jLnMdP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1937294030800585027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 280,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 594
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

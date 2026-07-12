@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2060117521035055154",
+    "created_at": "2026-05-28T21:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T22:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060117521035055154"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ru__to_o/statu…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/ru__to_o/status/2059949011529015342",
+          "start": 28,
+          "url": "https://t.co/IJ0aqD4dGD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060117521035055154",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059949011529015342",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "私のことをわかってくれる人に、狂おしいほど愛されたい。 https://t.co/IJ0aqD4dGD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2060117521035055154",
+        "created_at": "2026-05-28T21:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T22:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060117521035055154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ru__to_o/statu…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/ru__to_o/status/2059949011529015342",
+              "start": 28,
+              "url": "https://t.co/IJ0aqD4dGD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060117521035055154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059949011529015342",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "私のことをわかってくれる人に、狂おしいほど愛されたい。 https://t.co/IJ0aqD4dGD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564950162929483778",
+        "conversation_id": "2059949011529015342",
+        "created_at": "2026-05-28T10:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059949011529015342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059949011529015342",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 35079,
+          "like_count": 1289,
+          "quote_count": 20,
+          "reply_count": 15,
+          "retweet_count": 247
+        },
+        "reply_settings": "everyone",
+        "text": "独占欲ある人にめちゃくちゃ愛されたい。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我是双性恋/tg@Sakura_sakura01118/我想交朋友 可以找我互fo/可以找我买电子烟",
+        "id": "1778719380639014913",
+        "name": "Sakura（烟代版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 488,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 916
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T12:17:02.000Z",
+        "description": "誰かの心の支えになれたら。",
+        "id": "1564950162929483778",
+        "location": "みんなで幸せになろう2026 / DM見てます",
+        "name": "るーと。",
+        "pinned_tweet_id": "1820446273088135364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779885911444271105/oIlDVIBO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25683,
+          "following_count": 1,
+          "like_count": 2513,
+          "listed_count": 57,
+          "media_count": 0,
+          "tweet_count": 2017
+        },
+        "username": "ru__to_o",
+        "verified": false
+      }
+    ]
+  }
+}

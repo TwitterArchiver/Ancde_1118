@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2063276989461733846",
+    "created_at": "2026-06-06T15:09:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T16:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063276989461733846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1990422988735520768",
+          "start": 3,
+          "username": "sleeppppyqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063276989461733846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059976414267371963",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sleeppppyqwq: hello我是薄荷 172/92/k8 重生之我在推特当门槛妹 因內家里给不了经济支持 所以我只能靠自己惹...喜欢我的哥哥可不可以给我一点小支持 入了门我会一直骚扰你的 请收下小薄荷的爱( ･᷄ὢ･᷅ ) 小宝宝可以找我互fo 随缘上线 我…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 690,
+        "media_key": "3_2059976385699958784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaBm8tW0AA3Sac.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2059976385670651905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaBm8mXoAE7DFM.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2059976385628610565",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaBm8cWIAUiyYa.jpg",
+        "width": 764
+      },
+      {
+        "height": 536,
+        "media_key": "3_2059976385670582275",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaBm8mWkAMVc7j.jpg",
+        "width": 566
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2063276989461733846",
+        "created_at": "2026-06-06T15:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063276989461733846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1990422988735520768",
+              "start": 3,
+              "username": "sleeppppyqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063276989461733846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059976414267371963",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sleeppppyqwq: hello我是薄荷 172/92/k8 重生之我在推特当门槛妹 因內家里给不了经济支持 所以我只能靠自己惹...喜欢我的哥哥可不可以给我一点小支持 入了门我会一直骚扰你的 请收下小薄荷的爱( ･᷄ὢ･᷅ ) 小宝宝可以找我互fo 随缘上线 我…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059976385699958784",
+            "3_2059976385670651905",
+            "3_2059976385628610565",
+            "3_2059976385670582275"
+          ]
+        },
+        "author_id": "1990422988735520768",
+        "conversation_id": "2059976414267371963",
+        "created_at": "2026-05-28T12:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059976414267371963"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "门槛"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "sm"
+            },
+            {
+              "end": 144,
+              "start": 139,
+              "tag": "电子女友"
+            },
+            {
+              "end": 150,
+              "start": 145,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 154,
+              "start": 151,
+              "tag": "反差"
+            },
+            {
+              "end": 159,
+              "start": 155,
+              "tag": "求入门"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1NliuflPaP",
+              "end": 183,
+              "expanded_url": "https://x.com/sleeppppyqwq/status/2059976414267371963/photo/1",
+              "media_key": "3_2059976385699958784",
+              "start": 160,
+              "url": "https://t.co/1NliuflPaP"
+            },
+            {
+              "display_url": "pic.x.com/1NliuflPaP",
+              "end": 183,
+              "expanded_url": "https://x.com/sleeppppyqwq/status/2059976414267371963/photo/1",
+              "media_key": "3_2059976385670651905",
+              "start": 160,
+              "url": "https://t.co/1NliuflPaP"
+            },
+            {
+              "display_url": "pic.x.com/1NliuflPaP",
+              "end": 183,
+              "expanded_url": "https://x.com/sleeppppyqwq/status/2059976414267371963/photo/1",
+              "media_key": "3_2059976385628610565",
+              "start": 160,
+              "url": "https://t.co/1NliuflPaP"
+            },
+            {
+              "display_url": "pic.x.com/1NliuflPaP",
+              "end": 183,
+              "expanded_url": "https://x.com/sleeppppyqwq/status/2059976414267371963/photo/1",
+              "media_key": "3_2059976385670582275",
+              "start": 160,
+              "url": "https://t.co/1NliuflPaP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059976414267371963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1732,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "hello我是薄荷 172/92/k8 重生之我在推特当门槛妹 因內家里给不了经济支持 所以我只能靠自己惹...喜欢我的哥哥可不可以给我一点小支持 入了门我会一直骚扰你的 请收下小薄荷的爱( ･᷄ὢ･᷅ ) 小宝宝可以找我互fo 随缘上线 我喜欢推特的大家...#门槛 #sm #电子女友 #金主爸爸 #反差 #求入门 https://t.co/1NliuflPaP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 602,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 1074
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T14:13:28.000Z",
+        "description": "宁要幸福 不要尊严\n只想和喜欢我的人双向奔赴TvT",
+        "id": "1990422988735520768",
+        "location": "5.2km",
+        "name": "薄荷",
+        "pinned_tweet_id": "2059976414267371963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990423179316387840/KZg2HqSP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 2,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 45
+        },
+        "username": "sleeppppyqwq",
+        "verified": false
+      }
+    ]
+  }
+}

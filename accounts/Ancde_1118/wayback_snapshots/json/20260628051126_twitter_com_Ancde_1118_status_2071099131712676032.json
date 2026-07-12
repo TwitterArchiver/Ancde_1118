@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2064795555965132827",
+    "created_at": "2026-06-28T05:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T06:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071099131712676032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1642466383832449024",
+          "start": 0,
+          "username": "Rei01_Shimizu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071099131712676032",
+    "in_reply_to_user_id": "1642466383832449024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064795555965132827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rei01_Shimizu 我来互fo了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1171,
+        "media_key": "3_2064795543306727424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKegm1ybcAAi86t.jpg",
+        "width": 1171
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064795543306694656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKegm1ya8AARZmi.jpg",
+        "width": 1537
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064795543310864384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKegm1zakAA6yaP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2064795555965132827",
+        "created_at": "2026-06-28T05:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071099131712676032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1642466383832449024",
+              "start": 0,
+              "username": "Rei01_Shimizu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071099131712676032",
+        "in_reply_to_user_id": "1642466383832449024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064795555965132827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rei01_Shimizu 我来互fo了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064795543306727424",
+            "3_2064795543306694656",
+            "3_2064795543310864384"
+          ]
+        },
+        "author_id": "1642466383832449024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2064795555965132827",
+        "created_at": "2026-06-10T19:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T20:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064795555965132827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LPDrTYfm6y",
+              "end": 169,
+              "expanded_url": "https://x.com/Rei01_Shimizu/status/2064795555965132827/photo/1",
+              "media_key": "3_2064795543306727424",
+              "start": 146,
+              "url": "https://t.co/LPDrTYfm6y"
+            },
+            {
+              "display_url": "pic.x.com/LPDrTYfm6y",
+              "end": 169,
+              "expanded_url": "https://x.com/Rei01_Shimizu/status/2064795555965132827/photo/1",
+              "media_key": "3_2064795543306694656",
+              "start": 146,
+              "url": "https://t.co/LPDrTYfm6y"
+            },
+            {
+              "display_url": "pic.x.com/LPDrTYfm6y",
+              "end": 169,
+              "expanded_url": "https://x.com/Rei01_Shimizu/status/2064795555965132827/photo/1",
+              "media_key": "3_2064795543310864384",
+              "start": 146,
+              "url": "https://t.co/LPDrTYfm6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064795555965132827",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 327,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泥嚎，我是小潋/レイちゃん，07年，大一。如果你想要打赏为一小点我会很高兴\n舞萌重度依赖，音乐的话基本jpop和术力口较多，如果歌单相似度高欢迎一起听w\n也许可以让你避雷：嗑药，抽烟，喝酒，自残\n我很温良，欢迎互fo，欢迎找我玩，🥺想要聊天或者是想要打电话都很欢迎！\n如果可以的话请多多爱我 https://t.co/LPDrTYfm6y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 652,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 1483
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-02T09:58:07.000Z",
+        "description": "幸せを探す\nレイたんだよww",
+        "id": "1642466383832449024",
+        "location": "地球",
+        "name": "レイイイイイイイイ",
+        "pinned_tweet_id": "2064795555965132827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067296760935116800/lSLj--Sq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 23,
+          "like_count": 85,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "Rei01_Shimizu",
+        "verified": false
+      }
+    ]
+  }
+}

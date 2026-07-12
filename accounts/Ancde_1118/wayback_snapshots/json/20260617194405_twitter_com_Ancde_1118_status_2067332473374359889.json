@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2067297874661241189",
+    "created_at": "2026-06-17T19:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T20:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067332473374359889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1186324831492423681",
+          "start": 0,
+          "username": "kelaier7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067332473374359889",
+    "in_reply_to_user_id": "1186324831492423681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067320402578452615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kelaier7 谢谢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067320394370179072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCY8g9a4AAIwj8.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2067297874661241189",
+        "created_at": "2026-06-17T19:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T20:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067332473374359889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1186324831492423681",
+              "start": 0,
+              "username": "kelaier7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067332473374359889",
+        "in_reply_to_user_id": "1186324831492423681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067320402578452615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kelaier7 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067320394370179072"
+          ]
+        },
+        "author_id": "1186324831492423681",
+        "conversation_id": "2067297874661241189",
+        "created_at": "2026-06-17T18:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067320402578452615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778719380639014913",
+              "start": 0,
+              "username": "Ancde_1118"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RUeTJsq7ue",
+              "end": 67,
+              "expanded_url": "https://x.com/kelaier7/status/2067320402578452615/photo/1",
+              "media_key": "3_2067320394370179072",
+              "start": 44,
+              "url": "https://t.co/RUeTJsq7ue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067320402578452615",
+        "in_reply_to_user_id": "1778719380639014913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067297874661241189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ancde_1118 备皮刀省事  但是有毛茬\n剃须刀  一定要打泡沫（刮的很干净） https://t.co/RUeTJsq7ue"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 631,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 1332
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-21T16:54:40.000Z",
+        "description": "我好像什么都不缺，又好像什么也没有",
+        "id": "1186324831492423681",
+        "location": "浙江",
+        "name": "kelaier",
+        "pinned_tweet_id": "2034742037640356123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060856110907797504/HaQV9Enn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 302,
+          "like_count": 6431,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 680
+        },
+        "username": "kelaier7",
+        "verified": false
+      }
+    ]
+  }
+}

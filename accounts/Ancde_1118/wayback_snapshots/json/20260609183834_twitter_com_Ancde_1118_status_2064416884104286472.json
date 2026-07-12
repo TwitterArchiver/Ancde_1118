@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2064416884104286472",
+    "created_at": "2026-06-09T18:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T19:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064416884104286472"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064416884104286472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无论是别人伤害我，还是我伤害别人，这样的感情生活我都忍够了。我好像没有办法像你们一样可以跟喜欢的人顺顺利利的在一起，我没经历过任何这样的好事，永远在磕碰永远在坎坷，永远在两个人最开心的时候一切戛然而止。为什么要这么折磨我呢？我到底做错了什么啊。是我太坏了吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2064416884104286472",
+        "created_at": "2026-06-09T18:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064416884104286472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064416884104286472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无论是别人伤害我，还是我伤害别人，这样的感情生活我都忍够了。我好像没有办法像你们一样可以跟喜欢的人顺顺利利的在一起，我没经历过任何这样的好事，永远在磕碰永远在坎坷，永远在两个人最开心的时候一切戛然而止。为什么要这么折磨我呢？我到底做错了什么啊。是我太坏了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 614,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1175
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

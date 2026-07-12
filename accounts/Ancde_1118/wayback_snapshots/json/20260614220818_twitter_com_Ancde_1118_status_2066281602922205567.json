@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2065889746942116064",
+    "created_at": "2026-06-14T22:08:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T23:08:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066281602922205567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1996438108800434176",
+          "start": 0,
+          "username": "PrismTraveler"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066281602922205567",
+    "in_reply_to_user_id": "1996438108800434176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066128221238931800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PrismTraveler 不知道 原图就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2065889746942116064",
+        "created_at": "2026-06-14T22:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T23:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066281602922205567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1996438108800434176",
+              "start": 0,
+              "username": "PrismTraveler"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066281602922205567",
+        "in_reply_to_user_id": "1996438108800434176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066128221238931800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PrismTraveler 不知道 原图就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996438108800434176",
+        "conversation_id": "2065889746942116064",
+        "created_at": "2026-06-14T11:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066128221238931800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778719380639014913",
+              "start": 0,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066128221238931800",
+        "in_reply_to_user_id": "1778719380639014913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065889746942116064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ancde_1118 这几个字还是用AI生成的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 609,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 1225
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-04T04:35:37.000Z",
+        "description": "Tell me what is real.",
+        "id": "1996438108800434176",
+        "location": "3v3rl@571n9 M1dn19h7",
+        "name": "Connection⇒",
+        "pinned_tweet_id": "2061488073721180603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065758705363369984/Y3kNX3Ws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 582,
+          "like_count": 5336,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1039
+        },
+        "username": "PrismTraveler",
+        "verified": false
+      }
+    ]
+  }
+}

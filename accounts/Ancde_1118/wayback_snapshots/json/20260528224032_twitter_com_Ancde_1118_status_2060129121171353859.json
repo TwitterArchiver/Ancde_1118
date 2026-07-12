@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2059867178162417960",
+    "created_at": "2026-05-28T22:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T23:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060129121171353859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1706027092020981760",
+          "start": 0,
+          "username": "xz5_fr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060129121171353859",
+    "in_reply_to_user_id": "1706027092020981760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059867178162417960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xz5_fr あなたと友達になりたいです。(´▽`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2059867178162417960",
+        "created_at": "2026-05-28T22:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T23:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060129121171353859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1706027092020981760",
+              "start": 0,
+              "username": "xz5_fr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060129121171353859",
+        "in_reply_to_user_id": "1706027092020981760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059867178162417960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xz5_fr あなたと友達になりたいです。(´▽`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706027092020981760",
+        "conversation_id": "2059867178162417960",
+        "created_at": "2026-05-28T05:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059867178162417960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059867178162417960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1374,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "お友達どうやって増やすんだ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我是双性恋/tg@Sakura_sakura01118/我想交朋友 可以找我互fo/可以找我买电子烟",
+        "id": "1778719380639014913",
+        "name": "Sakura（烟代版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 499,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 923
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T19:26:03.000Z",
+        "description": "学生/男/関西/病み垢/砂糖/溺愛",
+        "id": "1706027092020981760",
+        "name": "なお",
+        "pinned_tweet_id": "2059749646071955571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059740475368873984/gfDAbSJV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 57,
+          "like_count": 2237,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 106
+        },
+        "username": "xz5_fr",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2059624382851657858",
+    "created_at": "2026-05-27T13:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059624382851657858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1994423368507084800",
+          "start": 3,
+          "username": "M1n9yu9746"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "drive.google.com/file/d/1PS7Q78…",
+          "end": 58,
+          "expanded_url": "https://drive.google.com/file/d/1PS7Q78ScO923T7e4HbVpqstxw0G8n3LG/view?usp=sharing",
+          "start": 35,
+          "status": 200,
+          "title": "九号房间模拟器（通用版）.txt",
+          "unwound_url": "https://drive.google.com/file/d/1PS7Q78ScO923T7e4HbVpqstxw0G8n3LG/view?usp=sharing",
+          "url": "https://t.co/g1HzpRdGKg"
+        },
+        {
+          "description": "5.玩家需要给出角色A和角色B一起做爱时的风格，包括且不限于温柔，直接，害羞等 6.玩家在进入剧情前需要填写属于每个角色的【X】账号最新一次更新的内容",
+          "display_url": "docs.google.com/document/d/e/2…",
+          "end": 106,
+          "expanded_url": "https://docs.google.com/document/d/e/2PACX-1vRjsxg6Bd69bg_D4hBfKP7y4lgTX_06JV9Cq9WVsjMj7DfYwyiJYfooSqSzVfHC5Qaj51cHTwBQH0bz/pub",
+          "start": 83,
+          "status": 200,
+          "title": "模拟器",
+          "unwound_url": "https://docs.google.com/document/d/e/2PACX-1vRjsxg6Bd69bg_D4hBfKP7y4lgTX_06JV9Cq9WVsjMj7DfYwyiJYfooSqSzVfHC5Qaj51cHTwBQH0bz/pub",
+          "url": "https://t.co/8chYChohdU"
+        },
+        {
+          "description": "游戏核心概念 你是一个韩娱嫂子模拟器，我将扮演一位韩国男明星（玩家可自选现实存在的明星）的秘密女友。我的身份、我与男友的关系性质、以及未来发展的所有可能性，都将由我的选择和游戏的随机事件决定。请沉浸式体验在K-pop光鲜舞台与严格偶像工业背后，作为“嫂子”的浪漫、压力、抉择与冒险。 二、 初始设定（由玩家选择或随机） 1. 选择我的身份 ：粉丝、经纪人、演员/歌手同行、练习生、造型师、素人、制作人、财阀背景等。不同身份会影响初始属性、相遇方式、日常互动和可能触发的事件。 2. 选择明星男友 ：请输入我希望建立恋爱关系的韩国男明星姓名以及爱称（欧巴等）。系统将严格基于该...",
+          "display_url": "docs.google.com/document/d/13x…",
+          "end": 137,
+          "expanded_url": "https://docs.google.com/document/d/13xCUDa2X2SdEf_wsb4A31ZKC0Hh-EDLB/edit?usp=drivesdk&ouid=117518252120152291276&rtpof=true&sd=true",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2059023676704788480/PXlS0NrE?format=png&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2059023676704788480/PXlS0NrE?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 114,
+          "status": 200,
+          "title": "嫂嫂模拟器.docx",
+          "unwound_url": "https://docs.google.com/document/d/13xCUDa2X2SdEf_wsb4A31ZKC0Hh-EDLB/edit?usp=drivesdk&ouid=117518252120152291276&rtpof=true&sd=true",
+          "url": "https://t.co/1LhOVForYA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059624382851657858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 641
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059024599023776133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @M1n9yu9746: 九号房间 （作者：atproooo）\nhttps://t.co/g1HzpRdGKg\n\n网黄模拟器 （作者：sibdxbakrkf）\nhttps://t.co/8chYChohdU\n\n嫂嫂模拟器\nhttps://t.co/1LhOVForYA…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 674,
+        "media_key": "3_2059024586977775616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJMf8-KbEAA6DXs.jpg",
+        "width": 1203
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059024586973564928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJMf8-Ja0AAlun2.jpg",
+        "width": 758
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2059624382851657858",
+        "created_at": "2026-05-27T13:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059624382851657858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1994423368507084800",
+              "start": 3,
+              "username": "M1n9yu9746"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "drive.google.com/file/d/1PS7Q78…",
+              "end": 58,
+              "expanded_url": "https://drive.google.com/file/d/1PS7Q78ScO923T7e4HbVpqstxw0G8n3LG/view?usp=sharing",
+              "start": 35,
+              "status": 200,
+              "title": "九号房间模拟器（通用版）.txt",
+              "unwound_url": "https://drive.google.com/file/d/1PS7Q78ScO923T7e4HbVpqstxw0G8n3LG/view?usp=sharing",
+              "url": "https://t.co/g1HzpRdGKg"
+            },
+            {
+              "description": "5.玩家需要给出角色A和角色B一起做爱时的风格，包括且不限于温柔，直接，害羞等 6.玩家在进入剧情前需要填写属于每个角色的【X】账号最新一次更新的内容",
+              "display_url": "docs.google.com/document/d/e/2…",
+              "end": 106,
+              "expanded_url": "https://docs.google.com/document/d/e/2PACX-1vRjsxg6Bd69bg_D4hBfKP7y4lgTX_06JV9Cq9WVsjMj7DfYwyiJYfooSqSzVfHC5Qaj51cHTwBQH0bz/pub",
+              "start": 83,
+              "status": 200,
+              "title": "模拟器",
+              "unwound_url": "https://docs.google.com/document/d/e/2PACX-1vRjsxg6Bd69bg_D4hBfKP7y4lgTX_06JV9Cq9WVsjMj7DfYwyiJYfooSqSzVfHC5Qaj51cHTwBQH0bz/pub",
+              "url": "https://t.co/8chYChohdU"
+            },
+            {
+              "description": "游戏核心概念 你是一个韩娱嫂子模拟器，我将扮演一位韩国男明星（玩家可自选现实存在的明星）的秘密女友。我的身份、我与男友的关系性质、以及未来发展的所有可能性，都将由我的选择和游戏的随机事件决定。请沉浸式体验在K-pop光鲜舞台与严格偶像工业背后，作为“嫂子”的浪漫、压力、抉择与冒险。 二、 初始设定（由玩家选择或随机） 1. 选择我的身份 ：粉丝、经纪人、演员/歌手同行、练习生、造型师、素人、制作人、财阀背景等。不同身份会影响初始属性、相遇方式、日常互动和可能触发的事件。 2. 选择明星男友 ：请输入我希望建立恋爱关系的韩国男明星姓名以及爱称（欧巴等）。系统将严格基于该...",
+              "display_url": "docs.google.com/document/d/13x…",
+              "end": 137,
+              "expanded_url": "https://docs.google.com/document/d/13xCUDa2X2SdEf_wsb4A31ZKC0Hh-EDLB/edit?usp=drivesdk&ouid=117518252120152291276&rtpof=true&sd=true",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2059023676704788480/PXlS0NrE?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2059023676704788480/PXlS0NrE?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 114,
+              "status": 200,
+              "title": "嫂嫂模拟器.docx",
+              "unwound_url": "https://docs.google.com/document/d/13xCUDa2X2SdEf_wsb4A31ZKC0Hh-EDLB/edit?usp=drivesdk&ouid=117518252120152291276&rtpof=true&sd=true",
+              "url": "https://t.co/1LhOVForYA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059624382851657858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 641
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059024599023776133",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @M1n9yu9746: 九号房间 （作者：atproooo）\nhttps://t.co/g1HzpRdGKg\n\n网黄模拟器 （作者：sibdxbakrkf）\nhttps://t.co/8chYChohdU\n\n嫂嫂模拟器\nhttps://t.co/1LhOVForYA…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059024586977775616",
+            "3_2059024586973564928"
+          ]
+        },
+        "author_id": "1994423368507084800",
+        "conversation_id": "2059024599023776133",
+        "created_at": "2026-05-25T21:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T22:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059024599023776133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "drive.google.com/file/d/1PS7Q78…",
+              "end": 42,
+              "expanded_url": "https://drive.google.com/file/d/1PS7Q78ScO923T7e4HbVpqstxw0G8n3LG/view?usp=sharing",
+              "start": 19,
+              "status": 200,
+              "title": "九号房间模拟器（通用版）.txt",
+              "unwound_url": "https://drive.google.com/file/d/1PS7Q78ScO923T7e4HbVpqstxw0G8n3LG/view?usp=sharing",
+              "url": "https://t.co/g1HzpRdGKg"
+            },
+            {
+              "description": "5.玩家需要给出角色A和角色B一起做爱时的风格，包括且不限于温柔，直接，害羞等 6.玩家在进入剧情前需要填写属于每个角色的【X】账号最新一次更新的内容",
+              "display_url": "docs.google.com/document/d/e/2…",
+              "end": 90,
+              "expanded_url": "https://docs.google.com/document/d/e/2PACX-1vRjsxg6Bd69bg_D4hBfKP7y4lgTX_06JV9Cq9WVsjMj7DfYwyiJYfooSqSzVfHC5Qaj51cHTwBQH0bz/pub",
+              "start": 67,
+              "status": 200,
+              "title": "模拟器",
+              "unwound_url": "https://docs.google.com/document/d/e/2PACX-1vRjsxg6Bd69bg_D4hBfKP7y4lgTX_06JV9Cq9WVsjMj7DfYwyiJYfooSqSzVfHC5Qaj51cHTwBQH0bz/pub",
+              "url": "https://t.co/8chYChohdU"
+            },
+            {
+              "description": "游戏核心概念 你是一个韩娱嫂子模拟器，我将扮演一位韩国男明星（玩家可自选现实存在的明星）的秘密女友。我的身份、我与男友的关系性质、以及未来发展的所有可能性，都将由我的选择和游戏的随机事件决定。请沉浸式体验在K-pop光鲜舞台与严格偶像工业背后，作为“嫂子”的浪漫、压力、抉择与冒险。 二、 初始设定（由玩家选择或随机） 1. 选择我的身份 ：粉丝、经纪人、演员/歌手同行、练习生、造型师、素人、制作人、财阀背景等。不同身份会影响初始属性、相遇方式、日常互动和可能触发的事件。 2. 选择明星男友 ：请输入我希望建立恋爱关系的韩国男明星姓名以及爱称（欧巴等）。系统将严格基于该...",
+              "display_url": "docs.google.com/document/d/13x…",
+              "end": 121,
+              "expanded_url": "https://docs.google.com/document/d/13xCUDa2X2SdEf_wsb4A31ZKC0Hh-EDLB/edit?usp=drivesdk&ouid=117518252120152291276&rtpof=true&sd=true",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2059023676704788480/PXlS0NrE?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2059023676704788480/PXlS0NrE?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 98,
+              "status": 200,
+              "title": "嫂嫂模拟器.docx",
+              "unwound_url": "https://docs.google.com/document/d/13xCUDa2X2SdEf_wsb4A31ZKC0Hh-EDLB/edit?usp=drivesdk&ouid=117518252120152291276&rtpof=true&sd=true",
+              "url": "https://t.co/1LhOVForYA"
+            },
+            {
+              "description": "必看❗补全末位信息再发送！逻辑贴合设定，随时输入[查看手机]跳转手机界面 🎮韩娱双线出轨沉浸式文字游戏【终极完整版】 韩娱文游·终极人物行为约束置顶硬规则（最高优先级·强制执行） 前置总纲（绝对最高优先级） 本世界为被经纪公司、行程、媒体、粉丝经济、舆论风险严格管控的高压韩娱系统世界，绝非普通现实自由世界。 所有NPC行为禁止套用普通人生活常识、普通人自由行动逻辑。 全体艺人、公众人物、财阀角色，统一行为核心：全程符合被经纪公司管控、被舆论束缚、无完全私人自由的职业艺人状态，所有剧情补全、人物行动、场景出场，必须优先遵循本规则，本规则优先级高于剧情发挥、细节补全、日常...",
+              "display_url": "docs.google.com/document/d/1-b…",
+              "end": 152,
+              "expanded_url": "https://docs.google.com/document/d/1-bfgQnEguPWZAUB2JTP4LovK72uiNHGO0K2bRt4Qq5k/edit?usp=drivesdk",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2059023634384158721/bOKYdxIt?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2059023634384158721/bOKYdxIt?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 129,
+              "status": 200,
+              "title": "出轨",
+              "unwound_url": "https://docs.google.com/document/d/1-bfgQnEguPWZAUB2JTP4LovK72uiNHGO0K2bRt4Qq5k/edit?usp=drivesdk",
+              "url": "https://t.co/nVX5Sa83hu"
+            },
+            {
+              "display_url": "drive.google.com/file/d/1_9xP9k…",
+              "end": 183,
+              "expanded_url": "https://drive.google.com/file/d/1_9xP9kDbrM_ly0Dpd_BjQVJ5VcBW8qfA/view",
+              "start": 160,
+              "status": 200,
+              "title": "梦女模拟器.txt",
+              "unwound_url": "https://drive.google.com/file/d/1_9xP9kDbrM_ly0Dpd_BjQVJ5VcBW8qfA/view",
+              "url": "https://t.co/jOOQrQigZ8"
+            },
+            {
+              "description": "【做爱文风·指定do文风】 文风定位：高刺激、强情欲、直白细腻、沉浸式、张力拉满、病娇黏人+强势占有并存。 1.用词直白露骨，动作细节拉满，不隐晦、不抽象、不文雅。 2.情绪强烈：委屈、哭腔、占有欲、疯批、撒娇、凶狠切换自然。 3.对话短句多、语气真实，黏人撒娇与狠厉强势反差。 4.心理活动密集，侧重委屈、吃醋、偏执、占有、自虐、后悔、痴恋。 5.场景紧凑、节奏快，动作—心理—对话—动作循环推进。 6.视角以“你”为核心，穿插夏做爱对象视角心理。 7.人物语气锁死：正宫对象对外凶、对你黏、软、委屈、哭腔、撒娇，床上偏执强势，事后装可怜；出轨对象强势、野、直接、挑衅、占有欲...",
+              "display_url": "docs.google.com/document/d/1-g…",
+              "end": 213,
+              "expanded_url": "https://docs.google.com/document/d/1-guw9Ln7jKy8OQ72AUik0Hn8j4I0uaDo6dq2Fs8aaCc/edit?usp=drivesdk",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2059023636980432896/KpKVakBc?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2059023636980432896/KpKVakBc?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 190,
+              "status": 200,
+              "title": "doi",
+              "unwound_url": "https://docs.google.com/document/d/1-guw9Ln7jKy8OQ72AUik0Hn8j4I0uaDo6dq2Fs8aaCc/edit?usp=drivesdk",
+              "url": "https://t.co/2AAQXb7iXl"
+            },
+            {
+              "display_url": "pic.x.com/YElNpF5XB0",
+              "end": 237,
+              "expanded_url": "https://x.com/M1n9yu9746/status/2059024599023776133/photo/1",
+              "media_key": "3_2059024586977775616",
+              "start": 214,
+              "url": "https://t.co/YElNpF5XB0"
+            },
+            {
+              "display_url": "pic.x.com/YElNpF5XB0",
+              "end": 237,
+              "expanded_url": "https://x.com/M1n9yu9746/status/2059024599023776133/photo/1",
+              "media_key": "3_2059024586973564928",
+              "start": 214,
+              "url": "https://t.co/YElNpF5XB0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059024599023776133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3943,
+          "impression_count": 161560,
+          "like_count": 5133,
+          "quote_count": 30,
+          "reply_count": 78,
+          "retweet_count": 641
+        },
+        "reply_settings": "everyone",
+        "text": "九号房间 （作者：atproooo）\nhttps://t.co/g1HzpRdGKg\n\n网黄模拟器 （作者：sibdxbakrkf）\nhttps://t.co/8chYChohdU\n\n嫂嫂模拟器\nhttps://t.co/1LhOVForYA\n\n出轨模拟器\nhttps://t.co/nVX5Sa83hu\n\n梦女模拟器\nhttps://t.co/jOOQrQigZ8\n\n开车指令\nhttps://t.co/2AAQXb7iXl https://t.co/YElNpF5XB0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我是双性恋/tg@Sakura_sakura01118/我想交朋友 可以找我互fo/可以找我买电子烟",
+        "id": "1778719380639014913",
+        "name": "Sakura（烟代版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 476,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 898
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-28T15:09:31.000Z",
+        "description": "🔞 ONLY MINGYU ⋆ nsfw edits | DM for removal",
+        "id": "1994423368507084800",
+        "name": "X",
+        "pinned_tweet_id": "2059561037847003642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055624922412802048/wkJlB2Ei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4099,
+          "following_count": 0,
+          "like_count": 805,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 696
+        },
+        "username": "M1n9yu9746",
+        "verified": false
+      }
+    ]
+  }
+}

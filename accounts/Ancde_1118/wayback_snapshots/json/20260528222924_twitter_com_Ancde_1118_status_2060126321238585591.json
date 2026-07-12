@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2060027287471608206",
+    "created_at": "2026-05-28T22:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T23:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060126321238585591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1891781148268969984",
+          "start": 0,
+          "username": "12yura27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060126321238585591",
+    "in_reply_to_user_id": "1891781148268969984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060027287471608206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@12yura27 あなたと友達になってもよろしいでしょうか？もし可能であれば、どうぞよろしくお願いいたします！(^з^)-☆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2060027287471608206",
+        "created_at": "2026-05-28T22:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T23:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060126321238585591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1891781148268969984",
+              "start": 0,
+              "username": "12yura27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060126321238585591",
+        "in_reply_to_user_id": "1891781148268969984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060027287471608206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@12yura27 あなたと友達になってもよろしいでしょうか？もし可能であれば、どうぞよろしくお願いいたします！(^з^)-☆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891781148268969984",
+        "conversation_id": "2060027287471608206",
+        "created_at": "2026-05-28T15:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060027287471608206"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 10,
+              "tag": "病み垢女子と繋がりたい"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060027287471608206",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 526,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女の子の友達ほしい\n#病み垢女子と繋がりたい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我是双性恋/tg@Sakura_sakura01118/我想交朋友 可以找我互fo/可以找我买电子烟",
+        "id": "1778719380639014913",
+        "name": "Sakura（烟代版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 494,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 920
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T09:26:11.000Z",
+        "description": "東京￤女￤病み垢￤日常垢￤口悪いです",
+        "id": "1891781148268969984",
+        "name": "ﾕﾗ",
+        "pinned_tweet_id": "2057483303217922083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894457919589974016/wZoPYsVC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 35,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 43
+        },
+        "username": "12yura27",
+        "verified": false
+      }
+    ]
+  }
+}

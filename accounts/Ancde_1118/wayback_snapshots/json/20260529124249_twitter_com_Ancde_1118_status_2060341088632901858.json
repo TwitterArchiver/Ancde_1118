@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2060159264132575521",
+    "created_at": "2026-05-29T12:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T13:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060341088632901858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1963573527971557376",
+          "start": 0,
+          "username": "0808___0101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060341088632901858",
+    "in_reply_to_user_id": "1963573527971557376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060159264132575521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0808___0101 あなたと友達になりに来ました"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2060159264132575521",
+        "created_at": "2026-05-29T12:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060341088632901858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1963573527971557376",
+              "start": 0,
+              "username": "0808___0101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060341088632901858",
+        "in_reply_to_user_id": "1963573527971557376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060159264132575521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0808___0101 あなたと友達になりに来ました"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963573527971557376",
+        "conversation_id": "2060159264132575521",
+        "created_at": "2026-05-29T00:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T01:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060159264132575521"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060159264132575521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 839,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "どうすればお友達作れますか´т ‧̫ т ̀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 502,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 928
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T12:03:17.000Z",
+        "description": "",
+        "id": "1963573527971557376",
+        "name": "ゆづき",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995499437347770368/m6L2nDXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 8,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "0808___0101",
+        "verified": false
+      }
+    ]
+  }
+}

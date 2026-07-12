@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2068549146836156580",
+    "created_at": "2026-06-21T04:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T05:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068549146836156580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1886421046640902144",
+          "start": 3,
+          "username": "ry231223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068549146836156580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067806219931447322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ry231223: 特别恨“脖子吃醋了”、“改花刀”这一类话，一定要死才能证明自己痛苦不然就是矫情吗？要把人逼死才满意吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2068549146836156580",
+        "created_at": "2026-06-21T04:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068549146836156580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1886421046640902144",
+              "start": 3,
+              "username": "ry231223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068549146836156580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067806219931447322",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ry231223: 特别恨“脖子吃醋了”、“改花刀”这一类话，一定要死才能证明自己痛苦不然就是矫情吗？要把人逼死才满意吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2067806219931447322",
+        "created_at": "2026-06-19T03:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067806219931447322"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067806219931447322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9800,
+          "like_count": 351,
+          "quote_count": 5,
+          "reply_count": 28,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "特别恨“脖子吃醋了”、“改花刀”这一类话，一定要死才能证明自己痛苦不然就是矫情吗？要把人逼死才满意吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 635,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 1358
+        },
+        "url": "",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "♀🌈09/INFJ/雙相/自傷/od│回fo只回同好＆同類",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2067179880505332212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066982017397596160/nvBcRppn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 39,
+          "like_count": 2192,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 180
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1955060347225948659",
+    "created_at": "2025-08-12T00:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T01:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955060347225948659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688397365336850432",
+          "start": 3,
+          "username": "hongpigu980"
+        },
+        {
+          "end": 66,
+          "id": "463119163",
+          "start": 55,
+          "username": "Meibaoyang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955060347225948659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 215
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954880852925780106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hongpigu980: 来抽奖啦！🎁 这次送大家一个西太后（可折现1111元）\n参与方式：关注我和 @Meibaoyang ，并点赞评论+转发此条推文 \n✅ 开奖时间：9月11号，拒绝黑幕！开奖当天用随机数字抽奖～希望大家喜欢💕\n本次奖品赞助商：Mei包养平台，致力于…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1531,
+        "media_key": "3_1954880783577145344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyEhtxtaYAALnWd.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1955060347225948659",
+        "created_at": "2025-08-12T00:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T01:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955060347225948659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688397365336850432",
+              "start": 3,
+              "username": "hongpigu980"
+            },
+            {
+              "end": 66,
+              "id": "463119163",
+              "start": 55,
+              "username": "Meibaoyang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955060347225948659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 215
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954880852925780106",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hongpigu980: 来抽奖啦！🎁 这次送大家一个西太后（可折现1111元）\n参与方式：关注我和 @Meibaoyang ，并点赞评论+转发此条推文 \n✅ 开奖时间：9月11号，拒绝黑幕！开奖当天用随机数字抽奖～希望大家喜欢💕\n本次奖品赞助商：Mei包养平台，致力于…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954880783577145344"
+          ]
+        },
+        "author_id": "1688397365336850432",
+        "conversation_id": "1954880852925780106",
+        "created_at": "2025-08-11T12:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T13:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954880852925780106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 49,
+              "id": "463119163",
+              "start": 38,
+              "username": "Meibaoyang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HFySiiqVXl",
+              "end": 175,
+              "expanded_url": "https://x.com/hongpigu980/status/1954880852925780106/photo/1",
+              "media_key": "3_1954880783577145344",
+              "start": 152,
+              "url": "https://t.co/HFySiiqVXl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954880852925780106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 21485,
+          "like_count": 238,
+          "quote_count": 3,
+          "reply_count": 239,
+          "retweet_count": 215
+        },
+        "reply_settings": "everyone",
+        "text": "来抽奖啦！🎁 这次送大家一个西太后（可折现1111元）\n参与方式：关注我和 @Meibaoyang ，并点赞评论+转发此条推文 \n✅ 开奖时间：9月11号，拒绝黑幕！开奖当天用随机数字抽奖～希望大家喜欢💕\n本次奖品赞助商：Mei包养平台，致力于给每一个老板找到心灵的港湾，已在极搜AO担保上押3000u https://t.co/HFySiiqVXl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1937294030800585027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 277,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 589
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”推广自辨/关评为广",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1954880852925780106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66089,
+          "following_count": 59,
+          "like_count": 68,
+          "listed_count": 60,
+          "media_count": 982,
+          "tweet_count": 1265
+        },
+        "username": "hongpigu980",
+        "verified": true
+      },
+      {
+        "created_at": "2012-01-13T18:59:59.000Z",
+        "description": "平台已上押3000u，支持担保交易！\n专注包养服务，不定期更新群内包养资源，售后有保障。\nTG官方社群👉:  https://t.co/xZ0ij4EfEr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/qingqingdekeai…",
+                "end": 78,
+                "expanded_url": "https://t.me/qingqingdekeairichang",
+                "start": 55,
+                "url": "https://t.co/xZ0ij4EfEr"
+              }
+            ]
+          }
+        },
+        "id": "463119163",
+        "location": "阿姆斯特丹",
+        "name": "Mei包养平台",
+        "pinned_tweet_id": "1930885581304909846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930883846679179264/f48pcgMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8484,
+          "following_count": 41,
+          "like_count": 1041,
+          "listed_count": 22,
+          "media_count": 245,
+          "tweet_count": 505
+        },
+        "username": "Meibaoyang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2062277019203957076",
+    "created_at": "2026-06-03T20:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T21:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062277019203957076"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_desire2/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/_desire2/status/2062225651743297983",
+          "start": 9,
+          "url": "https://t.co/84J9oGwoKh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062277019203957076",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062225651743297983",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我都能做到哦^^ https://t.co/84J9oGwoKh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2062277019203957076",
+        "created_at": "2026-06-03T20:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T21:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062277019203957076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_desire2/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/_desire2/status/2062225651743297983",
+              "start": 9,
+              "url": "https://t.co/84J9oGwoKh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062277019203957076",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062225651743297983",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我都能做到哦^^ https://t.co/84J9oGwoKh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1633926462184263685",
+        "conversation_id": "2062225651743297983",
+        "created_at": "2026-06-03T17:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062225651743297983"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062225651743297983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 363,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男人啊，总是希望女人即是妈妈，又是姐姐，即是恋人，又是女儿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 562,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1030
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T20:23:20.000Z",
+        "description": "“我与我周旋久，宁作我”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_desire22",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_desire22",
+                "start": 0,
+                "url": "https://t.co/VF2aHx0ln6"
+              }
+            ]
+          }
+        },
+        "id": "1633926462184263685",
+        "location": "海王星",
+        "name": "只鱼",
+        "pinned_tweet_id": "1876657992218882190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892237025035816960/Ja0GfowM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2763,
+          "following_count": 400,
+          "like_count": 13826,
+          "listed_count": 12,
+          "media_count": 1628,
+          "tweet_count": 7544
+        },
+        "url": "https://t.co/VF2aHx0ln6",
+        "username": "_Desire2",
+        "verified": false
+      }
+    ]
+  }
+}

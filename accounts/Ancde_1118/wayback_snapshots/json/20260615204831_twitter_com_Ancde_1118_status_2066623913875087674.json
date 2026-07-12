@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2066623913875087674",
+    "created_at": "2026-06-15T20:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T21:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066623913875087674"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/konwakubot/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/konwakubot/status/2066467376699515174",
+          "start": 11,
+          "url": "https://t.co/IPAX5lDjUn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066623913875087674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066467376699515174",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看成特朗普是什么型人 https://t.co/IPAX5lDjUn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 694,
+        "media_key": "3_2066467372840677376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2RIIIacAAGx5N.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2066623913875087674",
+        "created_at": "2026-06-15T20:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T21:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066623913875087674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/konwakubot/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/konwakubot/status/2066467376699515174",
+              "start": 11,
+              "url": "https://t.co/IPAX5lDjUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066623913875087674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066467376699515174",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看成特朗普是什么型人 https://t.co/IPAX5lDjUn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066467372840677376"
+          ]
+        },
+        "author_id": "3255424380",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066467376699515174",
+        "created_at": "2026-06-15T10:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066467376699515174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wNjiSLCmX6",
+              "end": 58,
+              "expanded_url": "https://x.com/konwakubot/status/2066467376699515174/photo/1",
+              "media_key": "3_2066467372840677376",
+              "start": 35,
+              "url": "https://t.co/wNjiSLCmX6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066467376699515174",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 705,
+          "impression_count": 3613385,
+          "like_count": 6667,
+          "quote_count": 2388,
+          "reply_count": 2560,
+          "retweet_count": 366
+        },
+        "reply_settings": "everyone",
+        "text": "もし右脳派なら、クジラが見えます。もし左脳派なら、キリンが見えます。 https://t.co/wNjiSLCmX6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 610,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 1240
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-25T09:41:44.000Z",
+        "description": "毎日一瞬困惑するような投稿をします。何が何だかわからない…。【もっと困惑するのはこっち👉＠iglavabwa1971 ＠WayneeRapLike】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 44,
+                "username": "iglavabwa1971"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "WayneeRapLike"
+              }
+            ]
+          }
+        },
+        "id": "3255424380",
+        "location": "※困惑する画像・その他ご要望はDMまで（スパムで埋もれる事あ",
+        "name": "困惑bot",
+        "pinned_tweet_id": "1902315363154481422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741247483198701568/troUyggh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181963,
+          "following_count": 455,
+          "like_count": 71419,
+          "listed_count": 338,
+          "media_count": 34,
+          "tweet_count": 103
+        },
+        "username": "konwakubot",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1901676131230822686",
+    "created_at": "2025-03-17T16:44:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T17:44:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901676131230822686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1593905954575171584",
+          "start": 3,
+          "username": "dsfin1989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901676131230822686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901626440099000692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dsfin1989: 我用撸过的手和你扣过的手牵手，那我们算不算炮友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1901676131230822686",
+        "created_at": "2025-03-17T16:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T17:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901676131230822686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1593905954575171584",
+              "start": 3,
+              "username": "dsfin1989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901676131230822686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901626440099000692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dsfin1989: 我用撸过的手和你扣过的手牵手，那我们算不算炮友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593905954575171584",
+        "conversation_id": "1901626440099000692",
+        "created_at": "2025-03-17T13:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T14:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901626440099000692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901626440099000692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1315,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我用撸过的手和你扣过的手牵手，那我们算不算炮友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 酗酒 抽烟 嗑药/想交朋友/我的tg频道⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+tGPZagccCeE0M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+tGPZagccCeE0M2I1",
+                "start": 0,
+                "url": "https://t.co/YOU43GttEH"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 97,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 85
+        },
+        "url": "https://t.co/YOU43GttEH",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T09:56:15.000Z",
+        "description": "一个低俗的人，一个混沌的人，一个无道德的人，一个绑定了低级趣味的人，一个有害于人民的人。\n叫妈妈是我的爱好，介意致歉\n逃生舱 @dengxiaopi86090\n🚪89.64\n@gjbriii 不知道哪个人的阴暗面https://t.co/GOAWeqELde",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "dengxiaopi86090"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "gjbriii"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 129,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=qB6yuROs",
+                "start": 106,
+                "url": "https://t.co/GOAWeqELde"
+              }
+            ]
+          }
+        },
+        "id": "1593905954575171584",
+        "location": "马斯克妈妈的坟墓前",
+        "name": "稻上飞归来之河南人偷井盖偶遇打完老婆的山东人和东北人一起去饺子店吃桌饺被上海人歧视触发连招为河南争光",
+        "pinned_tweet_id": "1891513074047168867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872964552071299072/M0JLGXPY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13256,
+          "following_count": 2413,
+          "like_count": 61514,
+          "listed_count": 22,
+          "media_count": 2291,
+          "tweet_count": 24711
+        },
+        "username": "dsfin1989",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1961038548783734784"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "conversation_id": "1961038618568585616",
+    "created_at": "2025-08-28T12:10:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T13:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961038618568585616"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/asNsRDk8DF",
+          "end": 47,
+          "expanded_url": "https://x.com/Ancde_1118/status/1961038618568585616/video/1",
+          "media_key": "13_1961038548783734784",
+          "start": 24,
+          "url": "https://t.co/asNsRDk8DF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961038618568585616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "bro依旧在穿孔让街区的小孩失去自由侧睡的权利 https://t.co/asNsRDk8DF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9913,
+        "height": 960,
+        "media_key": "13_1961038548783734784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1961038548783734784/img/w2cGn70HxRFN7LLt.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961038548783734784/vid/avc1/320x426/EwzhecF2235ASSKC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961038548783734784/vid/avc1/480x640/InlOdntBzpLhH_jE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961038548783734784/vid/avc1/720x960/meq8jpgdtm3R_yAh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1961038548783734784/pl/7dCUM8BexP4IwE3j.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1961038548783734784"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "conversation_id": "1961038618568585616",
+        "created_at": "2025-08-28T12:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T13:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961038618568585616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/asNsRDk8DF",
+              "end": 47,
+              "expanded_url": "https://x.com/Ancde_1118/status/1961038618568585616/video/1",
+              "media_key": "13_1961038548783734784",
+              "start": 24,
+              "url": "https://t.co/asNsRDk8DF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961038618568585616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bro依旧在穿孔让街区的小孩失去自由侧睡的权利 https://t.co/asNsRDk8DF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1937294030800585027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 297,
+          "like_count": 57,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 614
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

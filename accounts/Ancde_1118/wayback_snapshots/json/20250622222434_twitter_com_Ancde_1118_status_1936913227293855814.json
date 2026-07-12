@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1936913227293855814",
+    "created_at": "2025-06-22T22:24:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T23:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936913227293855814"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/anblk984/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/anblk984/status/1936415928327249960",
+          "start": 6,
+          "url": "https://t.co/P86dZMSzhx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936913227293855814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936415928327249960",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我又没杀人 https://t.co/P86dZMSzhx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 696,
+        "media_key": "3_1936415925906939904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt-IBmkXoAATlY-.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1936913227293855814",
+        "created_at": "2025-06-22T22:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T23:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936913227293855814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anblk984/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/anblk984/status/1936415928327249960",
+              "start": 6,
+              "url": "https://t.co/P86dZMSzhx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936913227293855814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936415928327249960",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我又没杀人 https://t.co/P86dZMSzhx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936415925906939904"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "1936415928327249960",
+        "created_at": "2025-06-21T13:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T14:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936415928327249960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P477qVqbNC",
+              "end": 23,
+              "expanded_url": "https://x.com/anblk984/status/1936415928327249960/photo/1",
+              "media_key": "3_1936415925906939904",
+              "start": 0,
+              "url": "https://t.co/P477qVqbNC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936415928327249960",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 87599,
+          "like_count": 989,
+          "quote_count": 7,
+          "reply_count": 13,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/P477qVqbNC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 237,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 486
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人   无米线爱习楠                                                                   \n狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真   最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anblk984",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anblk984",
+                "start": 0,
+                "url": "https://t.co/lbrp9vzziV"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "纳克萨玛斯          下面是匿名问题",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1809158399952818366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806502873544671232/5QMKRtxU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7971,
+          "following_count": 955,
+          "like_count": 85971,
+          "listed_count": 48,
+          "media_count": 1399,
+          "tweet_count": 19863
+        },
+        "url": "https://t.co/lbrp9vzziV",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

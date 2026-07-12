@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1902087750800818177",
+    "created_at": "2025-03-18T20:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T21:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1902087750800818177"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/loolzaozmin/st…",
+          "end": 172,
+          "expanded_url": "https://twitter.com/loolzaozmin/status/1902011796116082722",
+          "start": 149,
+          "url": "https://t.co/vZYwptVLIp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902087750800818177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902011796116082722",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我特别喜欢让自己瘦到看起来病态的程度 纤细的四肢单薄的身体 拍照的时候看见胸下的肋骨 瘦到自己看起来像尸体 但是我老是卡在90斤172的身高光骨架就让我瘦不下去了 其实根本不吃饭但是就是体重不下来 天天为自己的体重焦虑 我觉得我特么的真是有病死神经病一个 要么就是吃精神病药物吃傻了或者odo傻了 https://t.co/vZYwptVLIp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1902087750800818177",
+        "created_at": "2025-03-18T20:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T21:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902087750800818177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/loolzaozmin/st…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/loolzaozmin/status/1902011796116082722",
+              "start": 149,
+              "url": "https://t.co/vZYwptVLIp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902087750800818177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902011796116082722",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我特别喜欢让自己瘦到看起来病态的程度 纤细的四肢单薄的身体 拍照的时候看见胸下的肋骨 瘦到自己看起来像尸体 但是我老是卡在90斤172的身高光骨架就让我瘦不下去了 其实根本不吃饭但是就是体重不下来 天天为自己的体重焦虑 我觉得我特么的真是有病死神经病一个 要么就是吃精神病药物吃傻了或者odo傻了 https://t.co/vZYwptVLIp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467368317258248192",
+        "conversation_id": "1902011796116082722",
+        "created_at": "2025-03-18T14:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T15:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902011796116082722"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902011796116082722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6635,
+          "like_count": 132,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢骨头 喜欢纤细的四肢 单薄的身体 喜欢隔着皮肤看肋骨起伏 喜欢苍白皮肤透出来青紫色的血管 喜欢看起来像尸体的人类"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 酗酒 抽烟 嗑药/想交朋友/我的tg频道⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+tGPZagccCeE0M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+tGPZagccCeE0M2I1",
+                "start": 0,
+                "url": "https://t.co/YOU43GttEH"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 102,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 105
+        },
+        "url": "https://t.co/YOU43GttEH",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T05:40:54.000Z",
+        "description": "我是藻｜撒旦之子｜它/ta｜非二元性别",
+        "id": "1467368317258248192",
+        "name": "小藻",
+        "pinned_tweet_id": "1845795124061823157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879431026067521536/DL95lh-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12722,
+          "following_count": 193,
+          "like_count": 635,
+          "listed_count": 19,
+          "media_count": 117,
+          "tweet_count": 537
+        },
+        "username": "loolzaozmin",
+        "verified": false
+      }
+    ]
+  }
+}

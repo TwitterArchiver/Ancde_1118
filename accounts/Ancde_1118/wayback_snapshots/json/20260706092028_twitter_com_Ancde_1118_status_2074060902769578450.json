@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2074060902769578450",
+    "created_at": "2026-07-06T09:20:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T10:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074060902769578450"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mryanfd/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/mryanfd/status/2073583451085951116",
+          "start": 14,
+          "url": "https://t.co/bFaCEhhhg8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074060902769578450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073583451085951116",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我推特被认识的人认出来时： https://t.co/bFaCEhhhg8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1114,
+        "media_key": "3_2073583386493603840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbZGowaUAAmHtH.jpg",
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2074060902769578450",
+        "created_at": "2026-07-06T09:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074060902769578450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mryanfd/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/mryanfd/status/2073583451085951116",
+              "start": 14,
+              "url": "https://t.co/bFaCEhhhg8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074060902769578450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073583451085951116",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我推特被认识的人认出来时： https://t.co/bFaCEhhhg8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073583386493603840"
+          ]
+        },
+        "author_id": "820599551375511556",
+        "conversation_id": "2073583451085951116",
+        "created_at": "2026-07-05T01:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T02:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073583451085951116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YhDdAoRyYX",
+              "end": 35,
+              "expanded_url": "https://x.com/MrYANFD/status/2073583451085951116/photo/1",
+              "media_key": "3_2073583386493603840",
+              "start": 12,
+              "url": "https://t.co/YhDdAoRyYX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073583451085951116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 81133,
+          "like_count": 872,
+          "quote_count": 7,
+          "reply_count": 156,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特被同事发现时： https://t.co/YhDdAoRyYX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 678,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 1617
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-15T11:52:33.000Z",
+        "description": "| EN/CN/DE | DIGITAL ALCOHOLIC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yanfd.cn",
+                "end": 23,
+                "expanded_url": "http://www.yanfd.cn",
+                "start": 0,
+                "url": "https://t.co/RJct1X3MFo"
+              }
+            ]
+          }
+        },
+        "id": "820599551375511556",
+        "location": "AIR",
+        "name": "YANFD",
+        "pinned_tweet_id": "1795381476625944884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883544923699646464/BaD8leBe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 957,
+          "like_count": 10590,
+          "listed_count": 2,
+          "media_count": 655,
+          "tweet_count": 3061
+        },
+        "url": "https://t.co/RJct1X3MFo",
+        "username": "MrYANFD",
+        "verified": false
+      }
+    ]
+  }
+}

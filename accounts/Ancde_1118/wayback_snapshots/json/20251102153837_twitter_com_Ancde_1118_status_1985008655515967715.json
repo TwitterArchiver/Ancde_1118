@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985008644094889984"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1985008655515967715",
+    "created_at": "2025-11-02T15:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T16:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985008655515967715"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TTEjMmqdlG",
+          "end": 23,
+          "expanded_url": "https://x.com/Ancde_1118/status/1985008655515967715/photo/1",
+          "media_key": "3_1985008644094889984",
+          "start": 0,
+          "url": "https://t.co/TTEjMmqdlG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985008655515967715",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/TTEjMmqdlG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985008644094889984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4wq2ENbEAA0KOe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985008644094889984"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1985008655515967715",
+        "created_at": "2025-11-02T15:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T16:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985008655515967715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TTEjMmqdlG",
+              "end": 23,
+              "expanded_url": "https://x.com/Ancde_1118/status/1985008655515967715/photo/1",
+              "media_key": "3_1985008644094889984",
+              "start": 0,
+              "url": "https://t.co/TTEjMmqdlG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985008655515967715",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TTEjMmqdlG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1937294030800585027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 316,
+          "like_count": 57,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 687
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

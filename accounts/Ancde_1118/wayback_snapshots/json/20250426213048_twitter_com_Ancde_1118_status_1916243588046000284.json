@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1916243588046000284",
+    "created_at": "2025-04-26T21:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T22:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916243588046000284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1800510193790586880",
+          "start": 3,
+          "username": "gundanshaluan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916243588046000284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916173782559166571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gundanshaluan: 长期嗑药导致快乐的阈值越来越高 只有新鲜刺激痛苦的事物才能让我有一丝活着的实质感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1916243588046000284",
+        "created_at": "2025-04-26T21:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T22:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916243588046000284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1800510193790586880",
+              "start": 3,
+              "username": "gundanshaluan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916243588046000284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916173782559166571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gundanshaluan: 长期嗑药导致快乐的阈值越来越高 只有新鲜刺激痛苦的事物才能让我有一丝活着的实质感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800510193790586880",
+        "conversation_id": "1916173782559166571",
+        "created_at": "2025-04-26T16:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T17:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916173782559166571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916173782559166571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 428,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "长期嗑药导致快乐的阈值越来越高 只有新鲜刺激痛苦的事物才能让我有一丝活着的实质感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo/🚪66",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 188,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 368
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-11T12:47:37.000Z",
+        "description": "叫我小槻/静静 蛐蛐我的人死全家",
+        "id": "1800510193790586880",
+        "name": "靜泽未那",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912492042778742784/hun31cK__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 103,
+          "like_count": 1462,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 332
+        },
+        "username": "gundanshaluan",
+        "verified": false
+      }
+    ]
+  }
+}

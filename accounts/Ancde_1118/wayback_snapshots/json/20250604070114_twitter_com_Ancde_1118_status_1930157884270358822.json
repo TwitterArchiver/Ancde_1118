@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1930157884270358822",
+    "created_at": "2025-06-04T07:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T08:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930157884270358822"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgds01/status/…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/hgds01/status/1929920406854791598",
+          "start": 30,
+          "url": "https://t.co/CDPeoNtgjC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930157884270358822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929920406854791598",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我退出好了吧 我退出了 逃避所有人得到的并不是安全 是孤独 https://t.co/CDPeoNtgjC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 405,
+        "media_key": "3_1929920395727278080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsh0X_AbEAAaLpI.jpg",
+        "width": 1009
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1930157884270358822",
+        "created_at": "2025-06-04T07:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T08:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930157884270358822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds01/status/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/hgds01/status/1929920406854791598",
+              "start": 30,
+              "url": "https://t.co/CDPeoNtgjC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930157884270358822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929920406854791598",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我退出好了吧 我退出了 逃避所有人得到的并不是安全 是孤独 https://t.co/CDPeoNtgjC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929920395727278080"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1929920406854791598",
+        "created_at": "2025-06-03T15:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T16:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929920406854791598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vpSkEJet9B",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds01/status/1929920406854791598/photo/1",
+              "media_key": "3_1929920395727278080",
+              "start": 0,
+              "url": "https://t.co/vpSkEJet9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929920406854791598",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 42292,
+          "like_count": 742,
+          "quote_count": 15,
+          "reply_count": 16,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vpSkEJet9B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 208,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 439
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1929579130711875675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80413,
+          "following_count": 2918,
+          "like_count": 43602,
+          "listed_count": 97,
+          "media_count": 2379,
+          "tweet_count": 6675
+        },
+        "username": "hgds01",
+        "verified": true
+      }
+    ]
+  }
+}

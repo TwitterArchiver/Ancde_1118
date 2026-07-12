@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1905491427682844719",
+    "created_at": "2025-03-28T05:25:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T06:25:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905491427682844719"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bbwwoai/status…",
+          "end": 163,
+          "expanded_url": "https://twitter.com/bbwwoai/status/1791079231570825627",
+          "start": 140,
+          "url": "https://t.co/T3DXo4fjmO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905491427682844719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791079231570825627",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "四爱女妹1至暗时刻 我也要写几条\n1.被龟责的时候受不了叫的声音很难听2.玩sp的时候打了没几下就喊疼受不了🤦‍♀️3.指奸都没进完最细的手指就说受不了爬走了4.龟责老是干 水基润滑我恨你5.去到酒店民宿发现吃错东西了拉肚子 灌不了肠只能责 责了没两次以后 两个人在那大眼瞪小眼 https://t.co/T3DXo4fjmO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1791079231570825627].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1791079231570825627",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1791079231570825627"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1905491427682844719",
+        "created_at": "2025-03-28T05:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T06:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905491427682844719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbwwoai/status…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/bbwwoai/status/1791079231570825627",
+              "start": 140,
+              "url": "https://t.co/T3DXo4fjmO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905491427682844719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791079231570825627",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "四爱女妹1至暗时刻 我也要写几条\n1.被龟责的时候受不了叫的声音很难听2.玩sp的时候打了没几下就喊疼受不了🤦‍♀️3.指奸都没进完最细的手指就说受不了爬走了4.龟责老是干 水基润滑我恨你5.去到酒店民宿发现吃错东西了拉肚子 灌不了肠只能责 责了没两次以后 两个人在那大眼瞪小眼 https://t.co/T3DXo4fjmO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒中 od/双性恋/1i/4i/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 132,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 243
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1980675972002378176",
+    "created_at": "2025-10-21T16:42:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T17:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980675972002378176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ancde_1118/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/ancde_1118/status/1980560067025113565",
+          "start": 15,
+          "url": "https://t.co/SRj1hpsvHi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980675972002378176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980560067025113565",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不对不对记错了是14号的凌晨 https://t.co/SRj1hpsvHi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1980675972002378176",
+        "created_at": "2025-10-21T16:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T17:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980675972002378176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ancde_1118/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/ancde_1118/status/1980560067025113565",
+              "start": 15,
+              "url": "https://t.co/SRj1hpsvHi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980675972002378176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980560067025113565",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不对不对记错了是14号的凌晨 https://t.co/SRj1hpsvHi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1980560067025113565",
+        "created_at": "2025-10-21T09:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T10:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980560067025113565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980560067025113565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操你妈老子复活了 13号凌晨吞药吞一半被拉去抢救了 住了一个星期的院 手机被缴了过了一个星期原始生活😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1937294030800585027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 315,
+          "like_count": 58,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 671
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

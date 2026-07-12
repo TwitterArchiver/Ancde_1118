@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1911562521519206676",
+    "created_at": "2025-04-13T23:29:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T00:29:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1911562521519206676"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1911562521519206676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果，我是说如果，我们像血管缠绕，汲取彼此养分活着，我们是不是一辈子就分不开了，离开彼此就算殉情，离开循环就活不下去好吗，让我们再紧密一点好吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1911562521519206676",
+        "created_at": "2025-04-13T23:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T00:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911562521519206676"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911562521519206676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果，我是说如果，我们像血管缠绕，汲取彼此养分活着，我们是不是一辈子就分不开了，离开彼此就算殉情，离开循环就活不下去好吗，让我们再紧密一点好吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒中 od/双性恋/1i/4i/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 152,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 328
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2058710435952779466",
+    "created_at": "2026-05-25T00:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T01:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058710435952779466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1094628817514127360",
+          "start": 3,
+          "username": "QGCYohoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058710435952779466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058393866957681084",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QGCYohoo: 好想亲嘴啊，不是约炮的那种亲，是两个人暧昧缠绵情到浓时浅啄一下，再在氤氲的气氛中呼吸急促，面色潮红气血翻涌，心跳加速眼神迷离地伸出舌头试探，对方也主动地迎上来，用手搂住腰和后脑勺热吻...想像起来已经比吸了rush还让我颅内高潮了🥴🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2058710435952779466",
+        "created_at": "2026-05-25T00:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T01:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058710435952779466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1094628817514127360",
+              "start": 3,
+              "username": "QGCYohoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058710435952779466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058393866957681084",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QGCYohoo: 好想亲嘴啊，不是约炮的那种亲，是两个人暧昧缠绵情到浓时浅啄一下，再在氤氲的气氛中呼吸急促，面色潮红气血翻涌，心跳加速眼神迷离地伸出舌头试探，对方也主动地迎上来，用手搂住腰和后脑勺热吻...想像起来已经比吸了rush还让我颅内高潮了🥴🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1094628817514127360",
+        "conversation_id": "2058393866957681084",
+        "created_at": "2026-05-24T03:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T04:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058393866957681084"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058393866957681084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 45688,
+          "like_count": 805,
+          "quote_count": 15,
+          "reply_count": 64,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "好想亲嘴啊，不是约炮的那种亲，是两个人暧昧缠绵情到浓时浅啄一下，再在氤氲的气氛中呼吸急促，面色潮红气血翻涌，心跳加速眼神迷离地伸出舌头试探，对方也主动地迎上来，用手搂住腰和后脑勺热吻...想像起来已经比吸了rush还让我颅内高潮了🥴🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我是双性恋/tg@Sakura_sakura01118/我想交朋友 可以找我互fo/可以找我买电子烟",
+        "id": "1778719380639014913",
+        "name": "Sakura（烟代版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 462,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 869
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-10T16:07:02.000Z",
+        "description": "我泥马啊 ｜ 🚪",
+        "id": "1094628817514127360",
+        "location": "西瓜瓤",
+        "name": "ddddfff",
+        "pinned_tweet_id": "2030078164345754006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663017157352108032/YY_jE5-J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5450,
+          "following_count": 993,
+          "like_count": 7546,
+          "listed_count": 12,
+          "media_count": 704,
+          "tweet_count": 12207
+        },
+        "username": "QGCYohoo",
+        "verified": false
+      }
+    ]
+  }
+}

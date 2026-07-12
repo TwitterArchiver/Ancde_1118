@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1909834633266552953",
+    "created_at": "2025-04-09T05:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T06:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909834633266552953"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/keeganlike/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/keeganlike/status/1909261242633797825",
+          "start": 10,
+          "url": "https://t.co/Flgg23CkEq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909834633266552953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909261242633797825",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "收atm奴 纯圈钱 https://t.co/Flgg23CkEq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1909834633266552953",
+        "created_at": "2025-04-09T05:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T06:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909834633266552953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/keeganlike/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/keeganlike/status/1909261242633797825",
+              "start": 10,
+              "url": "https://t.co/Flgg23CkEq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909834633266552953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909261242633797825",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "收atm奴 纯圈钱 https://t.co/Flgg23CkEq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842423358216142849",
+        "conversation_id": "1909261242633797825",
+        "created_at": "2025-04-07T15:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T16:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909261242633797825"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909261242633797825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 47147,
+          "like_count": 191,
+          "quote_count": 18,
+          "reply_count": 95,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "收atm奴 纯圈钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒中 od/双性恋/1i/4i/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 145,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 304
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T04:36:02.000Z",
+        "description": "istp 多云转晴 🫧  不爱看给我滚 谁他妈管你",
+        "id": "1842423358216142849",
+        "location": "🚪纯绿520",
+        "name": "泡泡",
+        "pinned_tweet_id": "1905663779826008348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908927002956144640/2kSe1lAN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8901,
+          "following_count": 457,
+          "like_count": 5680,
+          "listed_count": 9,
+          "media_count": 286,
+          "tweet_count": 7713
+        },
+        "username": "keeganlike",
+        "verified": false
+      }
+    ]
+  }
+}

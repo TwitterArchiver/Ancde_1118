@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1921541559092117528",
+    "created_at": "2025-05-11T12:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T13:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921541559092117528"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/overdose_day/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/overdose_day/status/1921419485501694339",
+          "start": 9,
+          "url": "https://t.co/gmddE3Hy7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921541559092117528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921419485501694339",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想要紫色心情 https://t.co/gmddE3Hy7y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1921419482674913280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqpA1uFaYAAJ7MM.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1921541559092117528",
+        "created_at": "2025-05-11T12:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T13:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921541559092117528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdose_day/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/overdose_day/status/1921419485501694339",
+              "start": 9,
+              "url": "https://t.co/gmddE3Hy7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921541559092117528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921419485501694339",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想要紫色心情 https://t.co/gmddE3Hy7y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921419482674913280"
+          ]
+        },
+        "author_id": "1867639848569372672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1921419485501694339",
+        "created_at": "2025-05-11T04:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T05:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921419485501694339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S6zOwAn1At",
+              "end": 51,
+              "expanded_url": "https://x.com/overdose_day/status/1921419485501694339/photo/1",
+              "media_key": "3_1921419482674913280",
+              "start": 28,
+              "url": "https://t.co/S6zOwAn1At"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921419485501694339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2028,
+          "like_count": 55,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈，母亲节快乐！\n今天我买了，你最喜欢的紫色心情哦！ https://t.co/S6zOwAn1At"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo/🚪66",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 195,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 408
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T18:37:15.000Z",
+        "description": "化学极乐百科🧪 未来可能会倒闭，但绝不会变味\n\n官网:https://t.co/bwfCFLxN8g\ngalgame下载:https://t.co/iRTTcRxOR2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 50,
+                "expanded_url": "https://overdose.day",
+                "start": 27,
+                "url": "https://t.co/bwfCFLxN8g"
+              },
+              {
+                "display_url": "lsd.kim",
+                "end": 84,
+                "expanded_url": "https://lsd.kim/",
+                "start": 61,
+                "url": "https://t.co/iRTTcRxOR2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/W009AsBfUr"
+              }
+            ]
+          }
+        },
+        "id": "1867639848569372672",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "1921444982461718757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909493731260289024/ezggnfUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2488,
+          "following_count": 974,
+          "like_count": 623,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 849
+        },
+        "url": "https://t.co/W009AsBfUr",
+        "username": "overdose_day",
+        "verified": false
+      }
+    ]
+  }
+}

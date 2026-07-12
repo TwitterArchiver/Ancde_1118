@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2059479860507254803",
+    "created_at": "2026-05-27T13:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059623758940504216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2059473208299118592",
+          "start": 0,
+          "username": "oxolyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059623758940504216",
+    "in_reply_to_user_id": "2059473208299118592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059479860507254803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oxolyy fo来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059479842853400577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJS-AWdasAE-z1e.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2059479842857607169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJS-AWea4AEbOwG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 870,
+        "media_key": "3_2059479842853392384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJS-AWdakAA8B3H.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2059479860507254803",
+        "created_at": "2026-05-27T13:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059623758940504216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2059473208299118592",
+              "start": 0,
+              "username": "oxolyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059623758940504216",
+        "in_reply_to_user_id": "2059473208299118592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059479860507254803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oxolyy fo来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059479842853400577",
+            "3_2059479842857607169",
+            "3_2059479842853392384"
+          ]
+        },
+        "author_id": "2059473208299118592",
+        "conversation_id": "2059479860507254803",
+        "created_at": "2026-05-27T03:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059479860507254803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X75itmpzYd",
+              "end": 65,
+              "expanded_url": "https://x.com/oxolyy/status/2059479860507254803/photo/1",
+              "media_key": "3_2059479842853400577",
+              "start": 42,
+              "url": "https://t.co/X75itmpzYd"
+            },
+            {
+              "display_url": "pic.x.com/X75itmpzYd",
+              "end": 65,
+              "expanded_url": "https://x.com/oxolyy/status/2059479860507254803/photo/1",
+              "media_key": "3_2059479842857607169",
+              "start": 42,
+              "url": "https://t.co/X75itmpzYd"
+            },
+            {
+              "display_url": "pic.x.com/X75itmpzYd",
+              "end": 65,
+              "expanded_url": "https://x.com/oxolyy/status/2059479860507254803/photo/1",
+              "media_key": "3_2059479842853392384",
+              "start": 42,
+              "url": "https://t.co/X75itmpzYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059479860507254803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1143,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "🔝\n上两世都惨遭奸人举报，求求前世列表帮我转转帖，寻回前世推友中，互fo互转大欢迎 https://t.co/X75itmpzYd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我是双性恋/tg@Sakura_sakura01118/我想交朋友 可以找我互fo/可以找我买电子烟",
+        "id": "1778719380639014913",
+        "name": "Sakura（烟代版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 475,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 896
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-27T03:16:15.000Z",
+        "description": "前两世@o3olyy @lyyouo｜18 ↑｜od 自伤🩹餐券女｜双相情感障碍｜adhd｜认知障碍｜三次自杀未遂｜泛性恋｜bart｜绳缚｜我是精日🚫pink 同类宝宝互fo私一下我♡求怜爱 我只是一个可怜的小女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "o3olyy"
+              },
+              {
+                "end": 18,
+                "start": 11,
+                "username": "lyyouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/o3olyy",
+                "end": 23,
+                "expanded_url": "http://ngl.link/o3olyy",
+                "start": 0,
+                "url": "https://t.co/5Akhgokvyv"
+              }
+            ]
+          }
+        },
+        "id": "2059473208299118592",
+        "location": "看看你后面｜🚪52坐标10",
+        "name": "真理3.0（已老实",
+        "pinned_tweet_id": "2059479860507254803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059474038859411456/uQOOaqCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 50,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 21
+        },
+        "url": "https://t.co/5Akhgokvyv",
+        "username": "oxolyy",
+        "verified": false
+      }
+    ]
+  }
+}

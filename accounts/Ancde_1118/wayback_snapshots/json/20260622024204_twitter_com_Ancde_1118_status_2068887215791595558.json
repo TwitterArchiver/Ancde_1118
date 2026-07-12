@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2068696217069277527",
+    "created_at": "2026-06-22T02:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T03:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068887215791595558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1959815413619204096",
+          "start": 0,
+          "username": "XinXin_joshu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068887215791595558",
+    "in_reply_to_user_id": "1959815413619204096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068696217069277527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XinXin_joshu 不痛的 我是穿孔师 我保证"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2068696217069277527",
+        "created_at": "2026-06-22T02:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T03:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068887215791595558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1959815413619204096",
+              "start": 0,
+              "username": "XinXin_joshu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068887215791595558",
+        "in_reply_to_user_id": "1959815413619204096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068696217069277527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XinXin_joshu 不痛的 我是穿孔师 我保证"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959815413619204096",
+        "conversation_id": "2068696217069277527",
+        "created_at": "2026-06-21T14:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068696217069277527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068696217069277527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 289,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直都在犹豫要不要打个舌钉但是又感觉很疼但是呢又感觉很那个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 637,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1381
+        },
+        "url": "",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T03:09:57.000Z",
+        "description": "你的世界不缺我吗 好可惜 可是我已经闯进来了＞𐋣＜\n\n非常被动的一个人ㅜㅜ点赞就是喜欢你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xin65589",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xin65589",
+                "start": 0,
+                "url": "https://t.co/68zRiK5l5r"
+              }
+            ]
+          }
+        },
+        "id": "1959815413619204096",
+        "location": "0.1km   匿名→",
+        "name": "Xin用户0324",
+        "pinned_tweet_id": "2054195343022309377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037549741203238912/wPLuzPhX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 29,
+          "like_count": 1536,
+          "listed_count": 0,
+          "media_count": 249,
+          "tweet_count": 1794
+        },
+        "url": "https://t.co/68zRiK5l5r",
+        "username": "XinXin_joshu",
+        "verified": false
+      }
+    ]
+  }
+}

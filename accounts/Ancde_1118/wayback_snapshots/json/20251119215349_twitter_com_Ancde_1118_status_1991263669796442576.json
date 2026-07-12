@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1991084284032000097",
+    "created_at": "2025-11-19T21:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T22:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991263669796442576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678037476068163585",
+          "start": 0,
+          "username": "tamako_0406_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991263669796442576",
+    "in_reply_to_user_id": "1678037476068163585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991084284032000097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tamako_0406_ 好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30125,
+        "height": 960,
+        "media_key": "13_1991084167241809920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1991084167241809920/img/PbQOBMoRS9bQq8YZ.jpg",
+        "public_metrics": {
+          "view_count": 98
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991084167241809920/vid/avc1/320x426/MP0jFgi8WB1ruhV6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991084167241809920/vid/avc1/480x640/nqzF5aoYIK3C3pGs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991084167241809920/vid/avc1/720x960/p0MtH9mZ-pF8P0xc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1991084167241809920/pl/-7rvwOntFahF-Uro.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1991084284032000097",
+        "created_at": "2025-11-19T21:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T22:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991263669796442576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678037476068163585",
+              "start": 0,
+              "username": "tamako_0406_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991263669796442576",
+        "in_reply_to_user_id": "1678037476068163585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991084284032000097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tamako_0406_ 好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1991084167241809920"
+          ]
+        },
+        "author_id": "1678037476068163585",
+        "conversation_id": "1991084284032000097",
+        "created_at": "2025-11-19T10:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T11:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991084284032000097"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mYOkHo1xph",
+              "end": 36,
+              "expanded_url": "https://x.com/tamako_0406_/status/1991084284032000097/video/1",
+              "media_key": "13_1991084167241809920",
+              "start": 13,
+              "url": "https://t.co/mYOkHo1xph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991084284032000097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 379,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉自己萌萌哒\n#门槛妹 https://t.co/mYOkHo1xph"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1990862354285015102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 393,
+          "like_count": 82,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 712
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T13:45:01.000Z",
+        "description": "前世@tamako94001201 @tamako_0406 请认真阅读置顶 1314🚪我天天黏着你发消息😚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "tamako94001201"
+              },
+              {
+                "end": 30,
+                "start": 18,
+                "username": "tamako_0406"
+              }
+            ]
+          }
+        },
+        "id": "1678037476068163585",
+        "location": "骂我反弹",
+        "name": "tamako（被骗钱还债中",
+        "pinned_tweet_id": "1949798986560196774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844969754655633409/aRDtRO_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 227,
+          "like_count": 1838,
+          "listed_count": 7,
+          "media_count": 586,
+          "tweet_count": 5452
+        },
+        "username": "tamako_0406_",
+        "verified": false
+      }
+    ]
+  }
+}

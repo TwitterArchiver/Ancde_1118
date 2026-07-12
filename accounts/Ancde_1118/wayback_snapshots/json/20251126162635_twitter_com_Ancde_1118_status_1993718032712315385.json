@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1993315498906599569",
+    "created_at": "2025-11-26T16:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T17:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993718032712315385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828851871177408512",
+          "start": 0,
+          "username": "Sawak0v0"
+        },
+        {
+          "end": 23,
+          "id": "1695484339243618304",
+          "start": 10,
+          "username": "k_wdbqrwmcsi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993718032712315385",
+    "in_reply_to_user_id": "1828851871177408512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993645173981786376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sawak0v0 @k_wdbqrwmcsi 求互fo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1993315498906599569",
+        "created_at": "2025-11-26T16:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T17:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993718032712315385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828851871177408512",
+              "start": 0,
+              "username": "Sawak0v0"
+            },
+            {
+              "end": 23,
+              "id": "1695484339243618304",
+              "start": 10,
+              "username": "k_wdbqrwmcsi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993718032712315385",
+        "in_reply_to_user_id": "1828851871177408512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993645173981786376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sawak0v0 @k_wdbqrwmcsi 求互fo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828851871177408512",
+        "conversation_id": "1993315498906599569",
+        "created_at": "2025-11-26T11:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T12:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993645173981786376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1695484339243618304",
+              "start": 0,
+              "username": "k_wdbqrwmcsi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993645173981786376",
+        "in_reply_to_user_id": "1695484339243618304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993315498906599569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k_wdbqrwmcsi 我们来互转互fo好不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/tg@Sakura_sakura01118/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1990862354285015102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 427,
+          "like_count": 97,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 739
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T17:47:32.000Z",
+        "description": "人生ってのはなあ   痛いんだよ\n08/自伤/od/焦虑抑郁/精神分裂 纯绿推  私信随机回  过门发口令红包或赞赏码\n线下不接  匿名问答https://t.co/PeqRn5M82f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sawako86818",
+                "end": 93,
+                "expanded_url": "https://ngl.link/sawako86818",
+                "start": 70,
+                "url": "https://t.co/PeqRn5M82f"
+              }
+            ]
+          }
+        },
+        "id": "1828851871177408512",
+        "name": "さわこ",
+        "pinned_tweet_id": "1992209177863958713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958096638049923072/m5GQSX8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 108,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 250
+        },
+        "username": "Sawak0v0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T17:12:30.000Z",
+        "description": "提问箱https://t.co/mHRm2QZhZF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "qntwx.cn/YKLYXP",
+                "end": 26,
+                "expanded_url": "https://qntwx.cn/YKLYXP",
+                "start": 3,
+                "url": "https://t.co/mHRm2QZhZF"
+              }
+            ]
+          }
+        },
+        "id": "1695484339243618304",
+        "location": "🚪52",
+        "name": "ha2e1_",
+        "pinned_tweet_id": "1992241990755660207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993692245929992193/mSjIrlzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 138,
+          "like_count": 1182,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 200
+        },
+        "username": "k_wdbqrwmcsi",
+        "verified": false
+      }
+    ]
+  }
+}

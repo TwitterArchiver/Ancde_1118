@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2058736975201616265",
+    "created_at": "2026-05-27T20:59:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T21:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059741274761220593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2058175758041059328",
+          "start": 0,
+          "username": "Ta1zz19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059741274761220593",
+    "in_reply_to_user_id": "2058175758041059328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058746845866885309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ta1zz19 睡不着 开失眠药物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2058736975201616265",
+        "created_at": "2026-05-27T20:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T21:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059741274761220593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2058175758041059328",
+              "start": 0,
+              "username": "Ta1zz19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059741274761220593",
+        "in_reply_to_user_id": "2058175758041059328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058746845866885309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1zz19 睡不着 开失眠药物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058175758041059328",
+        "conversation_id": "2058736975201616265",
+        "created_at": "2026-05-25T03:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058746845866885309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778719380639014913",
+              "start": 0,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058746845866885309",
+        "in_reply_to_user_id": "1778719380639014913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058736975201616265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ancde_1118 刷药还是干嘛去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我是双性恋/tg@Sakura_sakura01118/我想交朋友 可以找我互fo/可以找我买电子烟",
+        "id": "1778719380639014913",
+        "name": "Sakura（烟代版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 477,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 900
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T13:20:52.000Z",
+        "description": "化学爱好者/神经学爱好者/药理学爱好者/迷幻掌控者/种植爱好者/心率不齐之人痴迷烫吸 油灯管信徒\n钟爱致幻剂与迷幻剂\ntg链接在下方 可以来聊天喵\n匿名箱📮https://t.co/dYgLbqJIOL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 101,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 78,
+                "url": "https://t.co/dYgLbqJIOL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+GbWkRnihy20wN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+GbWkRnihy20wNTRh",
+                "start": 0,
+                "url": "https://t.co/3ZkOZelOk6"
+              }
+            ]
+          }
+        },
+        "id": "2058175758041059328",
+        "name": "Ta1z9（转生版）",
+        "pinned_tweet_id": "2058968708153041403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058176733652889601/xdwUeUmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 25,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 48
+        },
+        "url": "https://t.co/3ZkOZelOk6",
+        "username": "Ta1zz19",
+        "verified": false
+      }
+    ]
+  }
+}

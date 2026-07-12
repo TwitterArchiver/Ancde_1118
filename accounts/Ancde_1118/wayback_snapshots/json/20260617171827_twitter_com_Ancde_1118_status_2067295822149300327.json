@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2067070907714252991",
+    "created_at": "2026-06-17T17:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067295822149300327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733157188057853952",
+          "start": 0,
+          "username": "nigich436594"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067295822149300327",
+    "in_reply_to_user_id": "1733157188057853952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067070907714252991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nigich436594 我来互转互fo了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1068,
+        "media_key": "3_2067070897073405952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-2B3GbwAAKjg5.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067070897081798656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-2B3Ib0AAVB0-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067070897308205056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-2B3-agAAuiT-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1179,
+        "media_key": "3_2067070897060790272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-2B3DbQAA0SMN.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2067070907714252991",
+        "created_at": "2026-06-17T17:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067295822149300327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733157188057853952",
+              "start": 0,
+              "username": "nigich436594"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067295822149300327",
+        "in_reply_to_user_id": "1733157188057853952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067070907714252991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nigich436594 我来互转互fo了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067070897073405952",
+            "3_2067070897081798656",
+            "3_2067070897308205056",
+            "3_2067070897060790272"
+          ]
+        },
+        "author_id": "1733157188057853952",
+        "conversation_id": "2067070907714252991",
+        "created_at": "2026-06-17T02:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T03:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067070907714252991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FbXlLkHbre",
+              "end": 90,
+              "expanded_url": "https://x.com/nigich436594/status/2067070907714252991/photo/1",
+              "media_key": "3_2067070897073405952",
+              "start": 67,
+              "url": "https://t.co/FbXlLkHbre"
+            },
+            {
+              "display_url": "pic.x.com/FbXlLkHbre",
+              "end": 90,
+              "expanded_url": "https://x.com/nigich436594/status/2067070907714252991/photo/1",
+              "media_key": "3_2067070897081798656",
+              "start": 67,
+              "url": "https://t.co/FbXlLkHbre"
+            },
+            {
+              "display_url": "pic.x.com/FbXlLkHbre",
+              "end": 90,
+              "expanded_url": "https://x.com/nigich436594/status/2067070907714252991/photo/1",
+              "media_key": "3_2067070897308205056",
+              "start": 67,
+              "url": "https://t.co/FbXlLkHbre"
+            },
+            {
+              "display_url": "pic.x.com/FbXlLkHbre",
+              "end": 90,
+              "expanded_url": "https://x.com/nigich436594/status/2067070907714252991/photo/1",
+              "media_key": "3_2067070897060790272",
+              "start": 67,
+              "url": "https://t.co/FbXlLkHbre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067070907714252991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1451,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "置顶🔝\n我不知道惹谁了把人家举办了呜呜呜😭\n喜欢小猫的可以投喂一下嘛喵🥺\n绿泡泡最近比较⚠️先不加啦，有没有天使女孩给我转转爱你们！ https://t.co/FbXlLkHbre"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 631,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 1325
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T16:10:56.000Z",
+        "description": "💕OD｜餐卷妹｜可以找我聊天很爱说话🐱一枚｜直fo就是喜欢你吖",
+        "id": "1733157188057853952",
+        "location": "ᵟຶᴖ ᵟຶ",
+        "name": "想当幸福小猫",
+        "pinned_tweet_id": "2067070907714252991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066231620416471041/lX-zAlgu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 199,
+          "like_count": 2325,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 654
+        },
+        "username": "nigich436594",
+        "verified": false
+      }
+    ]
+  }
+}

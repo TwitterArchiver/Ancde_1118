@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2073937400712384635",
+    "created_at": "2026-07-06T01:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T02:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073937400712384635"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/badapple_999/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/badapple_999/status/2073589982825238579",
+          "start": 24,
+          "url": "https://t.co/efN4N4jx3X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073937400712384635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073589982825238579",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "逃到推特也要刷这个吗我特么。。。受不了了好好笑 https://t.co/efN4N4jx3X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2073937400712384635",
+        "created_at": "2026-07-06T01:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T02:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073937400712384635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/badapple_999/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/badapple_999/status/2073589982825238579",
+              "start": 24,
+              "url": "https://t.co/efN4N4jx3X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073937400712384635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073589982825238579",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "逃到推特也要刷这个吗我特么。。。受不了了好好笑 https://t.co/efN4N4jx3X"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845184179157467140",
+        "conversation_id": "2073589982825238579",
+        "created_at": "2026-07-05T02:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073589982825238579"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073589982825238579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 86642,
+          "like_count": 786,
+          "quote_count": 5,
+          "reply_count": 92,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "“妈妈，那个姐姐好奇怪，她怎么一个人在跳舞”\n“嘘，看，姐姐的爱人不是在她身边吗”\n\n我真求求了 到底是谁想出来的文案 别逗我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 678,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 1604
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T19:26:12.000Z",
+        "description": "我只是个阴暗的臭啊宅(^_^)v\n不混圈子 别把饭圈邪教那套带我身上 自由人但欢迎扩列 我只是个臭玩游戏的\n好想夏以昼",
+        "id": "1845184179157467140",
+        "name": "10",
+        "pinned_tweet_id": "2069660763220857021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070672132351135744/nVQieIAR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 44,
+          "like_count": 922,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 641
+        },
+        "url": "",
+        "username": "BADAPPLE_999",
+        "verified": false
+      }
+    ]
+  }
+}

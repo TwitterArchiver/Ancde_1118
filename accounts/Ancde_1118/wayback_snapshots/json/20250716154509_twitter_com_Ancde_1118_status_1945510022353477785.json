@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1945510022353477785",
+    "created_at": "2025-07-16T15:45:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T16:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945510022353477785"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ancde_1118/sta…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/ancde_1118/status/1901183362095525986",
+          "start": 143,
+          "url": "https://t.co/MW2G5q74eP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945510022353477785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901183362095525986",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我正在戒烟 抽完存货就不抽了 酒我也不喝了 今天是第111天没有od 刚刚好是我生日的数字哈哈 手也不知道怎么割了 拿着刀对着胳膊也不知道从哪开始下刀 或许我现在做的都是错的 现在的我是真的我吗 为什么会变成这样 我还是之前的我吗 好空虚 躺在床上呆望着天花板 泪水流过脸颊 好想去死 https://t.co/MW2G5q74eP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1945510022353477785",
+        "created_at": "2025-07-16T15:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T16:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945510022353477785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ancde_1118/sta…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/ancde_1118/status/1901183362095525986",
+              "start": 143,
+              "url": "https://t.co/MW2G5q74eP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945510022353477785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901183362095525986",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我正在戒烟 抽完存货就不抽了 酒我也不喝了 今天是第111天没有od 刚刚好是我生日的数字哈哈 手也不知道怎么割了 拿着刀对着胳膊也不知道从哪开始下刀 或许我现在做的都是错的 现在的我是真的我吗 为什么会变成这样 我还是之前的我吗 好空虚 躺在床上呆望着天花板 泪水流过脸颊 好想去死 https://t.co/MW2G5q74eP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1901183362095525986",
+        "created_at": "2025-03-16T08:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T09:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901183362095525986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901183362095525986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽烟 喝酒 紫餐 od 如果仅有的发泄方式都被剥夺 像个纸片人一样生活要什么长命百岁 干脆今天活明天死算了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1937294030800585027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 251,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 519
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

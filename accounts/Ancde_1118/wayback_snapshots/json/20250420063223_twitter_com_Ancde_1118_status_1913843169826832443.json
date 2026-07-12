@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1913843169826832443",
+    "created_at": "2025-04-20T06:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T07:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913843169826832443"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bing111330/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/bing111330/status/1913529059319185736",
+          "start": 12,
+          "url": "https://t.co/qFpLrtHW71"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913843169826832443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913529059319185736",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "根本没有第二个人爱我😭 https://t.co/qFpLrtHW71"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1913843169826832443",
+        "created_at": "2025-04-20T06:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T07:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913843169826832443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bing111330/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/bing111330/status/1913529059319185736",
+              "start": 12,
+              "url": "https://t.co/qFpLrtHW71"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913843169826832443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913529059319185736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根本没有第二个人爱我😭 https://t.co/qFpLrtHW71"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880108847953747968",
+        "conversation_id": "1913529059319185736",
+        "created_at": "2025-04-19T09:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T10:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913529059319185736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913529059319185736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 47195,
+          "like_count": 426,
+          "quote_count": 19,
+          "reply_count": 47,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "跟我在一起吧，你根本不用担心我会出轨，我能聊到你一个已经非常不容易了，只有你一个人愿意跟我聊，我求你了，跟我在一起吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒中 od/双性恋/1i/4i/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 172,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 350
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T04:24:41.000Z",
+        "description": "碎碎念📝 @lan_zhai003互关小宝宝进😚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "lan_zhai003"
+              }
+            ]
+          }
+        },
+        "id": "1880108847953747968",
+        "name": "症懒宅",
+        "pinned_tweet_id": "1910327675182293322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880110463847133184/3hTAldsU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3264,
+          "following_count": 305,
+          "like_count": 12006,
+          "listed_count": 14,
+          "media_count": 287,
+          "tweet_count": 8304
+        },
+        "username": "bing111330",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1937302573423431735",
+    "created_at": "2025-06-24T00:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T01:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937302573423431735"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/momoko8964/sta…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/momoko8964/status/1936736155086794983",
+          "start": 19,
+          "url": "https://t.co/Vg9lf4eEri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937302573423431735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936736155086794983",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "七月份之前我已经穷到吃不起任何食物了 https://t.co/Vg9lf4eEri"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1937302573423431735",
+        "created_at": "2025-06-24T00:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T01:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937302573423431735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/momoko8964/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/momoko8964/status/1936736155086794983",
+              "start": 19,
+              "url": "https://t.co/Vg9lf4eEri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937302573423431735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936736155086794983",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "七月份之前我已经穷到吃不起任何食物了 https://t.co/Vg9lf4eEri"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599125227786608655",
+        "conversation_id": "1936736155086794983",
+        "created_at": "2025-06-22T10:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T11:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936736155086794983"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936736155086794983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 589,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "七月份之前我不会吃任何食物了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1937294030800585027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 240,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 503
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T19:35:49.000Z",
+        "description": "不爱看就滚出去 喜欢我就请给我点钱让我生活得更好",
+        "id": "1599125227786608655",
+        "location": "🚪88/288 私信只回口令",
+        "name": "苦桃",
+        "pinned_tweet_id": "1933489485230321989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936014057389076481/jaRjgUVa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5548,
+          "following_count": 289,
+          "like_count": 19869,
+          "listed_count": 7,
+          "media_count": 1113,
+          "tweet_count": 13145
+        },
+        "username": "momoko8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1937301955489284213",
+    "created_at": "2025-06-24T00:09:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T01:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937301955489284213"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/colesperson/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/colesperson/status/1936999435877367851",
+          "start": 5,
+          "url": "https://t.co/vxj2GnAYGN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937301955489284213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936999435877367851",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "简直是我 https://t.co/vxj2GnAYGN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1937301955489284213",
+        "created_at": "2025-06-24T00:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T01:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937301955489284213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/colesperson/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/colesperson/status/1936999435877367851",
+              "start": 5,
+              "url": "https://t.co/vxj2GnAYGN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937301955489284213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936999435877367851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "简直是我 https://t.co/vxj2GnAYGN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590939682568736769",
+        "conversation_id": "1936999435877367851",
+        "created_at": "2025-06-23T04:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T05:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936999435877367851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936999435877367851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1863,
+          "like_count": 11,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "餐券群体是那种宁愿挑战200元吃一个月也不愿意去找工作的人 （因为这一个月只收到了200块的门槛费）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1937294030800585027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 240,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 501
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T05:29:24.000Z",
+        "description": "爱国看黄男🇨🇳，🚪8888免费操你一次",
+        "id": "1590939682568736769",
+        "location": "Manhattan, NY",
+        "name": "卵文化",
+        "pinned_tweet_id": "1936950116189188488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935807427129016320/ywvy3458_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1437,
+          "following_count": 1384,
+          "like_count": 24964,
+          "listed_count": 3,
+          "media_count": 698,
+          "tweet_count": 8471
+        },
+        "username": "ColesPerson",
+        "verified": false
+      }
+    ]
+  }
+}

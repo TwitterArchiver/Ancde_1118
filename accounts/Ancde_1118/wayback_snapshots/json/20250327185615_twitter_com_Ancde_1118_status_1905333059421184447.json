@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1905333059421184447",
+    "created_at": "2025-03-27T18:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T19:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905333059421184447"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lost_agony_/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/lost_agony_/status/1905046935398158424",
+          "start": 4,
+          "url": "https://t.co/PMTJNKE0AJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905333059421184447",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905046935398158424",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想你 https://t.co/PMTJNKE0AJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1905333059421184447",
+        "created_at": "2025-03-27T18:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T19:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905333059421184447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lost_agony_/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/lost_agony_/status/1905046935398158424",
+              "start": 4,
+              "url": "https://t.co/PMTJNKE0AJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905333059421184447",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905046935398158424",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想你 https://t.co/PMTJNKE0AJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861012887797690368",
+        "conversation_id": "1905046935398158424",
+        "created_at": "2025-03-26T23:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T00:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905046935398158424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905046935398158424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到了晚上就好想你，想要和你牵手、拥抱、亲吻，但是我能做到的仅剩无可抑制的思念，毫无征兆的落在我心上，催促着我见到你。像一场雨，短短的春天里的雷雨，在我体内嗡鸣，停歇过后依旧是无法平息的惊蛰。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒中 od/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 127,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 218
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T11:43:52.000Z",
+        "description": "如果无法明了那些已经丢失的话语，那么就乘坐上在各站停靠的列车吧。｜不为人知的我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lost_agony_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lost_agony_",
+                "start": 0,
+                "url": "https://t.co/UzJtcZcG9Q"
+              }
+            ]
+          }
+        },
+        "id": "1861012887797690368",
+        "location": "London, England",
+        "name": "姐妹你老公的逼很暖哦",
+        "pinned_tweet_id": "1900465935561138248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901254414519894016/4AV1lwFV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 196,
+          "like_count": 2256,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 1550
+        },
+        "url": "https://t.co/UzJtcZcG9Q",
+        "username": "Lost_Agony_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1905036350107406613",
+    "created_at": "2025-03-26T23:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T00:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905036350107406613"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuzerollsroyce…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/kuzerollsroyce/status/1904462761272263026",
+          "start": 15,
+          "url": "https://t.co/j0rv9yTfUm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905036350107406613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904462761272263026",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽啊想和这种身材的男的做爱 https://t.co/j0rv9yTfUm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 989,
+        "media_key": "3_1904462755895312385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm4CyUUaAAE1C2K.jpg",
+        "width": 807
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1905036350107406613",
+        "created_at": "2025-03-26T23:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T00:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905036350107406613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuzerollsroyce…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/kuzerollsroyce/status/1904462761272263026",
+              "start": 15,
+              "url": "https://t.co/j0rv9yTfUm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905036350107406613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904462761272263026",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽啊想和这种身材的男的做爱 https://t.co/j0rv9yTfUm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904462755895312385"
+          ]
+        },
+        "author_id": "1717692747120054272",
+        "conversation_id": "1904462761272263026",
+        "created_at": "2025-03-25T09:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T10:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904462761272263026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3WGQixPw5I",
+              "end": 31,
+              "expanded_url": "https://x.com/KuzeRollsRoyce/status/1904462761272263026/photo/1",
+              "media_key": "3_1904462755895312385",
+              "start": 8,
+              "url": "https://t.co/3WGQixPw5I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904462761272263026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 35940,
+          "like_count": 1737,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "セックスしてえ https://t.co/3WGQixPw5I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒中 od/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 123,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 195
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T00:00:48.000Z",
+        "description": "筋トレ｜質問→https://t.co/6QUDsEqRhx｜ｻﾌﾞ@Kuze_nichijo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "Kuze_nichijo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "peing.net/ja/kuze_rr",
+                "end": 30,
+                "expanded_url": "https://peing.net/ja/kuze_rr",
+                "start": 7,
+                "url": "https://t.co/6QUDsEqRhx"
+              }
+            ]
+          }
+        },
+        "id": "1717692747120054272",
+        "location": "関東",
+        "name": "くぜ",
+        "pinned_tweet_id": "1880181867644916001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875737900400439296/3bOCCQFH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17517,
+          "following_count": 79,
+          "like_count": 36017,
+          "listed_count": 56,
+          "media_count": 309,
+          "tweet_count": 2245
+        },
+        "username": "KuzeRollsRoyce",
+        "verified": false
+      }
+    ]
+  }
+}

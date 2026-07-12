@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2067265889024798913",
+    "created_at": "2026-06-17T15:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067265889024798913"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meer19002/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/meer19002/status/1934896548082786689",
+          "start": 11,
+          "url": "https://t.co/u0yWZgi2Yb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067265889024798913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934896548082786689",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一年了 鸟姐我想你了 https://t.co/u0yWZgi2Yb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2067265889024798913",
+        "created_at": "2026-06-17T15:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067265889024798913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meer19002/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/meer19002/status/1934896548082786689",
+              "start": 11,
+              "url": "https://t.co/u0yWZgi2Yb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067265889024798913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934896548082786689",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一年了 鸟姐我想你了 https://t.co/u0yWZgi2Yb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574668085314965504",
+        "conversation_id": "1934896548082786689",
+        "created_at": "2025-06-17T08:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T09:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934896548082786689"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934896548082786689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 47232,
+          "like_count": 150,
+          "quote_count": 3,
+          "reply_count": 121,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "还有一个小时。好无聊。要不提前喝了吧，让我算一下，我吃中午饭就喝了一碗汤。感觉提前一个小时也没有什么关系。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 631,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 1319
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-27T07:51:55.000Z",
+        "description": "好想死☠️",
+        "id": "1574668085314965504",
+        "name": "Hazel Valentine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838764299734650880/DF7plmmj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599,
+          "following_count": 743,
+          "like_count": 11280,
+          "listed_count": 12,
+          "media_count": 1403,
+          "tweet_count": 11429
+        },
+        "username": "Meer19002",
+        "verified": false
+      }
+    ]
+  }
+}

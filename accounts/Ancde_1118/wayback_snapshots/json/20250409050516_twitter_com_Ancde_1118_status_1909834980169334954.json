@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1909834978390843392"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "conversation_id": "1909834980169334954",
+    "created_at": "2025-04-09T05:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T06:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909834980169334954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 35,
+          "id": "1862511638102052864",
+          "start": 22,
+          "username": "bbbsss755268"
+        },
+        {
+          "end": 49,
+          "id": "1708410791744118784",
+          "start": 36,
+          "username": "trump1029597"
+        },
+        {
+          "end": 72,
+          "id": "1420656128799567873",
+          "start": 56,
+          "username": "aUe5xOno2Ib0NIr"
+        },
+        {
+          "end": 91,
+          "id": "1537792776951111681",
+          "start": 79,
+          "username": "juemingzi20"
+        },
+        {
+          "end": 102,
+          "id": "1895390740764872704",
+          "start": 92,
+          "username": "jueming06"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+          "display_url": "infinityweet.me/family-tree",
+          "end": 130,
+          "expanded_url": "https://infinityweet.me/family-tree",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1909467918703951872/oN8yae2Q?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1909467918703951872/oN8yae2Q?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 107,
+          "status": 200,
+          "title": "Family Tree • Infinitweet",
+          "unwound_url": "https://infinityweet.me/family-tree",
+          "url": "https://t.co/hIegK5DBtr"
+        },
+        {
+          "display_url": "pic.x.com/08XCIkSPRt",
+          "end": 154,
+          "expanded_url": "https://x.com/Ancde_1118/status/1909834980169334954/photo/1",
+          "media_key": "3_1909834978390843392",
+          "start": 131,
+          "url": "https://t.co/08XCIkSPRt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909834980169334954",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @bbbsss755268 @trump1029597\n👰 配偶: @aUe5xOno2Ib0NIr\n👶 孩子: @juemingzi20 @jueming06\n\n➡️ https://t.co/hIegK5DBtr https://t.co/08XCIkSPRt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1909834978390843392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoEYy0qaIAAdCIC.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909834978390843392"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "conversation_id": "1909834980169334954",
+        "created_at": "2025-04-09T05:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T06:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909834980169334954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1862511638102052864",
+              "start": 22,
+              "username": "bbbsss755268"
+            },
+            {
+              "end": 49,
+              "id": "1708410791744118784",
+              "start": 36,
+              "username": "trump1029597"
+            },
+            {
+              "end": 72,
+              "id": "1420656128799567873",
+              "start": 56,
+              "username": "aUe5xOno2Ib0NIr"
+            },
+            {
+              "end": 91,
+              "id": "1537792776951111681",
+              "start": 79,
+              "username": "juemingzi20"
+            },
+            {
+              "end": 102,
+              "id": "1895390740764872704",
+              "start": 92,
+              "username": "jueming06"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinityweet.me/family-tree",
+              "end": 130,
+              "expanded_url": "https://infinityweet.me/family-tree",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1909467918703951872/oN8yae2Q?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1909467918703951872/oN8yae2Q?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 107,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinityweet.me/family-tree",
+              "url": "https://t.co/hIegK5DBtr"
+            },
+            {
+              "display_url": "pic.x.com/08XCIkSPRt",
+              "end": 154,
+              "expanded_url": "https://x.com/Ancde_1118/status/1909834980169334954/photo/1",
+              "media_key": "3_1909834978390843392",
+              "start": 131,
+              "url": "https://t.co/08XCIkSPRt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909834980169334954",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @bbbsss755268 @trump1029597\n👰 配偶: @aUe5xOno2Ib0NIr\n👶 孩子: @juemingzi20 @jueming06\n\n➡️ https://t.co/hIegK5DBtr https://t.co/08XCIkSPRt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒中 od/双性恋/1i/4i/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 149,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 305
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T14:59:30.000Z",
+        "description": "倒情绪垃圾，如果在观看过程出现任何心理不适请及时屏蔽。anarchism",
+        "id": "1862511638102052864",
+        "name": "白砂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873843178937225216/IuT-peKG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 182,
+          "like_count": 592,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 452
+        },
+        "username": "bbbsss755268",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T09:17:38.000Z",
+        "description": "随便玩玩",
+        "id": "1708410791744118784",
+        "name": "trump",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876506608135819264/RGcK2g8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 10,
+          "like_count": 1759,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 134
+        },
+        "username": "trump1029597",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-29T08:03:26.000Z",
+        "description": "。",
+        "id": "1420656128799567873",
+        "name": "トゥーミー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878846788700119045/jFtWqCrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 75,
+          "like_count": 7674,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 456
+        },
+        "username": "aUe5xOno2Ib0NIr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-17T13:43:23.000Z",
+        "description": "山水辞别后  春尾难收  这世上万千琳琅  在我这里你依旧是孤品独章.",
+        "id": "1537792776951111681",
+        "name": "决明子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850821926018809857/W1L3Mams_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 981,
+          "like_count": 8786,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 96
+        },
+        "username": "juemingzi20",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T08:29:12.000Z",
+        "description": "闲杂的碎碎念",
+        "id": "1895390740764872704",
+        "location": "中国浙江",
+        "name": "决明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895391516945707008/YPHhVnWP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 15,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 7
+        },
+        "username": "jueming06",
+        "verified": false
+      }
+    ]
+  }
+}

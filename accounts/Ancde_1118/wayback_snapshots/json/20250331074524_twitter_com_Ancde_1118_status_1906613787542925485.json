@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1906613787542925485",
+    "created_at": "2025-03-31T07:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T08:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906613787542925485"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cjing3_/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/cjing3_/status/1906023293284691990",
+          "start": 8,
+          "url": "https://t.co/xNUBUYye2m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906613787542925485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906023293284691990",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个惨我卖定了 https://t.co/xNUBUYye2m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1906613787542925485",
+        "created_at": "2025-03-31T07:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T08:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906613787542925485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cjing3_/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/cjing3_/status/1906023293284691990",
+              "start": 8,
+              "url": "https://t.co/xNUBUYye2m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906613787542925485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906023293284691990",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个惨我卖定了 https://t.co/xNUBUYye2m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658881840349061120",
+        "conversation_id": "1906023293284691990",
+        "created_at": "2025-03-29T16:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T17:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906023293284691990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906023293284691990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3836,
+          "like_count": 65,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 13
+        },
+        "reply_settings": "following",
+        "text": "和别人聊聊日常会被当成卖惨，和别人聊聊过去会被当成卖惨，和别人聊聊未来会被当成卖惨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒中 od/双性恋/1i/4i/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 138,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 255
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T17:07:32.000Z",
+        "description": "打錢",
+        "id": "1658881840349061120",
+        "location": "轉載Reprint🚫",
+        "name": "楚鯨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899330579277164544/7tNlrU4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10384,
+          "following_count": 528,
+          "like_count": 7773,
+          "listed_count": 16,
+          "media_count": 129,
+          "tweet_count": 382
+        },
+        "username": "CJing3_",
+        "verified": false
+      }
+    ]
+  }
+}

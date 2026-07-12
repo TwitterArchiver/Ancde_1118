@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1906612549073900000",
+    "created_at": "2025-03-31T07:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T08:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906612549073900000"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/loolzaozmin/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/loolzaozmin/status/1906552217404149904",
+          "start": 11,
+          "url": "https://t.co/fAMC05sVuq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906612549073900000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906552217404149904",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "究竟怎么和孤独相处呢 https://t.co/fAMC05sVuq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 134893,
+        "height": 1280,
+        "media_key": "13_1906550456656244736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1906550456656244736/img/PAsNfBWCFayzVQxo.jpg",
+        "public_metrics": {
+          "view_count": 1005
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906550456656244736/vid/avc1/320x568/OJR8gh-CQBjMj2St.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906550456656244736/vid/avc1/480x852/Rjkeq2_QIxeolGnU.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906550456656244736/vid/avc1/720x1280/E354E6YnsLaoOeb9.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1906550456656244736/pl/d3kdxG80jZt-0M8C.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1906612549073900000",
+        "created_at": "2025-03-31T07:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T08:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906612549073900000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/loolzaozmin/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/loolzaozmin/status/1906552217404149904",
+              "start": 11,
+              "url": "https://t.co/fAMC05sVuq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906612549073900000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906552217404149904",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "究竟怎么和孤独相处呢 https://t.co/fAMC05sVuq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1906550456656244736"
+          ]
+        },
+        "author_id": "1467368317258248192",
+        "conversation_id": "1906552217404149904",
+        "created_at": "2025-03-31T03:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T04:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906552217404149904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EZlpFL4EPg",
+              "end": 113,
+              "expanded_url": "https://x.com/loolzaozmin/status/1906552217404149904/video/1",
+              "media_key": "13_1906550456656244736",
+              "start": 90,
+              "url": "https://t.co/EZlpFL4EPg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906552217404149904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2054,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "究竟怎么和孤独相处呢 无法独自存活的藤蔓会绞上树木 是共生还是绞杀 逃避孤独逃避自己是一团空壳 被drug 性爱 尼古丁能塞满吗 或者只剩下被灼烧腐烂的躯壳了 谢谢你收下这幅躯壳 https://t.co/EZlpFL4EPg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒中 od/双性恋/1i/4i/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 138,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 254
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T05:40:54.000Z",
+        "description": "撒旦之子｜非二元｜多个人格",
+        "id": "1467368317258248192",
+        "location": "门188 6666  接线下纯绿",
+        "name": "小藻",
+        "pinned_tweet_id": "1844646368952136005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879431026067521536/DL95lh-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13799,
+          "following_count": 195,
+          "like_count": 644,
+          "listed_count": 19,
+          "media_count": 137,
+          "tweet_count": 668
+        },
+        "username": "loolzaozmin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1916573846913814952",
+    "created_at": "2025-04-27T19:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T20:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916573846913814952"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1916573846913814952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所有人的灵魂都是脆弱的，哪怕你是一个再坚强不过的人，但那只是皮囊。我们之前相遇，相爱，其实就是灵魂在进行筛选和磨合，就好像，两个破碎的灵魂互相拼凑变成一个完整的人，这个过程也是脆弱且不堪一击的，可能因为一句话就分崩离析。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1916573846913814952",
+        "created_at": "2025-04-27T19:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T20:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916573846913814952"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916573846913814952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人的灵魂都是脆弱的，哪怕你是一个再坚强不过的人，但那只是皮囊。我们之前相遇，相爱，其实就是灵魂在进行筛选和磨合，就好像，两个破碎的灵魂互相拼凑变成一个完整的人，这个过程也是脆弱且不堪一击的，可能因为一句话就分崩离析。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo/🚪66",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 191,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 373
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

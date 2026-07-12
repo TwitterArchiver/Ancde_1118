@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2062282469127360728",
+    "created_at": "2026-06-03T21:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T22:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062282469127360728"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062282469127360728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我又开始真正的想死了，我发现自己每天都在哭，一直在内耗，为什么所有的傻逼事都一起冲着我来，自己的心情每天像一坨狗屎一样，让人厌烦，恶心想吐，死会是一种解脱吗。我想死，我不知道活着的意义，我做的所有事都是无意义的，我觉得人活着就是无意义，有很多话想说但也不想说想说又不知道从哪开口。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2062282469127360728",
+        "created_at": "2026-06-03T21:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T22:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062282469127360728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062282469127360728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又开始真正的想死了，我发现自己每天都在哭，一直在内耗，为什么所有的傻逼事都一起冲着我来，自己的心情每天像一坨狗屎一样，让人厌烦，恶心想吐，死会是一种解脱吗。我想死，我不知道活着的意义，我做的所有事都是无意义的，我觉得人活着就是无意义，有很多话想说但也不想说想说又不知道从哪开口。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 562,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1035
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

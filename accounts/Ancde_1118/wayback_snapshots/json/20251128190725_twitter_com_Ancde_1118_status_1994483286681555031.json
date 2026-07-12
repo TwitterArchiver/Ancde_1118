@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1994483286681555031",
+    "created_at": "2025-11-28T19:07:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T20:07:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994483286681555031"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thekoorei/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/thekoorei/status/1994170730775498875",
+          "start": 12,
+          "url": "https://t.co/AhSljKBVRp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994483286681555031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994170730775498875",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不得劲了我私信也这样 https://t.co/AhSljKBVRp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1994483286681555031",
+        "created_at": "2025-11-28T19:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T20:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994483286681555031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thekoorei/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/thekoorei/status/1994170730775498875",
+              "start": 12,
+              "url": "https://t.co/AhSljKBVRp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994483286681555031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994170730775498875",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不得劲了我私信也这样 https://t.co/AhSljKBVRp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771807653863563265",
+        "conversation_id": "1994170730775498875",
+        "created_at": "2025-11-27T22:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T23:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994170730775498875"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994170730775498875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 51277,
+          "like_count": 208,
+          "quote_count": 2,
+          "reply_count": 35,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我甚至连性骚扰私信都没有了，每天起床0个私信我好想要门哥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我是双性恋/tg@Sakura_sakura01118/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1993721402894238091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 437,
+          "like_count": 101,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 756
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T07:54:07.000Z",
+        "description": "172cm丨62kg\n丨不卖图包丨泛性恋丨INTJ丨坐标 #广州 丨生物医学工程在读丨🇨🇳🇭🇰🇯🇵🇬🇧ok丨不入门不回丨负能量：@TheOnlyKoorei 丨",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 29,
+                "tag": "广州"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "TheOnlyKoorei"
+              }
+            ]
+          }
+        },
+        "id": "1771807653863563265",
+        "location": "🚪口令红包288➕v",
+        "name": "koorei",
+        "pinned_tweet_id": "1794364082591850630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987405867084640256/jmOxpTWS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92693,
+          "following_count": 599,
+          "like_count": 6056,
+          "listed_count": 412,
+          "media_count": 206,
+          "tweet_count": 2405
+        },
+        "username": "TheKoorei",
+        "verified": false
+      }
+    ]
+  }
+}

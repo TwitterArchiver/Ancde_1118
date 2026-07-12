@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1990125852470706434",
+    "created_at": "2025-11-16T18:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T19:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990125852470706434"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1990125852470706434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实好想知道你们割手割的萌萌的图案是怎么割出来的 用的啥刀啊这么丝滑 我用手术刀一直割不出来这种TT 我也想有萌萌的伤疤TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1990125852470706434",
+        "created_at": "2025-11-16T18:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T19:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990125852470706434"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990125852470706434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实好想知道你们割手割的萌萌的图案是怎么割出来的 用的啥刀啊这么丝滑 我用手术刀一直割不出来这种TT 我也想有萌萌的伤疤TT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1937294030800585027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 331,
+          "like_count": 59,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 696
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

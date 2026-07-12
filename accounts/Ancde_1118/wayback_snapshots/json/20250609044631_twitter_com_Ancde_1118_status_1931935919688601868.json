@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1931935919688601868",
+    "created_at": "2025-06-09T04:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T05:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931935919688601868"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1931935919688601868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在每天流逝一般地度过，伴有非常的疲惫和断断续续的头疼。这究竟该称为什么？我不明白接下来到底还有多少的挣扎，痛苦，疲惫混合在一起。不太懂那应该叫做什么，但是我真的觉得疲惫得不得了。我正在度过非常漫长，日子短小，寂寞的五月。突然我很想坐在独木舟中间，在平静的河里飘荡到世界的尽头。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1931935919688601868",
+        "created_at": "2025-06-09T04:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T05:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931935919688601868"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931935919688601868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在每天流逝一般地度过，伴有非常的疲惫和断断续续的头疼。这究竟该称为什么？我不明白接下来到底还有多少的挣扎，痛苦，疲惫混合在一起。不太懂那应该叫做什么，但是我真的觉得疲惫得不得了。我正在度过非常漫长，日子短小，寂寞的五月。突然我很想坐在独木舟中间，在平静的河里飘荡到世界的尽头。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 225,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 445
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

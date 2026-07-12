@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937294023628324866"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1937294030800585027",
+    "created_at": "2025-06-23T23:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T00:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937294030800585027"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3SH5ie1WhK",
+          "end": 27,
+          "expanded_url": "https://x.com/Ancde_1118/status/1937294030800585027/photo/1",
+          "media_key": "3_1937294023628324866",
+          "start": 4,
+          "url": "https://t.co/3SH5ie1WhK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937294030800585027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "求打赏 https://t.co/3SH5ie1WhK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1937294023628324866",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuKmpnfagAIusKZ.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937294023628324866"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1937294030800585027",
+        "created_at": "2025-06-23T23:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T00:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937294030800585027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3SH5ie1WhK",
+              "end": 27,
+              "expanded_url": "https://x.com/Ancde_1118/status/1937294030800585027/photo/1",
+              "media_key": "3_1937294023628324866",
+              "start": 4,
+              "url": "https://t.co/3SH5ie1WhK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937294030800585027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求打赏 https://t.co/3SH5ie1WhK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 237,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 494
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

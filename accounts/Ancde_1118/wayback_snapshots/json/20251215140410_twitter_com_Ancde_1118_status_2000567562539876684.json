@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000567553576579072"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "conversation_id": "2000567562539876684",
+    "created_at": "2025-12-15T14:04:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T15:04:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000567562539876684"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VicxsYMy24",
+          "end": 188,
+          "expanded_url": "https://x.com/Ancde_1118/status/2000567562539876684/photo/1",
+          "media_key": "3_2000567553576579072",
+          "start": 165,
+          "url": "https://t.co/VicxsYMy24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000567562539876684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自介条\n我活不起了求赞赏\n\n08/我有双相 精分 重焦 ed\n我是穿孔师 关于穿孔的都可以问我\n\n我卖电子烟 可以找我买烟哟\n\nଘ*⑅┈⋆°˖ ┈ ୨୧ ┈°⋆┈⑅*ଓ\n\n🚪52纯绿 开放朋友圈自拍 可语音聊天\n女孩子免🚪\n\n.｡✩⁺˚♪º·˚﹒ ᶻ ᶻ ᶻ\n\n本人还在上学\n喜欢发自残血图和有的没的\n我很好说话 欢迎和我互fo https://t.co/VicxsYMy24"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000567553576579072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8NxlywasAAJSAx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000567553576579072"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "conversation_id": "2000567562539876684",
+        "created_at": "2025-12-15T14:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T15:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000567562539876684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VicxsYMy24",
+              "end": 188,
+              "expanded_url": "https://x.com/Ancde_1118/status/2000567562539876684/photo/1",
+              "media_key": "3_2000567553576579072",
+              "start": 165,
+              "url": "https://t.co/VicxsYMy24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000567562539876684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自介条\n我活不起了求赞赏\n\n08/我有双相 精分 重焦 ed\n我是穿孔师 关于穿孔的都可以问我\n\n我卖电子烟 可以找我买烟哟\n\nଘ*⑅┈⋆°˖ ┈ ୨୧ ┈°⋆┈⑅*ଓ\n\n🚪52纯绿 开放朋友圈自拍 可语音聊天\n女孩子免🚪\n\n.｡✩⁺˚♪º·˚﹒ ᶻ ᶻ ᶻ\n\n本人还在上学\n喜欢发自残血图和有的没的\n我很好说话 欢迎和我互fo https://t.co/VicxsYMy24"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我是双性恋/tg@Sakura_sakura01118/我想交朋友 可以找我互fo/可以找我买电子烟",
+        "id": "1778719380639014913",
+        "name": "Sakura（烟代版）",
+        "pinned_tweet_id": "1993721402894238091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 438,
+          "like_count": 100,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 779
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

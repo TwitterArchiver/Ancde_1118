@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2065842307002429666",
+    "created_at": "2026-06-13T17:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T18:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065842307002429666"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hz_kuzira/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/hz_kuzira/status/2065309355730502045",
+          "start": 5,
+          "url": "https://t.co/J19vfLcI2B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065842307002429666",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065309355730502045",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的假的 https://t.co/J19vfLcI2B"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2065842307002429666",
+        "created_at": "2026-06-13T17:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065842307002429666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hz_kuzira/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/hz_kuzira/status/2065309355730502045",
+              "start": 5,
+              "url": "https://t.co/J19vfLcI2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065842307002429666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065309355730502045",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的假的 https://t.co/J19vfLcI2B"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050799875160453120",
+        "conversation_id": "2065309355730502045",
+        "created_at": "2026-06-12T05:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065309355730502045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065309355730502045",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 102888,
+          "like_count": 3661,
+          "quote_count": 59,
+          "reply_count": 41,
+          "retweet_count": 221
+        },
+        "reply_settings": "everyone",
+        "text": "健常者は自殺を考えないってガチ❓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 609,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1214
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T04:50:51.000Z",
+        "description": "手帳2級✌️03双極性\n日々の記録🔖ヘルツって呼んでください\n医療保護入院中\nいいねは既読と応援",
+        "id": "2050799875160453120",
+        "name": "Hz@閉鎖入院中",
+        "pinned_tweet_id": "2060229741941342409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053645855782227968/-zUzvYZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 181,
+          "like_count": 4024,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 501
+        },
+        "username": "Hz_kuzira",
+        "verified": false
+      }
+    ]
+  }
+}

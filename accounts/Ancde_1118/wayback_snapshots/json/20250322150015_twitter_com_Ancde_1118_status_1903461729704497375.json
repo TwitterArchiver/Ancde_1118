@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1903461729704497375",
+    "created_at": "2025-03-22T15:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T16:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903461729704497375"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kaihedenimasil…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/kaihedenimasil/status/1903007704488001581",
+          "start": 37,
+          "url": "https://t.co/AFBxRxeUeM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903461729704497375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903007704488001581",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恭喜你聊到隐藏款了 其实我色情狂外表的底下隐藏的是一个彻头彻尾的纯爱战神 https://t.co/AFBxRxeUeM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1903461729704497375",
+        "created_at": "2025-03-22T15:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T16:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903461729704497375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kaihedenimasil…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/kaihedenimasil/status/1903007704488001581",
+              "start": 37,
+              "url": "https://t.co/AFBxRxeUeM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903461729704497375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903007704488001581",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恭喜你聊到隐藏款了 其实我色情狂外表的底下隐藏的是一个彻头彻尾的纯爱战神 https://t.co/AFBxRxeUeM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867539520771829761",
+        "conversation_id": "1903007704488001581",
+        "created_at": "2025-03-21T08:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T09:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903007704488001581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/summerring41/s…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/summerring41/status/1902378176191352946",
+              "start": 37,
+              "url": "https://t.co/YrpMsfNKdG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903007704488001581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 36122,
+          "like_count": 304,
+          "quote_count": 28,
+          "reply_count": 18,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902378176191352946",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恭喜你聊到隐藏款了 其实我色情狂外表的底下隐藏的是一个彻头彻尾的纯爱战神 https://t.co/YrpMsfNKdG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 酗酒 抽烟 嗑药/想交朋友/我的tg频道⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+tGPZagccCeE0M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+tGPZagccCeE0M2I1",
+                "start": 0,
+                "url": "https://t.co/YOU43GttEH"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 112,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 169
+        },
+        "url": "https://t.co/YOU43GttEH",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T11:58:21.000Z",
+        "description": "ENTP。♏。把这里当做情绪垃圾桶🚬。推上就是最真实的自己ᐇ现实生活与推分离。发情不发情是两个人格。喜欢我请打钱。🙄🙄别搁那骚扰我",
+        "id": "1867539520771829761",
+        "name": "爆浆奶黄包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875571743743426560/EolXtJkB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5004,
+          "following_count": 455,
+          "like_count": 15468,
+          "listed_count": 4,
+          "media_count": 148,
+          "tweet_count": 3861
+        },
+        "username": "KAIHEDENIMASIL",
+        "verified": false
+      }
+    ]
+  }
+}

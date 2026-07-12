@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2074999291270316080",
+    "created_at": "2026-07-08T23:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T00:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074999291270316080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1991711672684421121",
+          "start": 3,
+          "username": "pearl0812lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074999291270316080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074393411722133553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearl0812lucky: 失去是相互的 但难过不是 想要与人制造羁绊 就必须要承担掉眼泪的风险 一旦适应了某个人 某段恋爱 某种生活方式 就必须做好 有一天 完全脱离这种生活的准备 那一天的来临 肯定是山崩地裂的难过 肯定会很难熬 数不清的崩溃 可亲爱的 没有什么…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2074999291270316080",
+        "created_at": "2026-07-08T23:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T00:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074999291270316080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1991711672684421121",
+              "start": 3,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074999291270316080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074393411722133553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearl0812lucky: 失去是相互的 但难过不是 想要与人制造羁绊 就必须要承担掉眼泪的风险 一旦适应了某个人 某段恋爱 某种生活方式 就必须做好 有一天 完全脱离这种生活的准备 那一天的来临 肯定是山崩地裂的难过 肯定会很难熬 数不清的崩溃 可亲爱的 没有什么…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2074393411722133553",
+        "created_at": "2026-07-07T07:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074393411722133553"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074393411722133553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 12895,
+          "like_count": 543,
+          "quote_count": 3,
+          "reply_count": 21,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "失去是相互的 但难过不是 想要与人制造羁绊 就必须要承担掉眼泪的风险 一旦适应了某个人 某段恋爱 某种生活方式 就必须做好 有一天 完全脱离这种生活的准备 那一天的来临 肯定是山崩地裂的难过 肯定会很难熬 数不清的崩溃 可亲爱的 没有什么是无法割舍的 倘若他舍得 你也得舍得"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 674,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 1637
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10301,
+          "following_count": 72,
+          "like_count": 8771,
+          "listed_count": 8,
+          "media_count": 191,
+          "tweet_count": 2052
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

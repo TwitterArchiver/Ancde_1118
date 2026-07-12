@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2069701299814457826",
+    "created_at": "2026-06-24T11:48:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T12:48:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069749411727687961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1653666360604647424",
+          "start": 0,
+          "username": "congng1327122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069749411727687961",
+    "in_reply_to_user_id": "1653666360604647424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069705921085989103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@congng1327122 我也喜欢你哟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2069701299814457826",
+        "created_at": "2026-06-24T11:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069749411727687961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1653666360604647424",
+              "start": 0,
+              "username": "congng1327122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069749411727687961",
+        "in_reply_to_user_id": "1653666360604647424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069705921085989103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@congng1327122 我也喜欢你哟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653666360604647424",
+        "conversation_id": "2069701299814457826",
+        "created_at": "2026-06-24T08:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069705921085989103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778719380639014913",
+              "start": 0,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069705921085989103",
+        "in_reply_to_user_id": "1778719380639014913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069701299814457826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ancde_1118 喜欢(*¯︶¯*)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 643,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 1421
+        },
+        "url": "",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T07:42:51.000Z",
+        "description": "yukiso/愈｜我不怎么会回复 不过我很喜欢你们！感谢评论｜互fo 基本只回同类｜想了解我的请看置顶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ac22161",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ac22161",
+                "start": 0,
+                "url": "https://t.co/eE4dYT7zX6"
+              }
+            ]
+          }
+        },
+        "id": "1653666360604647424",
+        "location": "距离你0.1km",
+        "name": "小雨愈愈",
+        "pinned_tweet_id": "2063025850530820389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064073250296983554/LbWwtr94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 235,
+          "like_count": 1414,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1593
+        },
+        "url": "https://t.co/eE4dYT7zX6",
+        "username": "congng1327122",
+        "verified": false
+      }
+    ]
+  }
+}

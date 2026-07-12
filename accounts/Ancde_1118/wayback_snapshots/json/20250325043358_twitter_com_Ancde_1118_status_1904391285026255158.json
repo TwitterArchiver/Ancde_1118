@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1904391285026255158",
+    "created_at": "2025-03-25T04:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T05:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1904391285026255158"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/caomeiweimaoma…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/caomeiweimaomao/status/1904120805958590648",
+          "start": 10,
+          "url": "https://t.co/rvw5uV2Q1d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904391285026255158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904120805958590648",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "春天会把风带回来吗 https://t.co/rvw5uV2Q1d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1904391285026255158",
+        "created_at": "2025-03-25T04:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T05:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904391285026255158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/caomeiweimaoma…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/caomeiweimaomao/status/1904120805958590648",
+              "start": 10,
+              "url": "https://t.co/rvw5uV2Q1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904391285026255158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904120805958590648",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "春天会把风带回来吗 https://t.co/rvw5uV2Q1d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "conversation_id": "1904120805958590648",
+        "created_at": "2025-03-24T10:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T11:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904120805958590648"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904120805958590648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4449,
+          "like_count": 71,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "春天来了，让我想到了一位故人\nspring风"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 酗酒 抽烟 嗑药/想交朋友/我的tg频道⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+tGPZagccCeE0M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+tGPZagccCeE0M2I1",
+                "start": 0,
+                "url": "https://t.co/YOU43GttEH"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 112,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 180
+        },
+        "url": "https://t.co/YOU43GttEH",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "🧸关注我加入爱礼教丨🚪门槛77r仅闲聊丨日常分享型推丨小号仅过眼熟@lanmeiweimaomao 丨你杠就是你对哦丨🪜自用梯子：https://t.co/yyQ5wxPP3A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lanmeiweimaomao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "get.tachvip.com/#/register?cod…",
+                "end": 88,
+                "expanded_url": "https://get.tachvip.com/#/register?code=Ujz5tpFy",
+                "start": 65,
+                "url": "https://t.co/yyQ5wxPP3A"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "爱礼的天空",
+        "name": "爱礼",
+        "pinned_tweet_id": "1901978305433161929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40850,
+          "following_count": 928,
+          "like_count": 22260,
+          "listed_count": 46,
+          "media_count": 1862,
+          "tweet_count": 25003
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

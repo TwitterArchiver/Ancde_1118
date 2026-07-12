@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2061112902577533119",
+    "created_at": "2026-05-31T15:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T16:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061112902577533119"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061112902577533119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我又冇對唔住你 點解你咁對我 對唔住 怪我get唔到咩係愛 怪我太天真了 forget咗人都係會變嘅 包括你 當我feel到我哋嘅relationship 開始變質 我真係好希望你似以前咁安慰我 甚至最尾傷我最深都係你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2061112902577533119",
+        "created_at": "2026-05-31T15:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061112902577533119"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061112902577533119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又冇對唔住你 點解你咁對我 對唔住 怪我get唔到咩係愛 怪我太天真了 forget咗人都係會變嘅 包括你 當我feel到我哋嘅relationship 開始變質 我真係好希望你似以前咁安慰我 甚至最尾傷我最深都係你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 550,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 976
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

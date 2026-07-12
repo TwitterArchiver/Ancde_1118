@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1962916716432040068",
+    "created_at": "2025-09-02T16:33:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T17:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962916716432040068"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1962916716432040068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我突然不想成为平静的人了，因为要流太多的眼泪，要接受太多的顺其自然，这太痛苦，也太压抑。那样的平静，太像和真实自己的漫长告别。也许也不是告别，而是彻底的割裂。真的，我不想和真实的自我说再见。如果我的心注定要捕捉生命中所有情绪的波动，那我只希望自己有一副不那么易碎的躯壳。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1962916716432040068",
+        "created_at": "2025-09-02T16:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T17:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962916716432040068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962916716432040068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我突然不想成为平静的人了，因为要流太多的眼泪，要接受太多的顺其自然，这太痛苦，也太压抑。那样的平静，太像和真实自己的漫长告别。也许也不是告别，而是彻底的割裂。真的，我不想和真实的自我说再见。如果我的心注定要捕捉生命中所有情绪的波动，那我只希望自己有一副不那么易碎的躯壳。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1937294030800585027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 302,
+          "like_count": 57,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 620
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

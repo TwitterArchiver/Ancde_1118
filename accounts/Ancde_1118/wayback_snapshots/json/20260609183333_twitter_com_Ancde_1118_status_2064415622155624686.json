@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2064333122947420459",
+    "created_at": "2026-06-09T18:33:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T19:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064415622155624686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847712034361659392",
+          "start": 0,
+          "username": "OD_Sakura23333"
+        },
+        {
+          "end": 25,
+          "id": "1811334067503382529",
+          "start": 16,
+          "username": "nn_yn041"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064415622155624686",
+    "in_reply_to_user_id": "1847712034361659392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064357648968151542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OD_Sakura23333 @nn_yn041 我爱xanax"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2064333122947420459",
+        "created_at": "2026-06-09T18:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064415622155624686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847712034361659392",
+              "start": 0,
+              "username": "OD_Sakura23333"
+            },
+            {
+              "end": 25,
+              "id": "1811334067503382529",
+              "start": 16,
+              "username": "nn_yn041"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064415622155624686",
+        "in_reply_to_user_id": "1847712034361659392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064357648968151542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OD_Sakura23333 @nn_yn041 我爱xanax"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "conversation_id": "2064333122947420459",
+        "created_at": "2026-06-09T14:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064357648968151542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811334067503382529",
+              "start": 0,
+              "username": "nn_yn041"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064357648968151542",
+        "in_reply_to_user_id": "1811334067503382529",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064333122947420459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nn_yn041 xanax"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 613,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1174
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "02 | ♂ |リスカ| OD | 病み垢 | 抗うつ | くず\n | 希死念慮 | 情緒不安定\n药物科普网站:https://t.co/rSxE9OBY6f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 79,
+                "expanded_url": "https://jile.bid/",
+                "start": 56,
+                "url": "https://t.co/rSxE9OBY6f"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.bid",
+                "end": 23,
+                "expanded_url": "https://www.pr80.bid/",
+                "start": 0,
+                "url": "https://t.co/iTaosAO9RF"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "Sakura⚛️",
+        "pinned_tweet_id": "2059552139131916649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059942253020459008/BuhfSavd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2265,
+          "following_count": 1433,
+          "like_count": 25448,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 3310
+        },
+        "url": "https://t.co/iTaosAO9RF",
+        "username": "OD_Sakura23333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T09:38:09.000Z",
+        "description": "知らない間に僕を満たして",
+        "id": "1811334067503382529",
+        "location": "元貴くんしか信用しない",
+        "name": "黒藍†₊ ⊹♱𓉸",
+        "pinned_tweet_id": "2063992424695996877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061106144593211392/FJlLM6ua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 59,
+          "like_count": 1804,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1261
+        },
+        "username": "nn_yn041",
+        "verified": false
+      }
+    ]
+  }
+}

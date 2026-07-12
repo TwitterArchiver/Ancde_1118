@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2073980602387448102",
+    "created_at": "2026-07-06T04:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T05:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073980602387448102"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jess_star1025/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/jess_star1025/status/2073673530571370864",
+          "start": 7,
+          "url": "https://t.co/dlqxiq0ghd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073980602387448102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073673530571370864",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有粉丝也这样 https://t.co/dlqxiq0ghd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 382,
+        "media_key": "3_2073673526960156672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcrFgKXcAABcUF.jpg",
+        "width": 679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2073980602387448102",
+        "created_at": "2026-07-06T04:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073980602387448102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jess_star1025/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/jess_star1025/status/2073673530571370864",
+              "start": 7,
+              "url": "https://t.co/dlqxiq0ghd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073980602387448102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073673530571370864",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有粉丝也这样 https://t.co/dlqxiq0ghd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073673526960156672"
+          ]
+        },
+        "author_id": "1841416261630124032",
+        "conversation_id": "2073673530571370864",
+        "created_at": "2026-07-05T07:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073673530571370864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xa3xh1B4kE",
+              "end": 57,
+              "expanded_url": "https://x.com/jess_star1025/status/2073673530571370864/photo/1",
+              "media_key": "3_2073673526960156672",
+              "start": 34,
+              "url": "https://t.co/xa3xh1B4kE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073673530571370864",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 465,
+          "impression_count": 612445,
+          "like_count": 27056,
+          "quote_count": 2176,
+          "reply_count": 1682,
+          "retweet_count": 5403
+        },
+        "reply_settings": "everyone",
+        "text": "Personas sin seguidores tuiteando https://t.co/xa3xh1B4kE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 678,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 249,
+          "tweet_count": 1609
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T09:54:02.000Z",
+        "description": "femboy 𑁍bi 2^2 = 4 nosé k poner arroz con pollo esteeeee sim. 🙏\namo a las twice 🫶💕\nya no te extraño tanto",
+        "id": "1841416261630124032",
+        "location": "tu corazón ",
+        "name": "𝓙𝓮𝓼𝓼🌸",
+        "pinned_tweet_id": "2060813538457731408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841418460544294912/Pvtz6XlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 193,
+          "like_count": 12617,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 3408
+        },
+        "url": "",
+        "username": "jess_star1025",
+        "verified": false
+      }
+    ]
+  }
+}

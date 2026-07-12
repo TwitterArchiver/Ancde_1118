@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1935284630460187024",
+    "created_at": "2025-06-18T10:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T11:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935284630460187024"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yyyyyu3734/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/yyyyyu3734/status/1934942958245364199",
+          "start": 15,
+          "url": "https://t.co/CAoSy7aSQs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935284630460187024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934942958245364199",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的世界一直下雨 我处理不好 https://t.co/CAoSy7aSQs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1935284630460187024",
+        "created_at": "2025-06-18T10:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T11:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935284630460187024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yyyyyu3734/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/yyyyyu3734/status/1934942958245364199",
+              "start": 15,
+              "url": "https://t.co/CAoSy7aSQs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935284630460187024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934942958245364199",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的世界一直下雨 我处理不好 https://t.co/CAoSy7aSQs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886567241510215682",
+        "conversation_id": "1934942958245364199",
+        "created_at": "2025-06-17T11:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T12:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934942958245364199"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934942958245364199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广州的天气和我的心一样，每天下着莫名其妙的雨下个不停"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 235,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 475
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T00:07:49.000Z",
+        "description": "你好，请叫我小鱼",
+        "id": "1886567241510215682",
+        "name": "pizzzzzza",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915566139431936003/xM-HHBFo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 33,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 206
+        },
+        "username": "yyyyyu3734",
+        "verified": false
+      }
+    ]
+  }
+}

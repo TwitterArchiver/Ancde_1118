@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1916930943115530725",
+    "created_at": "2025-04-28T19:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T20:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916930943115530725"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yezijio925/sta…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/yezijio925/status/1916776760727011368",
+          "start": 23,
+          "url": "https://t.co/XfXeM6JAS1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916930943115530725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916776760727011368",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "希望我私信里的诈骗链接全部变成口令红包和大奶 https://t.co/XfXeM6JAS1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1916930943115530725",
+        "created_at": "2025-04-28T19:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T20:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916930943115530725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yezijio925/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/yezijio925/status/1916776760727011368",
+              "start": 23,
+              "url": "https://t.co/XfXeM6JAS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916930943115530725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916776760727011368",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "希望我私信里的诈骗链接全部变成口令红包和大奶 https://t.co/XfXeM6JAS1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549393363002179587",
+        "conversation_id": "1916776760727011368",
+        "created_at": "2025-04-28T08:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T09:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916776760727011368"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916776760727011368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13940,
+          "like_count": 209,
+          "quote_count": 10,
+          "reply_count": 43,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "希望我私信里的诈骗链接全部变成口令红包和大奶。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo/🚪66",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 192,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 383
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-19T13:59:13.000Z",
+        "description": "过🚪除➕vx外无任何福利｜不线下不聊骚不参与任何网络纠纷｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yezijio925",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yezijio925",
+                "start": 0,
+                "url": "https://t.co/YigBelctzI"
+              }
+            ]
+          }
+        },
+        "id": "1549393363002179587",
+        "location": "🚪66/88/188",
+        "name": "Aaa椰子鸡供应批发",
+        "pinned_tweet_id": "1915751975104528881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909645149396930560/2x-fJROT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1589,
+          "following_count": 529,
+          "like_count": 17616,
+          "listed_count": 1,
+          "media_count": 583,
+          "tweet_count": 5110
+        },
+        "url": "https://t.co/YigBelctzI",
+        "username": "yezijiO925",
+        "verified": false
+      }
+    ]
+  }
+}

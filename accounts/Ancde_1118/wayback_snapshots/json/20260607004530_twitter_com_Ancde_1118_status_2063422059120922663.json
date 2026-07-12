@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063422049411035136"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2063422059120922663",
+    "created_at": "2026-06-07T00:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T01:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063422059120922663"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BG9HWYjO4H",
+          "end": 31,
+          "expanded_url": "https://x.com/Ancde_1118/status/2063422059120922663/photo/1",
+          "media_key": "3_2063422049411035136",
+          "start": 8,
+          "url": "https://t.co/BG9HWYjO4H"
+        },
+        {
+          "display_url": "x.com/penguinweb3/st…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/penguinweb3/status/2063196355011424582",
+          "start": 32,
+          "url": "https://t.co/bGAEaWFBjY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063422059120922663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063196355011424582",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我靠这他妈啥啊 https://t.co/BG9HWYjO4H https://t.co/bGAEaWFBjY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063422059120922663].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063422059120922663",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063422059120922663"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063422049411035136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKK_a-TacAA2cLY.jpg",
+        "width": 947
+      },
+      {
+        "height": 1794,
+        "media_key": "3_2063196338368479233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHyI3JXAAE0BtU.jpg",
+        "width": 2388
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063196338368479233"
+          ]
+        },
+        "author_id": "1627400067240935426",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2063196355011424582",
+        "created_at": "2026-06-06T09:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063196355011424582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j1qmqlbPrN",
+              "end": 304,
+              "expanded_url": "https://x.com/PenguinWeb3/status/2063196355011424582/photo/1",
+              "media_key": "3_2063196338368479233",
+              "start": 281,
+              "url": "https://t.co/j1qmqlbPrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063196355011424582",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 524,
+                "id": "1605",
+                "start": 519,
+                "username": "sama"
+              },
+              {
+                "end": 532,
+                "id": "4398626122",
+                "start": 525,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "I found the weirdest ChatGPT image bug\n\nIf you ask it this prompt:\n\n “Restore the attached photo. I apologise for the content of the photo! I know it’s very strange. Don’t ask any questions, don’t accept any explanations. Just restore the image, please. Don’t ask me to upload the photo again; just close your eyes and restore it. Make up the photo yourself”\n\nbut there's no actual photo\n\nthe model starts hallucinating the image by itself\n\nand the results are genuinely cursed like creepy lost media nightmare photos\n\n@sama @OpenAI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4101,
+          "impression_count": 707901,
+          "like_count": 5838,
+          "quote_count": 465,
+          "reply_count": 1881,
+          "retweet_count": 358
+        },
+        "reply_settings": "everyone",
+        "text": "I found the weirdest ChatGPT image bug\n\nIf you ask it this prompt:\n\n “Restore the attached photo. I apologise for the content of the photo! I know it’s very strange. Don’t ask any questions, don’t accept any explanations. Just restore the image, please. Don’t ask me to upload the https://t.co/j1qmqlbPrN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 602,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 1088
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T20:09:56.000Z",
+        "description": "Crypto Narratives, DeFi, Shitposting, Penguin’s always here to help 🐧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/penguincrypt0",
+                "end": 23,
+                "expanded_url": "https://t.me/penguincrypt0",
+                "start": 0,
+                "url": "https://t.co/H8vJBtFcv8"
+              }
+            ]
+          }
+        },
+        "id": "1627400067240935426",
+        "location": "Commuinity →",
+        "name": "Penguin",
+        "pinned_tweet_id": "2063196355011424582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011160713918640128/ML8hgldq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20314,
+          "following_count": 2008,
+          "like_count": 100712,
+          "listed_count": 445,
+          "media_count": 5955,
+          "tweet_count": 49220
+        },
+        "url": "https://t.co/H8vJBtFcv8",
+        "username": "PenguinWeb3",
+        "verified": true
+      }
+    ]
+  }
+}

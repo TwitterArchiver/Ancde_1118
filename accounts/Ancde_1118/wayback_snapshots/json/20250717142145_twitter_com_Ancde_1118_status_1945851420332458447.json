@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1945851298965852160"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "conversation_id": "1945851420332458447",
+    "created_at": "2025-07-17T14:21:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T15:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945851420332458447"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gM6oc4sWqb",
+          "end": 31,
+          "expanded_url": "https://x.com/Ancde_1118/status/1945851420332458447/video/1",
+          "media_key": "13_1945851298965852160",
+          "start": 8,
+          "url": "https://t.co/gM6oc4sWqb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945851420332458447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "生日快乐 衰仔 https://t.co/gM6oc4sWqb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13973,
+        "height": 720,
+        "media_key": "13_1945851298965852160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1945851298965852160/img/NmQd9ChNHHoGbN-H.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945851298965852160/vid/avc1/480x270/7bDaaa40CBdFO3hg.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945851298965852160/vid/avc1/640x360/gq3qb0A9Ex_vnJpm.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945851298965852160/vid/avc1/1280x720/Kn0YF683RnEIEOoj.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1945851298965852160/pl/Lez_85ws-eR-IoaU.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1945851298965852160"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "conversation_id": "1945851420332458447",
+        "created_at": "2025-07-17T14:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T15:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945851420332458447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gM6oc4sWqb",
+              "end": 31,
+              "expanded_url": "https://x.com/Ancde_1118/status/1945851420332458447/video/1",
+              "media_key": "13_1945851298965852160",
+              "start": 8,
+              "url": "https://t.co/gM6oc4sWqb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945851420332458447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生日快乐 衰仔 https://t.co/gM6oc4sWqb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1937294030800585027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 252,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 535
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

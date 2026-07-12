@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1905393704808100208",
+    "created_at": "2025-03-27T23:46:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T00:46:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905406092655690098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1863050323910090752",
+          "start": 0,
+          "username": "sanjk119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905406092655690098",
+    "in_reply_to_user_id": "1863050323910090752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905403330983330078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanjk119 要上学呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1905393704808100208",
+        "created_at": "2025-03-27T23:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T00:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905406092655690098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1863050323910090752",
+              "start": 0,
+              "username": "sanjk119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905406092655690098",
+        "in_reply_to_user_id": "1863050323910090752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905403330983330078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanjk119 要上学呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863050323910090752",
+        "conversation_id": "1905393704808100208",
+        "created_at": "2025-03-27T23:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T00:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905403330983330078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778719380639014913",
+              "start": 0,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905403330983330078",
+        "in_reply_to_user_id": "1778719380639014913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905393704808100208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ancde_1118 起得好早"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒中 od/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 128,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 225
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T02:39:59.000Z",
+        "description": "上一个账号莫名其妙被冻结，以前找的同好全没了。",
+        "id": "1863050323910090752",
+        "name": "鹿bbbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903741445984649216/hpkNQnT3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 22,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 24
+        },
+        "username": "sanjk119",
+        "verified": false
+      }
+    ]
+  }
+}

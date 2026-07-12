@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2000567562539876684",
+    "created_at": "2025-12-15T15:48:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T16:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000593869155778883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1420656128799567873",
+          "start": 0,
+          "username": "aUe5xOno2Ib0NIr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000593869155778883",
+    "in_reply_to_user_id": "1420656128799567873",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000590877480091721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aUe5xOno2Ib0NIr ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2000567562539876684",
+        "created_at": "2025-12-15T15:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000593869155778883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1420656128799567873",
+              "start": 0,
+              "username": "aUe5xOno2Ib0NIr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000593869155778883",
+        "in_reply_to_user_id": "1420656128799567873",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000590877480091721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aUe5xOno2Ib0NIr ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420656128799567873",
+        "conversation_id": "2000567562539876684",
+        "created_at": "2025-12-15T15:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000590877480091721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778719380639014913",
+              "start": 0,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000590877480091721",
+        "in_reply_to_user_id": "1778719380639014913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000567562539876684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ancde_1118 考虑被包养吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我是双性恋/tg@Sakura_sakura01118/我想交朋友 可以找我互fo/可以找我买电子烟",
+        "id": "1778719380639014913",
+        "name": "Sakura（烟代版）",
+        "pinned_tweet_id": "2000567562539876684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 439,
+          "like_count": 99,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 781
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-29T08:03:26.000Z",
+        "description": "。",
+        "id": "1420656128799567873",
+        "name": "トゥーミー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878846788700119045/jFtWqCrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 31,
+          "like_count": 16052,
+          "listed_count": 3,
+          "media_count": 29,
+          "tweet_count": 1526
+        },
+        "username": "aUe5xOno2Ib0NIr",
+        "verified": false
+      }
+    ]
+  }
+}

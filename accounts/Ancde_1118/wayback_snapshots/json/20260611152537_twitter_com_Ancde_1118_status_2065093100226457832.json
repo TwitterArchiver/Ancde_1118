@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2065093100226457832",
+    "created_at": "2026-06-11T15:25:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T16:25:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065093100226457832"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ancde_1118/sta…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/ancde_1118/status/2065092767534248312",
+          "start": 31,
+          "url": "https://t.co/cTCiTZx7Xo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065093100226457832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065092767534248312",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就是很生气啊 每天下班通电话早就已经约定好了 操你妈个逼的 https://t.co/cTCiTZx7Xo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2065093100226457832",
+        "created_at": "2026-06-11T15:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065093100226457832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ancde_1118/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/ancde_1118/status/2065092767534248312",
+              "start": 31,
+              "url": "https://t.co/cTCiTZx7Xo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065093100226457832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065092767534248312",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就是很生气啊 每天下班通电话早就已经约定好了 操你妈个逼的 https://t.co/cTCiTZx7Xo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2065092767534248312",
+        "created_at": "2026-06-11T15:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065092767534248312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065092767534248312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想骂人我操你妈 老子特地等到你下班和我通电话结果转身告诉我要去和朋友打游戏了 小哥哥你继续"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 610,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1189
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

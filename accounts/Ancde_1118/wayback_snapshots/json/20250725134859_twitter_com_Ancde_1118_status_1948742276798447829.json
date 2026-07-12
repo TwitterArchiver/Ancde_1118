@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1948742276798447829",
+    "created_at": "2025-07-25T13:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T14:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948742276798447829"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1948742276798447829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你没和我说过，幸福要用刀山火海淬炼后的刀刃活生生割开自己的胸腔，才能获得。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1948742276798447829",
+        "created_at": "2025-07-25T13:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T14:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948742276798447829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948742276798447829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你没和我说过，幸福要用刀山火海淬炼后的刀刃活生生割开自己的胸腔，才能获得。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1937294030800585027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 257,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 558
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

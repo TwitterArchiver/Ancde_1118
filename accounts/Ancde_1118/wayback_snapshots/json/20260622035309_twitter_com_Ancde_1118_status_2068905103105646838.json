@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2068550091234017720",
+    "created_at": "2026-06-22T03:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T04:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068905103105646838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1727107763447410688",
+          "start": 0,
+          "username": "a1ter_ego_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068905103105646838",
+    "in_reply_to_user_id": "1727107763447410688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068897529463534012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a1ter_ego_01 暴露了呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2068550091234017720",
+        "created_at": "2026-06-22T03:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T04:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068905103105646838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1727107763447410688",
+              "start": 0,
+              "username": "a1ter_ego_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068905103105646838",
+        "in_reply_to_user_id": "1727107763447410688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068897529463534012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a1ter_ego_01 暴露了呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727107763447410688",
+        "conversation_id": "2068550091234017720",
+        "created_at": "2026-06-22T03:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T04:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068897529463534012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778719380639014913",
+              "start": 0,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068897529463534012",
+        "in_reply_to_user_id": "1778719380639014913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068741105110426048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ancde_1118 还没暴露吗hhhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 638,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 1386
+        },
+        "url": "",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T23:33:17.000Z",
+        "description": "以下是你可能关心的刻板印象：｜网络巨人｜精神状态不稳定｜社交能力低下｜概率学博士｜直男｜高功能抑郁症｜",
+        "id": "1727107763447410688",
+        "location": "日本",
+        "name": "“",
+        "pinned_tweet_id": "2059556188749246963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065830283702878208/UsYzR4T8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 24,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 524
+        },
+        "url": "",
+        "username": "a1ter_ego_01",
+        "verified": false
+      }
+    ]
+  }
+}

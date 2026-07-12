@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2059672691880431756",
+    "created_at": "2026-06-16T18:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T19:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066952324636180903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2056655773502160896",
+          "start": 0,
+          "username": "simaojie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066952324636180903",
+    "in_reply_to_user_id": "2056655773502160896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059672691880431756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@simaojie 我来互转互fo了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2059672653385039872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVtXZqaAAAZwoy.jpg",
+        "width": 1280
+      },
+      {
+        "height": 960,
+        "media_key": "3_2059672653380890624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVtXZpasAAMpeJ.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2059672691880431756",
+        "created_at": "2026-06-16T18:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066952324636180903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2056655773502160896",
+              "start": 0,
+              "username": "simaojie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066952324636180903",
+        "in_reply_to_user_id": "2056655773502160896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059672691880431756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@simaojie 我来互转互fo了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059672653385039872",
+            "3_2059672653380890624"
+          ]
+        },
+        "author_id": "2056655773502160896",
+        "conversation_id": "2059672691880431756",
+        "created_at": "2026-05-27T16:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059672691880431756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f79yalgDSt",
+              "end": 109,
+              "expanded_url": "https://x.com/simaojie/status/2059672691880431756/photo/1",
+              "media_key": "3_2059672653385039872",
+              "start": 86,
+              "url": "https://t.co/f79yalgDSt"
+            },
+            {
+              "display_url": "pic.x.com/f79yalgDSt",
+              "end": 109,
+              "expanded_url": "https://x.com/simaojie/status/2059672691880431756/photo/1",
+              "media_key": "3_2059672653380890624",
+              "start": 86,
+              "url": "https://t.co/f79yalgDSt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059672691880431756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4330,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "那个那个我重生了\n我叫kaki 05年 你们可以叫我小卉\n我磕我o我吸 穿搭风格地雷/量产系 我跟温良！想认识结交更多朋友\n已经连续封了四个推特号了\n严肃寻找前世互关！！ https://t.co/f79yalgDSt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 624,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 1282
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T08:39:50.000Z",
+        "description": "05 地雷/量产 你们可以叫我kaki/小卉\n欢迎互fo互转！！\n纯交同类朋友来的不收门槛\n男的别关注别骚扰别评论不收门槛\n男的别关注私信不然我会先问候你全家再拉黑",
+        "id": "2056655773502160896",
+        "location": "不收门槛不接线下男的别关注别骚扰别评论",
+        "name": "Kaki",
+        "pinned_tweet_id": "2059672691880431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056656578166898688/pLNOT_SJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 89,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 76
+        },
+        "username": "simaojie",
+        "verified": false
+      }
+    ]
+  }
+}

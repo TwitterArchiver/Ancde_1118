@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1904882277362074064",
+    "created_at": "2025-03-27T02:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T03:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905082446049431963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1823248694805962752",
+          "start": 0,
+          "username": "Sexytodashu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905082446049431963",
+    "in_reply_to_user_id": "1823248694805962752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904882277362074064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sexytodashu 我也想涨粉😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 96,
+        "media_key": "3_1904829399377338368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm9QPxubYAAazHi.png",
+        "width": 433
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1904882277362074064",
+        "created_at": "2025-03-27T02:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T03:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905082446049431963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1823248694805962752",
+              "start": 0,
+              "username": "Sexytodashu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905082446049431963",
+        "in_reply_to_user_id": "1823248694805962752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904882277362074064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sexytodashu 我也想涨粉😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904829399377338368"
+          ]
+        },
+        "author_id": "1823248694805962752",
+        "conversation_id": "1904882277362074064",
+        "created_at": "2025-03-26T13:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T14:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904882277362074064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i6xkdBUrks",
+              "end": 56,
+              "expanded_url": "https://x.com/Sexytodashu/status/1904882277362074064/photo/1",
+              "media_key": "3_1904829399377338368",
+              "start": 33,
+              "url": "https://t.co/i6xkdBUrks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904882277362074064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 199460,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 154,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只要正儿八经的的回复叔帖子，或者参赛啥的，基本上都可以嘎嘎涨！🤣 https://t.co/i6xkdBUrks"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒中 od/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 123,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 200
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T06:42:31.000Z",
+        "description": "『 解答各类黄推问题 · 记录网友发骚日常原· 原创黄推知心奶妈 』Web3.被套小白菜一枚『#BTC｜#ETH｜#SOL｜#每日大赛｜#日理万姬 』希望大家能在X上开心快乐冲浪，晚上一定要大头控制住小头！不要上当受骗！女生联系阿房宫进行原创验证@SexytoGbds啵啵🫶",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 47,
+                "tag": "BTC"
+              },
+              {
+                "end": 56,
+                "start": 52,
+                "tag": "ETH"
+              },
+              {
+                "end": 61,
+                "start": 57,
+                "tag": "SOL"
+              },
+              {
+                "end": 67,
+                "start": 62,
+                "tag": "每日大赛"
+              },
+              {
+                "end": 73,
+                "start": 68,
+                "tag": "日理万姬"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 123,
+                "username": "SexytoGbds"
+              }
+            ]
+          }
+        },
+        "id": "1823248694805962752",
+        "name": "Big叔",
+        "pinned_tweet_id": "1900896176838148365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891054819605147648/dth3Do_l_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989232,
+          "following_count": 674,
+          "like_count": 0,
+          "listed_count": 736,
+          "media_count": 367,
+          "tweet_count": 1425
+        },
+        "username": "Sexytodashu",
+        "verified": true
+      }
+    ]
+  }
+}

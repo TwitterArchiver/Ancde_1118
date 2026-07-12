@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2068201135278813575",
+    "created_at": "2026-06-22T04:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T05:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068914066240979408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2063545023812243456",
+          "start": 0,
+          "username": "AgonyTwT"
+        },
+        {
+          "end": 26,
+          "id": "1505767450385690625",
+          "start": 10,
+          "username": "Alistai33955292"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068914066240979408",
+    "in_reply_to_user_id": "2063545023812243456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068201135278813575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AgonyTwT @Alistai33955292 我来互fo互转了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068201125908762624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLO591na0AAnLUK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1179,
+        "media_key": "3_2068201125921353728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLO591qa8AA7Gfa.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2068201135278813575",
+        "created_at": "2026-06-22T04:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068914066240979408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063545023812243456",
+              "start": 0,
+              "username": "AgonyTwT"
+            },
+            {
+              "end": 26,
+              "id": "1505767450385690625",
+              "start": 10,
+              "username": "Alistai33955292"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068914066240979408",
+        "in_reply_to_user_id": "2063545023812243456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068201135278813575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AgonyTwT @Alistai33955292 我来互fo互转了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068201125908762624",
+            "3_2068201125921353728"
+          ]
+        },
+        "author_id": "2063545023812243456",
+        "conversation_id": "2068201135278813575",
+        "created_at": "2026-06-20T05:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068201135278813575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Vnq4EIdXq",
+              "end": 111,
+              "expanded_url": "https://x.com/AgonyTwT/status/2068201135278813575/photo/1",
+              "media_key": "3_2068201125908762624",
+              "start": 88,
+              "url": "https://t.co/8Vnq4EIdXq"
+            },
+            {
+              "display_url": "pic.x.com/8Vnq4EIdXq",
+              "end": 111,
+              "expanded_url": "https://x.com/AgonyTwT/status/2068201135278813575/photo/1",
+              "media_key": "3_2068201125921353728",
+              "start": 88,
+              "url": "https://t.co/8Vnq4EIdXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068201135278813575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 226,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "=小伤 重生转世 不要再炸我号了\n脾气很好 不要欺负我 我是极度玻璃心T…T\n极度缺钱 请多多投喂我宠爱我吧( ᵒ̴̶̷̥́ ^ ᵒ̴̶̷̣̥̀ )\n欢迎女孩子找我互fo互转 https://t.co/8Vnq4EIdXq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 639,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1392
+        },
+        "url": "",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-07T08:56:59.000Z",
+        "description": "这世界对我太坏了 我实在说不出话了 我太想哭了",
+        "id": "2063545023812243456",
+        "name": "存在感为零",
+        "pinned_tweet_id": "2068201135278813575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063546607300497408/XisHv96Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 2,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "AgonyTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T04:45:18.000Z",
+        "description": "餐券丨od丨全性别友好丨只fo同类健人fo我拉黑丨希望爱我的我爱的人永远幸福/终生@youciAishiuu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "youciAishiuu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nnbn17594",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nnbn17594",
+                "start": 0,
+                "url": "https://t.co/81DYKJ3Y8p"
+              }
+            ]
+          }
+        },
+        "id": "1505767450385690625",
+        "location": "天国",
+        "name": "🌰",
+        "pinned_tweet_id": "2066108367043772842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045141613958340608/DmfkJuqE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 650,
+          "like_count": 2487,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3238
+        },
+        "url": "https://t.co/81DYKJ3Y8p",
+        "username": "Alistai33955292",
+        "verified": false
+      }
+    ]
+  }
+}

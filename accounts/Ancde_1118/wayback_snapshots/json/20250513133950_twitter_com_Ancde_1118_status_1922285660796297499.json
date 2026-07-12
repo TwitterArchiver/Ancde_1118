@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1922285660796297499",
+    "created_at": "2025-05-13T13:39:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T14:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922285660796297499"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ancde_1118/sta…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/ancde_1118/status/1921540968773231069",
+          "start": 45,
+          "url": "https://t.co/zKqDHJT6dd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922285660796297499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921540968773231069",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只有我们互道晚安的时候 我闭眼就能睡着 还给我 我给予你刺痛我的权利 我的真心 我的睡眠 https://t.co/zKqDHJT6dd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1922285660796297499",
+        "created_at": "2025-05-13T13:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T14:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922285660796297499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ancde_1118/sta…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/ancde_1118/status/1921540968773231069",
+              "start": 45,
+              "url": "https://t.co/zKqDHJT6dd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922285660796297499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921540968773231069",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只有我们互道晚安的时候 我闭眼就能睡着 还给我 我给予你刺痛我的权利 我的真心 我的睡眠 https://t.co/zKqDHJT6dd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1921540968773231069",
+        "created_at": "2025-05-11T12:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T13:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921540968773231069"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1921540968773231069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我用了很多方法试图找回我的睡眠 比如音乐 酒精 药物 但凌晨四点还是无法入睡 我发现这些东西都没有用 于是日复一日逐渐麻木 可仔细想想 或许爱有用 电话另一头的呼吸声有用 感到被爱的时候一闭眼就能入睡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo/🚪66",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 204,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 411
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

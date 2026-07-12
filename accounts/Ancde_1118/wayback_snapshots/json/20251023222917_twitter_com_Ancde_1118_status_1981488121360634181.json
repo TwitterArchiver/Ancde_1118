@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1981488121360634181",
+    "created_at": "2025-10-23T22:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T23:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981488121360634181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1795072631169044480",
+          "start": 3,
+          "username": "TokiyukiSAMAAAA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981488121360634181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 135
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980826112935780703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TokiyukiSAMAAAA: 你不仅长得丑 自伤也只是割的浅浅一层 卖惨就像小孩子哭着让妈妈给你买玩具一样 你给我的观感就是乡村妹想赶潮流去当地雷女 结果成了野猪穿蕾服的猎奇样 毫无美感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1981488121360634181",
+        "created_at": "2025-10-23T22:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T23:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981488121360634181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1795072631169044480",
+              "start": 3,
+              "username": "TokiyukiSAMAAAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981488121360634181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 135
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980826112935780703",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TokiyukiSAMAAAA: 你不仅长得丑 自伤也只是割的浅浅一层 卖惨就像小孩子哭着让妈妈给你买玩具一样 你给我的观感就是乡村妹想赶潮流去当地雷女 结果成了野猪穿蕾服的猎奇样 毫无美感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "1980826112935780703",
+        "created_at": "2025-10-22T02:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T03:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980826112935780703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980826112935780703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 72053,
+          "like_count": 1281,
+          "quote_count": 43,
+          "reply_count": 68,
+          "retweet_count": 135
+        },
+        "reply_settings": "everyone",
+        "text": "你不仅长得丑 自伤也只是割的浅浅一层 卖惨就像小孩子哭着让妈妈给你买玩具一样 你给我的观感就是乡村妹想赶潮流去当地雷女 结果成了野猪穿蕾服的猎奇样 毫无美感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1937294030800585027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 317,
+          "like_count": 57,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 678
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "我該怎麼辦啊…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "未來電波基地",
+        "name": "時行の部屋",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980274436654718976/jHZILULN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6816,
+          "following_count": 242,
+          "like_count": 30696,
+          "listed_count": 17,
+          "media_count": 174,
+          "tweet_count": 867
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "TokiyukiSAMAAAA",
+        "verified": false
+      }
+    ]
+  }
+}

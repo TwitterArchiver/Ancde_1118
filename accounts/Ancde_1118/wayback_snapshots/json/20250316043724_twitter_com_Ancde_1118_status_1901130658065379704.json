@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1901130658065379704",
+    "created_at": "2025-03-16T04:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T05:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901130658065379704"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1901130658065379704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "治疗抑郁症最好的方法 不是花钱听狗皮心理医生跟你说你要积极生活 你想想你的父母 而是钱 像我这种又丑又穷 这辈子都治不好抑郁症 在我过量服用的那一刻 我只能逃避那短暂的几个小时等药效过了以后 我又得面对那苦逼的生活 我真的好想逃避一辈子 但是不能 我却只能一个人在墙角默默的哭了 都没人来问"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1901130658065379704",
+        "created_at": "2025-03-16T04:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T05:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901130658065379704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901130658065379704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "治疗抑郁症最好的方法 不是花钱听狗皮心理医生跟你说你要积极生活 你想想你的父母 而是钱 像我这种又丑又穷 这辈子都治不好抑郁症 在我过量服用的那一刻 我只能逃避那短暂的几个小时等药效过了以后 我又得面对那苦逼的生活 我真的好想逃避一辈子 但是不能 我却只能一个人在墙角默默的哭了 都没人来问"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相情感障碍/🚪66/双性恋🏳️‍⚧️/1i4i/是switch//tg频道⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+tGPZagccCeE0M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+tGPZagccCeE0M2I1",
+                "start": 0,
+                "url": "https://t.co/YOU43GttEH"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 69,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 11
+        },
+        "url": "https://t.co/YOU43GttEH",
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

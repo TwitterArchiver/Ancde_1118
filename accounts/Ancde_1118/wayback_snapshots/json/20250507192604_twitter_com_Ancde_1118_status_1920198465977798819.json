@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1920198465977798819",
+    "created_at": "2025-05-07T19:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T20:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920198465977798819"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bing111330/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/bing111330/status/1920164947973320835",
+          "start": 6,
+          "url": "https://t.co/AQIARxHnIq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920198465977798819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920164947973320835",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样😭 https://t.co/AQIARxHnIq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 974,
+        "media_key": "3_1920164938276089857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqXL1oAbMAE0HNH.jpg",
+        "width": 974
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1920198465977798819",
+        "created_at": "2025-05-07T19:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T20:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920198465977798819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bing111330/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/bing111330/status/1920164947973320835",
+              "start": 6,
+              "url": "https://t.co/AQIARxHnIq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920198465977798819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920164947973320835",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样😭 https://t.co/AQIARxHnIq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920164938276089857"
+          ]
+        },
+        "author_id": "1880108847953747968",
+        "conversation_id": "1920164947973320835",
+        "created_at": "2025-05-07T17:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T18:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920164947973320835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/420PXtiJgo",
+              "end": 23,
+              "expanded_url": "https://x.com/bing111330/status/1920164947973320835/photo/1",
+              "media_key": "3_1920164938276089857",
+              "start": 0,
+              "url": "https://t.co/420PXtiJgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920164947973320835",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2824,
+          "like_count": 99,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/420PXtiJgo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo/🚪66",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 193,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 395
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T04:24:41.000Z",
+        "description": "碎碎念📝 @lan_zhai003",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "lan_zhai003"
+              }
+            ]
+          }
+        },
+        "id": "1880108847953747968",
+        "name": "症懒宅",
+        "pinned_tweet_id": "1910327675182293322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919287169774190592/91BAzeVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3911,
+          "following_count": 364,
+          "like_count": 15549,
+          "listed_count": 14,
+          "media_count": 344,
+          "tweet_count": 11301
+        },
+        "username": "bing111330",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2059609234380300479",
+    "created_at": "2026-05-27T12:14:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T13:14:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059609234380300479"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059609234380300479",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有东西在撕咬我，我感受着身体被撕裂，内脏被掏出一遍又一遍蹂躏，腐烂的情绪混合着尸水一同咽下，恶臭的肠子紧紧缠着我的脖子，无法发声，窒息感萦绕着。无法逃离的恐慌，犹如被蟒蛇缠绕的猎物，感受着浑身骨骼肌肉的撕裂，清醒地被一点点吞噬，最后只剩黑暗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2059609234380300479",
+        "created_at": "2026-05-27T12:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059609234380300479"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059609234380300479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有东西在撕咬我，我感受着身体被撕裂，内脏被掏出一遍又一遍蹂躏，腐烂的情绪混合着尸水一同咽下，恶臭的肠子紧紧缠着我的脖子，无法发声，窒息感萦绕着。无法逃离的恐慌，犹如被蟒蛇缠绕的猎物，感受着浑身骨骼肌肉的撕裂，清醒地被一点点吞噬，最后只剩黑暗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我是双性恋/tg@Sakura_sakura01118/我想交朋友 可以找我互fo/可以找我买电子烟",
+        "id": "1778719380639014913",
+        "name": "Sakura（烟代版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 474,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 894
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1898425801521135617"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "conversation_id": "1898425858874048650",
+    "created_at": "2025-03-08T17:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T18:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898425858874048650"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 8,
+          "tag": "女喘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iuj1Uutp15",
+          "end": 35,
+          "expanded_url": "https://x.com/Ancde_1118/status/1898425858874048650/video/1",
+          "media_key": "13_1898425801521135617",
+          "start": 12,
+          "url": "https://t.co/iuj1Uutp15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898425858874048650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "更一个自慰实录🥺#女喘 https://t.co/iuj1Uutp15"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40043,
+        "height": 720,
+        "media_key": "13_1898425801521135617",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1898425801521135617/img/veO3zeceEs3ZjfE5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898425801521135617/vid/avc1/480x270/TScFdWyCw5rOTihC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898425801521135617/vid/avc1/640x360/MMjcPqw8QA3_Pv5Z.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898425801521135617/vid/avc1/1280x720/TtJoz-z1jEV6NUzt.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1898425801521135617/pl/qlCvwCSMV-83E1aq.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1898425801521135617"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "conversation_id": "1898425858874048650",
+        "created_at": "2025-03-08T17:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T18:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898425858874048650"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "女喘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iuj1Uutp15",
+              "end": 35,
+              "expanded_url": "https://x.com/Ancde_1118/status/1898425858874048650/video/1",
+              "media_key": "13_1898425801521135617",
+              "start": 12,
+              "url": "https://t.co/iuj1Uutp15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898425858874048650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "更一个自慰实录🥺#女喘 https://t.co/iuj1Uutp15"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相情感障碍/🚪66/双性恋🏳️‍⚧️/1i4i/是switch//tg频道⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+tGPZagccCeE0M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+tGPZagccCeE0M2I1",
+                "start": 0,
+                "url": "https://t.co/YOU43GttEH"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898385272443981873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 66,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "url": "https://t.co/YOU43GttEH",
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

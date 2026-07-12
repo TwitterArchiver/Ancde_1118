@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1934876165363089498",
+    "created_at": "2025-06-17T07:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T08:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934879097316098471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1574668085314965504",
+          "start": 0,
+          "username": "Meer19002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934879097316098471",
+    "in_reply_to_user_id": "1574668085314965504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934876165363089498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meer19002 晚安 鸟姐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1934876165363089498",
+        "created_at": "2025-06-17T07:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T08:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934879097316098471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1574668085314965504",
+              "start": 0,
+              "username": "Meer19002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934879097316098471",
+        "in_reply_to_user_id": "1574668085314965504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934876165363089498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meer19002 晚安 鸟姐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574668085314965504",
+        "conversation_id": "1934876165363089498",
+        "created_at": "2025-06-17T07:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T08:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934876165363089498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934876165363089498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用明日相的名言来结尾吧，真是恶心，无论是这个世界还是我。40g亚硝酸钠。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒戒od中/ed/双性恋/1i/4i/les里是h位/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 236,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 465
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-27T07:51:55.000Z",
+        "description": "好想死☠️",
+        "id": "1574668085314965504",
+        "name": "Hazel Valentine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838764299734650880/DF7plmmj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 810,
+          "like_count": 12132,
+          "listed_count": 4,
+          "media_count": 1402,
+          "tweet_count": 11438
+        },
+        "username": "Meer19002",
+        "verified": false
+      }
+    ]
+  }
+}

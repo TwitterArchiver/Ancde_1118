@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1906846058824790491",
+    "created_at": "2025-03-31T23:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T00:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906846058824790491"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/realeco_77/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/realeco_77/status/1906323693673816111",
+          "start": 9,
+          "url": "https://t.co/fxpe724Mwz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906846058824790491",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906323693673816111",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "普瑞巴林重度依赖 https://t.co/fxpe724Mwz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1906846058824790491",
+        "created_at": "2025-03-31T23:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T00:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906846058824790491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realeco_77/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/realeco_77/status/1906323693673816111",
+              "start": 9,
+              "url": "https://t.co/fxpe724Mwz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906846058824790491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906323693673816111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "普瑞巴林重度依赖 https://t.co/fxpe724Mwz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599125227786608655",
+        "conversation_id": "1906323693673816111",
+        "created_at": "2025-03-30T12:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T13:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906323693673816111"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906323693673816111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4298,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得普瑞是最好的药 他没有右美沙芬那种难闻的感觉 也没有盐酸金刚后劲那么大 他就是刚刚好 前提也只是空腹 就好像是一个很完美的女孩 她的缺点只是想让你爱她一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒中 od/双性恋/1i/4i/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 138,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 258
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T19:35:49.000Z",
+        "description": "不爱看就滚出去",
+        "id": "1599125227786608655",
+        "location": "🚪88/288",
+        "name": "苦桃",
+        "pinned_tweet_id": "1903775681064108163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904098488276885504/-Zz1utRc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3120,
+          "following_count": 267,
+          "like_count": 14906,
+          "listed_count": 5,
+          "media_count": 783,
+          "tweet_count": 9403
+        },
+        "username": "realeco_77",
+        "verified": false
+      }
+    ]
+  }
+}

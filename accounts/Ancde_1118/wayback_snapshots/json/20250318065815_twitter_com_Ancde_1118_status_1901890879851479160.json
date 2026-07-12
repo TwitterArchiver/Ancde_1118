@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "1901890879851479160",
+    "created_at": "2025-03-18T06:58:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T07:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901890879851479160"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/torisresso/sta…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/torisresso/status/1901663194315149480",
+          "start": 91,
+          "url": "https://t.co/ScWeKGOV5n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901890879851479160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901663194315149480",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么你们都是学霸啊\n怎么你们都是985啊\n怎么你们都是211啊\n怎么你们都是公办一本啊\n怎么你们都出国留学啊\n怎么你们都考研上岸啊\n\n我真的会羡慕会自卑。\n真的不是一个世界的人…… https://t.co/ScWeKGOV5n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1901890879851479160",
+        "created_at": "2025-03-18T06:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T07:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901890879851479160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/torisresso/sta…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/torisresso/status/1901663194315149480",
+              "start": 91,
+              "url": "https://t.co/ScWeKGOV5n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901890879851479160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901663194315149480",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么你们都是学霸啊\n怎么你们都是985啊\n怎么你们都是211啊\n怎么你们都是公办一本啊\n怎么你们都出国留学啊\n怎么你们都考研上岸啊\n\n我真的会羡慕会自卑。\n真的不是一个世界的人…… https://t.co/ScWeKGOV5n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518398600958595072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1901663194315149480",
+        "created_at": "2025-03-17T15:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T16:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901663194315149480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901663194315149480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1365,
+          "like_count": 4,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么你们都是学霸啊\n怎么你们都是985啊\n怎么你们都是211啊\n怎么你们都是公办一本啊\n怎么你们都出国留学啊\n怎么你们都考研上岸啊\n\n我真的会羡慕会自卑。\n真的不是一个世界的人……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 酗酒 抽烟 嗑药/想交朋友/我的tg频道⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+tGPZagccCeE0M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+tGPZagccCeE0M2I1",
+                "start": 0,
+                "url": "https://t.co/YOU43GttEH"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 102,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 97
+        },
+        "url": "https://t.co/YOU43GttEH",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T01:17:03.000Z",
+        "description": "名叫托里斯/\nAlly/夜的守梦人🌌🌠/\n日常垃圾桶🗑️/对象&主人：@kerry_w07\nINFP-T/偏泛性恋（除顺男）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "kerry_w07"
+              }
+            ]
+          }
+        },
+        "id": "1518398600958595072",
+        "location": "石家庄",
+        "name": "🦔小哑巴Toris🌌",
+        "pinned_tweet_id": "1897930346458763451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784242429102796801/ZoLLh51c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 975,
+          "like_count": 3542,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 2141
+        },
+        "username": "TorisResso",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2073199088250560512"
+      ],
+      "media_source_tweet_id": [
+        "2073199124720083332"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073934667196358661",
+    "created_at": "2026-07-06T00:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T01:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073934667196358661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1858636276636815360",
+          "start": 3,
+          "username": "s2ceci"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rjZI7TWqi7",
+          "end": 108,
+          "expanded_url": "https://x.com/s2ceci/status/2073199124720083332/video/1",
+          "media_key": "7_2073199088250560512",
+          "start": 85,
+          "url": "https://t.co/rjZI7TWqi7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073934667196358661",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2294
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073199124720083332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @s2ceci: antes de tomar LSD a primeira vez eu pensava q ia tomar e ver algo assim https://t.co/rjZI7TWqi7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19992,
+        "height": 576,
+        "media_key": "7_2073199088250560512",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2073199088250560512/pu/img/rWx5x-mYkuV4Sl9y.jpg",
+        "public_metrics": {
+          "view_count": 851144
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073199088250560512/pu/vid/avc1/480x270/nqtkPMPJWfLhpfaR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073199088250560512/pu/vid/avc1/640x360/qLMXWkvOmQZMbzJv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073199088250560512/pu/vid/avc1/1024x576/6l3asIkOUssf2KJE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2073199088250560512/pu/pl/lbrBx1COhra-CZjU.m3u8?tag=12"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2073199088250560512"
+          ],
+          "media_source_tweet_id": [
+            "2073199124720083332"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073934667196358661",
+        "created_at": "2026-07-06T00:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T01:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073934667196358661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1858636276636815360",
+              "start": 3,
+              "username": "s2ceci"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rjZI7TWqi7",
+              "end": 108,
+              "expanded_url": "https://x.com/s2ceci/status/2073199124720083332/video/1",
+              "media_key": "7_2073199088250560512",
+              "start": 85,
+              "url": "https://t.co/rjZI7TWqi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073934667196358661",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2294
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073199124720083332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @s2ceci: antes de tomar LSD a primeira vez eu pensava q ia tomar e ver algo assim https://t.co/rjZI7TWqi7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2073199088250560512"
+          ]
+        },
+        "author_id": "1858636276636815360",
+        "conversation_id": "2073199124720083332",
+        "created_at": "2026-07-04T00:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T01:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073199124720083332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rjZI7TWqi7",
+              "end": 96,
+              "expanded_url": "https://x.com/s2ceci/status/2073199124720083332/video/1",
+              "media_key": "7_2073199088250560512",
+              "start": 73,
+              "url": "https://t.co/rjZI7TWqi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073199124720083332",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4990,
+          "impression_count": 1908540,
+          "like_count": 48695,
+          "quote_count": 713,
+          "reply_count": 421,
+          "retweet_count": 2294
+        },
+        "reply_settings": "everyone",
+        "text": "antes de tomar LSD a primeira vez eu pensava q ia tomar e ver algo assim https://t.co/rjZI7TWqi7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 676,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 1602
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T22:20:05.000Z",
+        "description": "every tongue that rises up against me shall fall!!!!!!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/s2cecii",
+                "end": 23,
+                "expanded_url": "http://instagram.com/s2cecii",
+                "start": 0,
+                "url": "https://t.co/4wFwAPqelI"
+              }
+            ]
+          }
+        },
+        "id": "1858636276636815360",
+        "location": "natal",
+        "name": "ceci",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072462897964298241/g88AeTm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2296,
+          "following_count": 415,
+          "like_count": 27493,
+          "listed_count": 2,
+          "media_count": 626,
+          "tweet_count": 7841
+        },
+        "url": "https://t.co/4wFwAPqelI",
+        "username": "s2ceci",
+        "verified": false
+      }
+    ]
+  }
+}

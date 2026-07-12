@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1906259159517147343",
+    "created_at": "2025-03-30T08:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T09:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906259159517147343"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pingguozhi111/…",
+          "end": 178,
+          "expanded_url": "https://twitter.com/pingguozhi111/status/1905833714015440991",
+          "start": 155,
+          "url": "https://t.co/nFHHDZDzVq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906259159517147343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905833714015440991",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们atm奴哪里找的。你们atm奴哪里找的。你们atm奴哪里找的。你们atm奴哪里找的。你们atm奴哪里找的。你们atm奴哪里找的。你们atm奴哪里找的。你们atm奴哪里找的。你们atm奴哪里找的。你们atm奴哪里找的。你们atm奴哪里找的。你们atm奴哪里找的。你们atm奴哪里找的。你们atm奴哪里找的。 https://t.co/nFHHDZDzVq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1906259159517147343",
+        "created_at": "2025-03-30T08:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T09:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906259159517147343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pingguozhi111/…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/pingguozhi111/status/1905833714015440991",
+              "start": 155,
+              "url": "https://t.co/nFHHDZDzVq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906259159517147343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905833714015440991",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们atm奴哪里找的。你们atm奴哪里找的。你们atm奴哪里找的。你们atm奴哪里找的。你们atm奴哪里找的。你们atm奴哪里找的。你们atm奴哪里找的。你们atm奴哪里找的。你们atm奴哪里找的。你们atm奴哪里找的。你们atm奴哪里找的。你们atm奴哪里找的。你们atm奴哪里找的。你们atm奴哪里找的。 https://t.co/nFHHDZDzVq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843618227160518656",
+        "conversation_id": "1905833714015440991",
+        "created_at": "2025-03-29T04:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T05:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905833714015440991"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905833714015440991",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 84150,
+          "like_count": 492,
+          "quote_count": 31,
+          "reply_count": 129,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "你们atm奴哪里找的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒中 od/双性恋/1i/4i/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 138,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 251
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T11:43:52.000Z",
+        "description": "",
+        "id": "1843618227160518656",
+        "location": "茧",
+        "name": "苹果汁🧃重度依赖",
+        "pinned_tweet_id": "1900131195108942078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904908229420998658/JkY7D4ow_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2071,
+          "following_count": 464,
+          "like_count": 7892,
+          "listed_count": 5,
+          "media_count": 233,
+          "tweet_count": 2557
+        },
+        "username": "pingguozhi111",
+        "verified": false
+      }
+    ]
+  }
+}

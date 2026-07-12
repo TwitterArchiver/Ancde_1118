@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059757914953588737"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "conversation_id": "2059757923023327309",
+    "created_at": "2026-05-27T22:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T23:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059757923023327309"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CSWp5kp0wW",
+          "end": 28,
+          "expanded_url": "https://x.com/Ancde_1118/status/2059757923023327309/photo/1",
+          "media_key": "3_2059757914953588737",
+          "start": 5,
+          "url": "https://t.co/CSWp5kp0wW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059757923023327309",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别晶我呀 https://t.co/CSWp5kp0wW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 351,
+        "media_key": "3_2059757914953588737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJW66RwboAEu02A.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059757914953588737"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "conversation_id": "2059757923023327309",
+        "created_at": "2026-05-27T22:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T23:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059757923023327309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CSWp5kp0wW",
+              "end": 28,
+              "expanded_url": "https://x.com/Ancde_1118/status/2059757923023327309/photo/1",
+              "media_key": "3_2059757914953588737",
+              "start": 5,
+              "url": "https://t.co/CSWp5kp0wW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059757923023327309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别晶我呀 https://t.co/CSWp5kp0wW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我是双性恋/tg@Sakura_sakura01118/我想交朋友 可以找我互fo/可以找我买电子烟",
+        "id": "1778719380639014913",
+        "name": "Sakura（烟代版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 482,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 907
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

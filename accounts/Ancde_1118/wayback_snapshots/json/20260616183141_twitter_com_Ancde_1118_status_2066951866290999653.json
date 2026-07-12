@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2065210271178559639",
+    "created_at": "2026-06-16T18:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T19:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066951866290999653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1701102642414645248",
+          "start": 0,
+          "username": "KG6I1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066951866290999653",
+    "in_reply_to_user_id": "1701102642414645248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065210271178559639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KG6I1x 蹲蹲互fo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 562,
+        "media_key": "3_2065210229206163456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKkZwvJWIAAS_eC.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065210229248135168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKkZwvTWkAAZ94B.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2065210229231423488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKkZwvPXkAApXK8.jpg",
+        "width": 1279
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065210229214662656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKkZwvLX0AAMPRO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2065210271178559639",
+        "created_at": "2026-06-16T18:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066951866290999653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1701102642414645248",
+              "start": 0,
+              "username": "KG6I1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066951866290999653",
+        "in_reply_to_user_id": "1701102642414645248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065210271178559639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KG6I1x 蹲蹲互fo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065210229206163456",
+            "3_2065210229248135168",
+            "3_2065210229231423488",
+            "3_2065210229214662656"
+          ]
+        },
+        "author_id": "1701102642414645248",
+        "conversation_id": "2065210271178559639",
+        "created_at": "2026-06-11T23:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T00:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065210271178559639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8xrE6fLm99",
+              "end": 29,
+              "expanded_url": "https://x.com/KG6I1x/status/2065210271178559639/photo/1",
+              "media_key": "3_2065210229206163456",
+              "start": 6,
+              "url": "https://t.co/8xrE6fLm99"
+            },
+            {
+              "display_url": "pic.x.com/8xrE6fLm99",
+              "end": 29,
+              "expanded_url": "https://x.com/KG6I1x/status/2065210271178559639/photo/1",
+              "media_key": "3_2065210229248135168",
+              "start": 6,
+              "url": "https://t.co/8xrE6fLm99"
+            },
+            {
+              "display_url": "pic.x.com/8xrE6fLm99",
+              "end": 29,
+              "expanded_url": "https://x.com/KG6I1x/status/2065210271178559639/photo/1",
+              "media_key": "3_2065210229231423488",
+              "start": 6,
+              "url": "https://t.co/8xrE6fLm99"
+            },
+            {
+              "display_url": "pic.x.com/8xrE6fLm99",
+              "end": 29,
+              "expanded_url": "https://x.com/KG6I1x/status/2065210271178559639/photo/1",
+              "media_key": "3_2065210229214662656",
+              "start": 6,
+              "url": "https://t.co/8xrE6fLm99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065210271178559639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1544,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "放一个置顶 https://t.co/8xrE6fLm99"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 623,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 1279
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-11T05:17:45.000Z",
+        "description": "05颓废家里蹲｜我语言能力缺失｜是因为喜欢你才会点关注喵｜防吞小号@tutu0630mi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "tutu0630mi"
+              }
+            ]
+          }
+        },
+        "id": "1701102642414645248",
+        "name": "荼蘼花（评论被吞版",
+        "pinned_tweet_id": "2065210271178559639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063201336188194817/y7bGvpyb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 106,
+          "like_count": 1998,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 387
+        },
+        "username": "KG6I1x",
+        "verified": false
+      }
+    ]
+  }
+}

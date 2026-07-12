@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2071699613166584205",
+    "created_at": "2026-06-29T20:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T21:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071699613166584205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zx65535plus1/s…",
+          "end": 160,
+          "expanded_url": "https://twitter.com/zx65535plus1/status/2071449647152005156",
+          "start": 137,
+          "url": "https://t.co/gZdMF9u7u8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071699613166584205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071449647152005156",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "酒精带来的是去抑制的社交狂欢，烟草带来的是尼古丁瞬间冲击大脑奖赏回路的“提神”与“慰藉”。如果它们不提供快乐，全球每年数千亿美元的消费是在买药自残吗？中产资本阶级饭局上的推杯换盏是集体服毒仪式吗？把合法成瘾物定义为“单纯自残”，是为了强行把它们和非法药物做“性质切割”吗？ https://t.co/gZdMF9u7u8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2071699613166584205",
+        "created_at": "2026-06-29T20:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T21:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071699613166584205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zx65535plus1/s…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/zx65535plus1/status/2071449647152005156",
+              "start": 137,
+              "url": "https://t.co/gZdMF9u7u8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071699613166584205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071449647152005156",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "酒精带来的是去抑制的社交狂欢，烟草带来的是尼古丁瞬间冲击大脑奖赏回路的“提神”与“慰藉”。如果它们不提供快乐，全球每年数千亿美元的消费是在买药自残吗？中产资本阶级饭局上的推杯换盏是集体服毒仪式吗？把合法成瘾物定义为“单纯自残”，是为了强行把它们和非法药物做“性质切割”吗？ https://t.co/gZdMF9u7u8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "2071449647152005156",
+        "created_at": "2026-06-29T04:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T05:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071449647152005156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071449647152005156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3548,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么总有人把酒精烟草和当前管制范围内的“毒品”放在一起比较呢?\n很明显的差异是前者基本不会提供快乐，可以类比成单纯自残(尤其是把家庭视为个人附属物的文化里)。\n管制目的从来不是减轻表面上对个人的危害，而是限制获得廉价即刻满足感的途径。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 653,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 1498
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "挨揍不如嘴贱 brat统治世界  |  \n只要不去就诊我就是健全B  |  \n一直试图在没有血缘关系的人身上找到家 | \n非计算机专业 | \n发现男的太傻逼但不太想否认自己历史，遂加入双性恋阵营",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2043367970999832925/7jUBUlO2qh",
+                "start": 0,
+                "url": "https://t.co/pdJCzdgssh"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "万达广场楼下",
+        "name": "小竹子一掰就断🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4613,
+          "following_count": 1453,
+          "like_count": 81166,
+          "listed_count": 11,
+          "media_count": 1169,
+          "tweet_count": 23602
+        },
+        "url": "https://t.co/pdJCzdgssh",
+        "username": "ZX65535plus1",
+        "verified": false
+      }
+    ]
+  }
+}

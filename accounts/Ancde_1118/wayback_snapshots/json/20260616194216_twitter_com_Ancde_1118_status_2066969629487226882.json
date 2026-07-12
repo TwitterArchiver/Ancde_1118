@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066969621530607616",
+        "3_2066969621606055936",
+        "3_2066969621522178048",
+        "3_2066969621765447680"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "conversation_id": "2066920823030763655",
+    "created_at": "2026-06-16T19:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T20:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066969629487226882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1829928082058461184",
+          "start": 0,
+          "username": "rcobrm37"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BMmuf6KVfF",
+          "end": 33,
+          "expanded_url": "https://x.com/Ancde_1118/status/2066969629487226882/photo/1",
+          "media_key": "3_2066969621530607616",
+          "start": 10,
+          "url": "https://t.co/BMmuf6KVfF"
+        },
+        {
+          "display_url": "pic.x.com/BMmuf6KVfF",
+          "end": 33,
+          "expanded_url": "https://x.com/Ancde_1118/status/2066969629487226882/photo/1",
+          "media_key": "3_2066969621606055936",
+          "start": 10,
+          "url": "https://t.co/BMmuf6KVfF"
+        },
+        {
+          "display_url": "pic.x.com/BMmuf6KVfF",
+          "end": 33,
+          "expanded_url": "https://x.com/Ancde_1118/status/2066969629487226882/photo/1",
+          "media_key": "3_2066969621522178048",
+          "start": 10,
+          "url": "https://t.co/BMmuf6KVfF"
+        },
+        {
+          "display_url": "pic.x.com/BMmuf6KVfF",
+          "end": 33,
+          "expanded_url": "https://x.com/Ancde_1118/status/2066969629487226882/photo/1",
+          "media_key": "3_2066969621765447680",
+          "start": 10,
+          "url": "https://t.co/BMmuf6KVfF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066969629487226882",
+    "in_reply_to_user_id": "1829928082058461184",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066968516688036081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rcobrm37 https://t.co/BMmuf6KVfF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1456,
+        "media_key": "3_2066969621530607616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9Z62TbAAAKF6n.jpg",
+        "width": 922
+      },
+      {
+        "height": 1412,
+        "media_key": "3_2066969621606055936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9Z62laQAAsvfE.jpg",
+        "width": 921
+      },
+      {
+        "height": 1615,
+        "media_key": "3_2066969621522178048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9Z62RaYAAJPZW.jpg",
+        "width": 922
+      },
+      {
+        "height": 1843,
+        "media_key": "3_2066969621765447680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9Z63LaYAASRgm.jpg",
+        "width": 712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066969621530607616",
+            "3_2066969621606055936",
+            "3_2066969621522178048",
+            "3_2066969621765447680"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "conversation_id": "2066920823030763655",
+        "created_at": "2026-06-16T19:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T20:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066969629487226882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1829928082058461184",
+              "start": 0,
+              "username": "rcobrm37"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BMmuf6KVfF",
+              "end": 33,
+              "expanded_url": "https://x.com/Ancde_1118/status/2066969629487226882/photo/1",
+              "media_key": "3_2066969621530607616",
+              "start": 10,
+              "url": "https://t.co/BMmuf6KVfF"
+            },
+            {
+              "display_url": "pic.x.com/BMmuf6KVfF",
+              "end": 33,
+              "expanded_url": "https://x.com/Ancde_1118/status/2066969629487226882/photo/1",
+              "media_key": "3_2066969621606055936",
+              "start": 10,
+              "url": "https://t.co/BMmuf6KVfF"
+            },
+            {
+              "display_url": "pic.x.com/BMmuf6KVfF",
+              "end": 33,
+              "expanded_url": "https://x.com/Ancde_1118/status/2066969629487226882/photo/1",
+              "media_key": "3_2066969621522178048",
+              "start": 10,
+              "url": "https://t.co/BMmuf6KVfF"
+            },
+            {
+              "display_url": "pic.x.com/BMmuf6KVfF",
+              "end": 33,
+              "expanded_url": "https://x.com/Ancde_1118/status/2066969629487226882/photo/1",
+              "media_key": "3_2066969621765447680",
+              "start": 10,
+              "url": "https://t.co/BMmuf6KVfF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066969629487226882",
+        "in_reply_to_user_id": "1829928082058461184",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066968516688036081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rcobrm37 https://t.co/BMmuf6KVfF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829928082058461184",
+        "conversation_id": "2066920823030763655",
+        "created_at": "2026-06-16T19:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T20:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066968516688036081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778719380639014913",
+              "start": 0,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066968516688036081",
+        "in_reply_to_user_id": "1778719380639014913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066920823030763655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ancde_1118 想要原图呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 623,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 1284
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T17:04:07.000Z",
+        "description": "想什么呢",
+        "id": "1829928082058461184",
+        "name": "rcobrm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066966859313012736/1035Noxj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 161,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "rcobrm37",
+        "verified": false
+      }
+    ]
+  }
+}

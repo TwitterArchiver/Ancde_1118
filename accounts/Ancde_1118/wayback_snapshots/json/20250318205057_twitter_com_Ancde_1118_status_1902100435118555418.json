@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1902100435118555418",
+    "created_at": "2025-03-18T20:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T21:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1902100435118555418"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/she_switch/sta…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/she_switch/status/1901985209102615039",
+          "start": 25,
+          "url": "https://t.co/pgOWzHtq2I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902100435118555418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901985209102615039",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想被爱。谁能爱一下我。我对爱的需求是远远不够的。 https://t.co/pgOWzHtq2I"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1902100435118555418",
+        "created_at": "2025-03-18T20:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T21:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902100435118555418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/she_switch/sta…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/she_switch/status/1901985209102615039",
+              "start": 25,
+              "url": "https://t.co/pgOWzHtq2I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902100435118555418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901985209102615039",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想被爱。谁能爱一下我。我对爱的需求是远远不够的。 https://t.co/pgOWzHtq2I"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3307796417",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1901985209102615039",
+        "created_at": "2025-03-18T13:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T14:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901985209102615039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901985209102615039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 27236,
+          "like_count": 292,
+          "quote_count": 8,
+          "reply_count": 28,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "希望所有缺爱B都能被爱\n不要悲哀要被爱\n无论是健康的爱还是畸形的爱，先被爱吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 酗酒 抽烟 嗑药/想交朋友/我的tg频道⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+tGPZagccCeE0M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+tGPZagccCeE0M2I1",
+                "start": 0,
+                "url": "https://t.co/YOU43GttEH"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 102,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 121
+        },
+        "url": "https://t.co/YOU43GttEH",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-04T04:24:06.000Z",
+        "description": "🚪188 intp/兴趣使然的业余男喘/分享日常/没事写写小黄文/接定制/陪玩/陪聊/欢迎私信找我玩！\n音频号@shedexiaohao\n匿 名 提问 箱：https://t.co/yMydmBqABv\n自用VPN🪜https://t.co/ICxZzAEZ70",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 55,
+                "username": "shedexiaohao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/she_switch",
+                "end": 101,
+                "expanded_url": "https://ngl.link/she_switch",
+                "start": 78,
+                "url": "https://t.co/yMydmBqABv"
+              },
+              {
+                "display_url": "go.suzi02.xyz/#/register?cod…",
+                "end": 131,
+                "expanded_url": "https://go.suzi02.xyz/#/register?code=d90PL3Dk",
+                "start": 108,
+                "url": "https://t.co/ICxZzAEZ70"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sheswitch.fanbox.cc",
+                "end": 23,
+                "expanded_url": "http://sheswitch.fanbox.cc",
+                "start": 0,
+                "url": "https://t.co/Hb6cU3RSJB"
+              }
+            ]
+          }
+        },
+        "id": "3307796417",
+        "location": "深圳    ↓音频主页",
+        "name": "舌👅",
+        "pinned_tweet_id": "1900557531631554894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737859986791997441/O_XBjn9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112443,
+          "following_count": 75,
+          "like_count": 7243,
+          "listed_count": 210,
+          "media_count": 1733,
+          "tweet_count": 16588
+        },
+        "url": "https://t.co/Hb6cU3RSJB",
+        "username": "She_Switch",
+        "verified": false
+      }
+    ]
+  }
+}

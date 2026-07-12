@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907436463891025920"
+      ],
+      "media_source_tweet_id": [
+        "1907436496594084090"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "conversation_id": "1907982599429173294",
+    "created_at": "2025-04-04T02:24:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T03:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907982599429173294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1410841706174455808",
+          "start": 3,
+          "username": "xixikeai_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jGT35YBiP0",
+          "end": 38,
+          "expanded_url": "https://x.com/xixikeai_/status/1907436496594084090/photo/1",
+          "media_key": "3_1907436463891025920",
+          "start": 15,
+          "url": "https://t.co/jGT35YBiP0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907982599429173294",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907436496594084090",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xixikeai_: https://t.co/jGT35YBiP0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1776,
+        "media_key": "3_1907436463891025920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GniTW53aEAAt2Cd.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907436463891025920"
+          ],
+          "media_source_tweet_id": [
+            "1907436496594084090"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "conversation_id": "1907982599429173294",
+        "created_at": "2025-04-04T02:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T03:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907982599429173294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1410841706174455808",
+              "start": 3,
+              "username": "xixikeai_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jGT35YBiP0",
+              "end": 38,
+              "expanded_url": "https://x.com/xixikeai_/status/1907436496594084090/photo/1",
+              "media_key": "3_1907436463891025920",
+              "start": 15,
+              "url": "https://t.co/jGT35YBiP0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907982599429173294",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907436496594084090",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xixikeai_: https://t.co/jGT35YBiP0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907436463891025920"
+          ]
+        },
+        "author_id": "1410841706174455808",
+        "conversation_id": "1907436496594084090",
+        "created_at": "2025-04-02T14:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T15:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907436496594084090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jGT35YBiP0",
+              "end": 23,
+              "expanded_url": "https://x.com/xixikeai_/status/1907436496594084090/photo/1",
+              "media_key": "3_1907436463891025920",
+              "start": 0,
+              "url": "https://t.co/jGT35YBiP0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907436496594084090",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 148046,
+          "like_count": 573,
+          "quote_count": 3,
+          "reply_count": 27,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jGT35YBiP0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 戒烟戒酒中 od/双性恋/1i/4i/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1898429300963217469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 142,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 272
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-02T06:04:19.000Z",
+        "description": "反差可爱，152r+vx~ 提供满满的情绪价值",
+        "id": "1410841706174455808",
+        "name": "栖栖敲可爱",
+        "pinned_tweet_id": "1774665272907178226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600770625035198464/9PbbUsv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486603,
+          "following_count": 37,
+          "like_count": 543,
+          "listed_count": 513,
+          "media_count": 211,
+          "tweet_count": 719
+        },
+        "username": "xixikeai_",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002706766610796544",
+        "3_2002706766581338114",
+        "3_2002706766547832833",
+        "3_2002706766552055808"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "conversation_id": "2002706786642776248",
+    "created_at": "2025-12-21T11:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T12:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002706786642776248"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9sjkEt5XQG",
+          "end": 37,
+          "expanded_url": "https://x.com/Ancde_1118/status/2002706786642776248/photo/1",
+          "media_key": "3_2002706766610796544",
+          "start": 14,
+          "url": "https://t.co/9sjkEt5XQG"
+        },
+        {
+          "display_url": "pic.x.com/9sjkEt5XQG",
+          "end": 37,
+          "expanded_url": "https://x.com/Ancde_1118/status/2002706786642776248/photo/1",
+          "media_key": "3_2002706766581338114",
+          "start": 14,
+          "url": "https://t.co/9sjkEt5XQG"
+        },
+        {
+          "display_url": "pic.x.com/9sjkEt5XQG",
+          "end": 37,
+          "expanded_url": "https://x.com/Ancde_1118/status/2002706786642776248/photo/1",
+          "media_key": "3_2002706766547832833",
+          "start": 14,
+          "url": "https://t.co/9sjkEt5XQG"
+        },
+        {
+          "display_url": "pic.x.com/9sjkEt5XQG",
+          "end": 37,
+          "expanded_url": "https://x.com/Ancde_1118/status/2002706786642776248/photo/1",
+          "media_key": "3_2002706766552055808",
+          "start": 14,
+          "url": "https://t.co/9sjkEt5XQG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002706786642776248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很漂亮的鸭嘴兽 有喜欢的吗 https://t.co/9sjkEt5XQG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002706766610796544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8sLMYUbkAApn4S.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2002706766581338114",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8sLMYNaEAIFmHU.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2002706766547832833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8sLMYFa0AExFTG.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2002706766552055808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8sLMYGbQAA3xFC.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002706766610796544",
+            "3_2002706766581338114",
+            "3_2002706766547832833",
+            "3_2002706766552055808"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "conversation_id": "2002706786642776248",
+        "created_at": "2025-12-21T11:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T12:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002706786642776248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9sjkEt5XQG",
+              "end": 37,
+              "expanded_url": "https://x.com/Ancde_1118/status/2002706786642776248/photo/1",
+              "media_key": "3_2002706766610796544",
+              "start": 14,
+              "url": "https://t.co/9sjkEt5XQG"
+            },
+            {
+              "display_url": "pic.x.com/9sjkEt5XQG",
+              "end": 37,
+              "expanded_url": "https://x.com/Ancde_1118/status/2002706786642776248/photo/1",
+              "media_key": "3_2002706766581338114",
+              "start": 14,
+              "url": "https://t.co/9sjkEt5XQG"
+            },
+            {
+              "display_url": "pic.x.com/9sjkEt5XQG",
+              "end": 37,
+              "expanded_url": "https://x.com/Ancde_1118/status/2002706786642776248/photo/1",
+              "media_key": "3_2002706766547832833",
+              "start": 14,
+              "url": "https://t.co/9sjkEt5XQG"
+            },
+            {
+              "display_url": "pic.x.com/9sjkEt5XQG",
+              "end": 37,
+              "expanded_url": "https://x.com/Ancde_1118/status/2002706786642776248/photo/1",
+              "media_key": "3_2002706766552055808",
+              "start": 14,
+              "url": "https://t.co/9sjkEt5XQG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002706786642776248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很漂亮的鸭嘴兽 有喜欢的吗 https://t.co/9sjkEt5XQG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我是双性恋/tg@Sakura_sakura01118/我想交朋友 可以找我互fo/可以找我买电子烟",
+        "id": "1778719380639014913",
+        "name": "Sakura（烟代版）",
+        "pinned_tweet_id": "2000567562539876684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 450,
+          "like_count": 101,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 804
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

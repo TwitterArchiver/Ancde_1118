@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "1990932282946040051",
+    "created_at": "2025-11-19T22:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T23:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991266664881746069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1450151090717171712",
+          "start": 0,
+          "username": "oian_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991266664881746069",
+    "in_reply_to_user_id": "1450151090717171712",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990932282946040051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oian_o So cute"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6866,
+        "height": 1280,
+        "media_key": "13_1990932223424671745",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1990932223424671745/img/-qR25TKGLpmZ6eDL.jpg",
+        "public_metrics": {
+          "view_count": 2353
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990932223424671745/vid/avc1/320x568/OiDmnVlCmyGpzZTV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990932223424671745/vid/avc1/480x852/mA2bBShH7zZrHVj4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990932223424671745/vid/avc1/720x1280/Ae6goi65j82Nxiur.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1990932223424671745/pl/2xUuvyf-kQSCnKr4.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1990932282946040051",
+        "created_at": "2025-11-19T22:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T23:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991266664881746069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1450151090717171712",
+              "start": 0,
+              "username": "oian_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991266664881746069",
+        "in_reply_to_user_id": "1450151090717171712",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990932282946040051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oian_o So cute"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1990932223424671745"
+          ]
+        },
+        "author_id": "1450151090717171712",
+        "conversation_id": "1990932282946040051",
+        "created_at": "2025-11-18T23:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T00:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990932282946040051"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wrupf52JxK",
+              "end": 30,
+              "expanded_url": "https://x.com/oian_o/status/1990932282946040051/video/1",
+              "media_key": "13_1990932223424671745",
+              "start": 7,
+              "url": "https://t.co/Wrupf52JxK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990932282946040051",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 11434,
+          "like_count": 599,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 https://t.co/Wrupf52JxK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分/我是穿孔师/我想交朋友 可以找我互fo",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "1990862354285015102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 397,
+          "like_count": 85,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 714
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-18T17:25:46.000Z",
+        "description": "",
+        "id": "1450151090717171712",
+        "name": "にゃお",
+        "pinned_tweet_id": "1990817342893248688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965107618378313728/kY_FwCs1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 122,
+          "like_count": 5651,
+          "listed_count": 5,
+          "media_count": 31,
+          "tweet_count": 161
+        },
+        "username": "oian_o",
+        "verified": false
+      }
+    ]
+  }
+}
