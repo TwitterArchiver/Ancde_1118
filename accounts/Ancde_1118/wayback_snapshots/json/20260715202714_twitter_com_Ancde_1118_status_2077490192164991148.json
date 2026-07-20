@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2077490192164991148",
+    "created_at": "2026-07-15T20:27:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T21:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077490192164991148"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ancde_1118/sta…",
+          "end": 140,
+          "expanded_url": "https://twitter.com/ancde_1118/status/1945510022353477785",
+          "start": 117,
+          "url": "https://t.co/ulGImOVmoS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077490192164991148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945510022353477785",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在我烟在抽 酒在喝 药在o 手在割 我想不通 自己现在到底是不知足 还是不幸福 我只是对活着这件事 感到一种疲惫 平凡宁静的只有我与我的世界 这种平静的生活似乎是一种痛苦的催化剂 让我亲眼目睹了我的不堪 好痛苦 请让我感受到痛苦吧 https://t.co/ulGImOVmoS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2077490192164991148",
+        "created_at": "2026-07-15T20:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T21:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077490192164991148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ancde_1118/sta…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/ancde_1118/status/1945510022353477785",
+              "start": 117,
+              "url": "https://t.co/ulGImOVmoS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077490192164991148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945510022353477785",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在我烟在抽 酒在喝 药在o 手在割 我想不通 自己现在到底是不知足 还是不幸福 我只是对活着这件事 感到一种疲惫 平凡宁静的只有我与我的世界 这种平静的生活似乎是一种痛苦的催化剂 让我亲眼目睹了我的不堪 好痛苦 请让我感受到痛苦吧 https://t.co/ulGImOVmoS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "1945510022353477785",
+        "created_at": "2025-07-16T15:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T16:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945510022353477785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ancde_1118/sta…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/ancde_1118/status/1901183362095525986",
+              "start": 143,
+              "url": "https://t.co/MW2G5q74eP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945510022353477785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 934,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901183362095525986",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我正在戒烟 抽完存货就不抽了 酒我也不喝了 今天是第111天没有od 刚刚好是我生日的数字哈哈 手也不知道怎么割了 拿着刀对着胳膊也不知道从哪开始下刀 或许我现在做的都是错的 现在的我是真的我吗 为什么会变成这样 我还是之前的我吗 好空虚 躺在床上呆望着天花板 泪水流过脸颊 好想去死 https://t.co/MW2G5q74eP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 682,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 265,
+          "tweet_count": 1703
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

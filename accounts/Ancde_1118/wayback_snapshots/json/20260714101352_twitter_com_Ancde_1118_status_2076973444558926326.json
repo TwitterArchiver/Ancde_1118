@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2076973444558926326",
+    "created_at": "2026-07-14T10:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T11:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076973444558926326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1505767450385690625",
+          "start": 3,
+          "username": "Alistai33955292"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076973444558926326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066108367043772842",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alistai33955292: 一个全新顶置\n我是🌰，叫我栗子或者别的都可以！\n06/已确诊双相二型/努力戒od/ed/自伤/未知性取向\n阶段性刷推，喜欢互动！(线下也可以知道我ip的可以小窗我)\n重度真皮脂肪层爱好者\n欢迎互fo！会查成分ovo\n我很缺钱，很缺。\n↓…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066108363331809280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxKnBfbMAAePw6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2076973444558926326",
+        "created_at": "2026-07-14T10:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076973444558926326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1505767450385690625",
+              "start": 3,
+              "username": "Alistai33955292"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076973444558926326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066108367043772842",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alistai33955292: 一个全新顶置\n我是🌰，叫我栗子或者别的都可以！\n06/已确诊双相二型/努力戒od/ed/自伤/未知性取向\n阶段性刷推，喜欢互动！(线下也可以知道我ip的可以小窗我)\n重度真皮脂肪层爱好者\n欢迎互fo！会查成分ovo\n我很缺钱，很缺。\n↓…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066108363331809280"
+          ]
+        },
+        "author_id": "1505767450385690625",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066108367043772842",
+        "created_at": "2026-06-14T10:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066108367043772842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8y8NRTVsAE",
+              "end": 156,
+              "expanded_url": "https://x.com/Alistai33955292/status/2066108367043772842/photo/1",
+              "media_key": "3_2066108363331809280",
+              "start": 133,
+              "url": "https://t.co/8y8NRTVsAE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066108367043772842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6628,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "一个全新顶置\n我是🌰，叫我栗子或者别的都可以！\n06/已确诊双相二型/努力戒od/ed/自伤/未知性取向\n阶段性刷推，喜欢互动！(线下也可以知道我ip的可以小窗我)\n重度真皮脂肪层爱好者\n欢迎互fo！会查成分ovo\n我很缺钱，很缺。\n↓这些钱用于改善我的生活……！ https://t.co/8y8NRTVsAE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 674,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 1676
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T04:45:18.000Z",
+        "description": "餐券丨od丨全性别友好丨只fo同类健人fo我拉黑丨希望爱我的我爱的人永远幸福/终生@youciAishiuu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "youciAishiuu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nnbn17594",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nnbn17594",
+                "start": 0,
+                "url": "https://t.co/81DYKJ3Y8p"
+              }
+            ]
+          }
+        },
+        "id": "1505767450385690625",
+        "location": "天国",
+        "name": "🌰",
+        "pinned_tweet_id": "2066108367043772842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045141613958340608/DmfkJuqE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 649,
+          "like_count": 2504,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3284
+        },
+        "url": "https://t.co/81DYKJ3Y8p",
+        "username": "Alistai33955292",
+        "verified": false
+      }
+    ]
+  }
+}

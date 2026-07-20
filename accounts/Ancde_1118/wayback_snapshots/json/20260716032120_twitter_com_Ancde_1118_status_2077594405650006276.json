@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077594398091784192"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "conversation_id": "2077594405650006276",
+    "created_at": "2026-07-16T03:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T04:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077594405650006276"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CbNDsye74q",
+          "end": 53,
+          "expanded_url": "https://x.com/Ancde_1118/status/2077594405650006276/photo/1",
+          "media_key": "3_2077594398091784192",
+          "start": 30,
+          "url": "https://t.co/CbNDsye74q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077594405650006276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又把祛疤膏翻出来了 一直割一直涂 这有什么意思呢 我不明白 https://t.co/CbNDsye74q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077594398091784192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNUZGPWaMAA3d83.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077594398091784192"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "conversation_id": "2077594405650006276",
+        "created_at": "2026-07-16T03:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077594405650006276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CbNDsye74q",
+              "end": 53,
+              "expanded_url": "https://x.com/Ancde_1118/status/2077594405650006276/photo/1",
+              "media_key": "3_2077594398091784192",
+              "start": 30,
+              "url": "https://t.co/CbNDsye74q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077594405650006276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又把祛疤膏翻出来了 一直割一直涂 这有什么意思呢 我不明白 https://t.co/CbNDsye74q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 681,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 267,
+          "tweet_count": 1692
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

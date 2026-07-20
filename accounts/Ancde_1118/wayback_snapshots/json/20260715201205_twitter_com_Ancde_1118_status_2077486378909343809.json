@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2077486378909343809",
+    "created_at": "2026-07-15T20:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T21:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077486378909343809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2072556467690070016",
+          "start": 3,
+          "username": "chengzizhi666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077486378909343809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077465744548544990",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chengzizhi666: 你们好我是橙子汁 我回来啦\n05年 身高163体重86斤北京\n想治疗好自己胃病负债累累\n可包养 可来找你\n只回复口令 可验证视频语音 \n欢迎互转互fo的 求大家过门槛吧\n转发此帖➕点赞➕关注抽2*福利视频 \n3*52🧧 1*免费线下 下个月…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13850,
+        "height": 1280,
+        "media_key": "13_2077465628425003008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077465628425003008/img/p1WoF5oRjiNcGaK1.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077465628425003008/vid/avc1/320x568/d5el9o5zFnlFOjs-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077465628425003008/vid/avc1/480x852/jncdMMoDES6xr0Xq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077465628425003008/vid/avc1/720x1280/xC-7iroyZIf6lhzY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077465628425003008/pl/b54GpN1FJVssVXK-.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077465708708102144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNSkDiCaAAAEr_q.jpg",
+        "width": 1571
+      },
+      {
+        "height": 1810,
+        "media_key": "3_2077465708691337216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNSkDh-aMAANhji.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2077486378909343809",
+        "created_at": "2026-07-15T20:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T21:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077486378909343809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2072556467690070016",
+              "start": 3,
+              "username": "chengzizhi666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077486378909343809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077465744548544990",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chengzizhi666: 你们好我是橙子汁 我回来啦\n05年 身高163体重86斤北京\n想治疗好自己胃病负债累累\n可包养 可来找你\n只回复口令 可验证视频语音 \n欢迎互转互fo的 求大家过门槛吧\n转发此帖➕点赞➕关注抽2*福利视频 \n3*52🧧 1*免费线下 下个月…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077465628425003008",
+            "3_2077465708708102144",
+            "3_2077465708691337216"
+          ]
+        },
+        "author_id": "2072556467690070016",
+        "conversation_id": "2077465744548544990",
+        "created_at": "2026-07-15T18:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T19:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077465744548544990"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "线下"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "北京"
+            },
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "女大"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "非绿"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "金主"
+            },
+            {
+              "end": 153,
+              "start": 151,
+              "tag": "m"
+            },
+            {
+              "end": 157,
+              "start": 154,
+              "tag": "线上"
+            },
+            {
+              "end": 162,
+              "start": 158,
+              "tag": "交际花"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OsSFMiagdh",
+              "end": 186,
+              "expanded_url": "https://x.com/chengzizhi666/status/2077465744548544990/video/1",
+              "media_key": "13_2077465628425003008",
+              "start": 163,
+              "url": "https://t.co/OsSFMiagdh"
+            },
+            {
+              "display_url": "pic.x.com/OsSFMiagdh",
+              "end": 186,
+              "expanded_url": "https://x.com/chengzizhi666/status/2077465744548544990/video/1",
+              "media_key": "3_2077465708708102144",
+              "start": 163,
+              "url": "https://t.co/OsSFMiagdh"
+            },
+            {
+              "display_url": "pic.x.com/OsSFMiagdh",
+              "end": 186,
+              "expanded_url": "https://x.com/chengzizhi666/status/2077465744548544990/video/1",
+              "media_key": "3_2077465708691337216",
+              "start": 163,
+              "url": "https://t.co/OsSFMiagdh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077465744548544990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你们好我是橙子汁 我回来啦\n05年 身高163体重86斤北京\n想治疗好自己胃病负债累累\n可包养 可来找你\n只回复口令 可验证视频语音 \n欢迎互转互fo的 求大家过门槛吧\n转发此帖➕点赞➕关注抽2*福利视频 \n3*52🧧 1*免费线下 下个月15号开 #线下 #北京 #门槛妹 #女大 #非绿 #金主  #m #线上 #交际花 https://t.co/OsSFMiagdh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 682,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 265,
+          "tweet_count": 1704
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-02T05:43:05.000Z",
+        "description": "大家好我是橙子汁 家里出了点事现在回来了 只回复过🚪的  发口令红包",
+        "id": "2072556467690070016",
+        "location": "北京",
+        "name": "橙子🍊",
+        "pinned_tweet_id": "2077465744548544990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077460267244679168/E5-gnWwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 59,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "chengzizhi666",
+        "verified": false
+      }
+    ]
+  }
+}

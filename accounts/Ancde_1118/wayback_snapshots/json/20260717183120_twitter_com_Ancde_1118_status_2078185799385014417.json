@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2077594405650006276",
+    "created_at": "2026-07-17T18:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T19:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078185799385014417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1847234577145937922",
+          "start": 0,
+          "username": "Spiiiiicy047"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078185799385014417",
+    "in_reply_to_user_id": "1847234577145937922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078169636361900461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spiiiiicy047 还可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2077594405650006276",
+        "created_at": "2026-07-17T18:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078185799385014417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847234577145937922",
+              "start": 0,
+              "username": "Spiiiiicy047"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078185799385014417",
+        "in_reply_to_user_id": "1847234577145937922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078169636361900461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spiiiiicy047 还可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847234577145937922",
+        "conversation_id": "2077594405650006276",
+        "created_at": "2026-07-17T17:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078169636361900461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778719380639014913",
+              "start": 0,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078169636361900461",
+        "in_reply_to_user_id": "1778719380639014913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077594405650006276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ancde_1118 宝宝这个好用咩🥺我脸上有刚摘半个月穿孔的疤…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 691,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 1708
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T11:13:49.000Z",
+        "description": "咪（不回非粉（不闲聊 私信心情好才回（没礼貌的走开🏃！",
+        "id": "1847234577145937922",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "Spiiiiicy脆脆",
+        "pinned_tweet_id": "2056951347262734490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056387461685862400/airmUdSj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6026,
+          "following_count": 38,
+          "like_count": 2064,
+          "listed_count": 25,
+          "media_count": 64,
+          "tweet_count": 730
+        },
+        "url": "",
+        "username": "Spiiiiicy047",
+        "verified": false
+      }
+    ]
+  }
+}
