@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2079078114186117168",
+    "created_at": "2026-07-20T05:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079078114186117168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/woshixiaoyu123…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/woshixiaoyu123/status/2078550671276794030",
+          "start": 8,
+          "url": "https://t.co/xwAViAwSOl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079078114186117168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078550671276794030",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "会有这样的人吗 https://t.co/xwAViAwSOl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2079078114186117168",
+        "created_at": "2026-07-20T05:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079078114186117168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woshixiaoyu123…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/woshixiaoyu123/status/2078550671276794030",
+              "start": 8,
+              "url": "https://t.co/xwAViAwSOl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079078114186117168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078550671276794030",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "会有这样的人吗 https://t.co/xwAViAwSOl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2078550671276794030",
+        "created_at": "2026-07-18T18:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078550671276794030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078550671276794030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 32834,
+          "like_count": 902,
+          "quote_count": 35,
+          "reply_count": 94,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "总会有一个人看你写过的所有状态 读完你写的所有微博 看你从小到大的所有照片 甚至去别的地方寻找关于你的信息 试着听你听的歌 走你走过的地方 看你喜欢看的书 品尝你总是大呼好吃的东西 把你看透了然后选择更爱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2909,
+          "following_count": 701,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 1723
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19283,
+          "following_count": 151,
+          "like_count": 393,
+          "listed_count": 19,
+          "media_count": 1752,
+          "tweet_count": 6558
+        },
+        "url": "",
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

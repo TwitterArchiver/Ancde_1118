@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079372684857835520"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "conversation_id": "2079372712716517607",
+    "created_at": "2026-07-21T01:07:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T02:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079372712716517607"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1hjJ12haT1",
+          "end": 36,
+          "expanded_url": "https://x.com/Ancde_1118/status/2079372712716517607/video/1",
+          "media_key": "13_2079372684857835520",
+          "start": 13,
+          "url": "https://t.co/1hjJ12haT1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079372712716517607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个纱布很烦呀一直往上缩 https://t.co/1hjJ12haT1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12698,
+        "height": 960,
+        "media_key": "13_2079372684857835520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079372684857835520/img/HWMTwCvyXguP_Ar0.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079372684857835520/vid/avc1/320x426/NCdBExZVE6Pmy8k1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079372684857835520/vid/avc1/480x640/DbEDhnN5RKV3YdfN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079372684857835520/vid/avc1/720x960/54P6AKCU2MMEmkpz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079372684857835520/pl/xDhKAwuOK6nrA6t9.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079372684857835520"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "conversation_id": "2079372712716517607",
+        "created_at": "2026-07-21T01:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079372712716517607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1hjJ12haT1",
+              "end": 36,
+              "expanded_url": "https://x.com/Ancde_1118/status/2079372712716517607/video/1",
+              "media_key": "13_2079372684857835520",
+              "start": 13,
+              "url": "https://t.co/1hjJ12haT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079372712716517607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个纱布很烦呀一直往上缩 https://t.co/1hjJ12haT1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2369,
+          "following_count": 703,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 1743
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}
