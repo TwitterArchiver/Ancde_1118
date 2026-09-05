@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2094154368543256890",
+    "created_at": "2026-08-30T20:04:43.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T21:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094154368543256890"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oxolyy/status/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/oxolyy/status/2093991449100779604",
+          "start": 10,
+          "url": "https://t.co/vaTF0pnqQS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094154368543256890",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093991449100779604",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的人生一片漆黑啊 https://t.co/vaTF0pnqQS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2094154368543256890",
+        "created_at": "2026-08-30T20:04:43.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T21:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094154368543256890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oxolyy/status/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/oxolyy/status/2093991449100779604",
+              "start": 10,
+              "url": "https://t.co/vaTF0pnqQS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094154368543256890",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093991449100779604",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的人生一片漆黑啊 https://t.co/vaTF0pnqQS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059473208299118592",
+        "conversation_id": "2093991449100779604",
+        "created_at": "2026-08-30T09:17:20.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T10:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093991449100779604"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093991449100779604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 733,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有社会能力不能工作 每天严重躯体化动不了 活在有阴影的环境 身边的人不理解我 我不知道怎么活 得了精神病就已经没有未来了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094154368543256890",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778719380639014913/1742543363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 693,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 313,
+          "tweet_count": 1949
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:16:15.000Z",
+        "description": "前两世@o3olyy @lyyouo｜18 ↑｜od 自伤🩹｜双相情感障碍｜adhd｜认知障碍｜6次自杀未遂｜泛性恋｜bart｜绳缚｜我是精日🚫pink 同类宝宝互fo私一下我♡求怜爱 我只是一个可怜的小女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "o3olyy"
+              },
+              {
+                "end": 18,
+                "start": 11,
+                "username": "lyyouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/o3olyy",
+                "end": 23,
+                "expanded_url": "http://ngl.link/o3olyy",
+                "start": 0,
+                "url": "https://t.co/5AkhgojXIX"
+              }
+            ]
+          }
+        },
+        "id": "2059473208299118592",
+        "is_identity_verified": false,
+        "location": "看看你后面｜🚪52坐标10",
+        "most_recent_tweet_id": "2093991449100779604",
+        "name": "真理3.0（已老实",
+        "pinned_tweet_id": "2059479860507254803",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059473208299118592/1779852084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059474038859411456/uQOOaqCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 192,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 238
+        },
+        "url": "https://t.co/5AkhgojXIX",
+        "username": "oxolyy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

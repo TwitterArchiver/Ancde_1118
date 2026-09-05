@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2092379156428587499",
+    "created_at": "2026-08-26T18:09:37.000Z",
+    "display_text_range": [
+      17,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T19:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092675849451696386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1759829206467219456",
+          "start": 0,
+          "username": "CycloneExploder"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092675849451696386",
+    "in_reply_to_user_id": "1759829206467219456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092591131716641274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CycloneExploder 看我新发的解释呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2092379156428587499",
+        "created_at": "2026-08-26T18:09:37.000Z",
+        "display_text_range": [
+          17,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T19:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092675849451696386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1759829206467219456",
+              "start": 0,
+              "username": "CycloneExploder"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092675849451696386",
+        "in_reply_to_user_id": "1759829206467219456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092591131716641274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CycloneExploder 看我新发的解释呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759829206467219456",
+        "conversation_id": "2092379156428587499",
+        "created_at": "2026-08-26T12:32:58.000Z",
+        "display_text_range": [
+          12,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092591131716641274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778719380639014913",
+              "start": 0,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092591131716641274",
+        "in_reply_to_user_id": "1778719380639014913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092379156428587499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ancde_1118 人生是属于自己的，没关系的，稍微花点时间戒掉这些伤身体的习惯，满怀希望地迎接新生活就好\n不过呢，一定要下定决心做好改变的觉悟！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092675849451696386",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778719380639014913/1742543363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 682,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 307,
+          "tweet_count": 1902
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-20T06:36:05.000Z",
+        "description": "May love and peace live forever❤️☮️🌍\ni love you guys fr\nRemember to get enough sleep!💤\nI use AI translator to communicate",
+        "id": "1759829206467219456",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092627509489926576",
+        "name": "CycloneExploder",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759829206467219456/1779974403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089652027643363328/likOKUCl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 84,
+          "like_count": 3496,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 178
+        },
+        "url": "",
+        "username": "CycloneExploder",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

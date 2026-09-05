@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2085460212438516157",
+    "created_at": "2026-08-06T20:17:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T21:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085460212438516157"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "门槛"
+        },
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "上海"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "压榨"
+        },
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "非绿"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "站街"
+        },
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "原角"
+        },
+        {
+          "end": 136,
+          "start": 133,
+          "tag": "金主"
+        },
+        {
+          "end": 139,
+          "start": 137,
+          "tag": "色"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2084589955297488897",
+          "start": 3,
+          "username": "tuer44qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085460212438516157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084591508871921939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuer44qwq: hi我叫兔耳很高兴认识大家ovo 看主页窝个性签名！ 家里人欠钱上门讨债重男轻女 被迫下海 有没有心软的神看看我 可全国飞 可来找你 只回复口令 不过门槛不回直接拉黑 妹宝可互转互fo窝 #门槛 #上海 #压榨 #非绿 #站街 #原角 #金主 #色…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13003,
+        "height": 960,
+        "media_key": "13_2084591480535130112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084591480535130112/img/sguKgdoWYO-DJmkU.jpg",
+        "public_metrics": {
+          "view_count": 155
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084591480535130112/vid/avc1/320x426/5v9fXdlQ1hPbItyc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084591480535130112/vid/avc1/480x640/GObPijCi0G_OaXQA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084591480535130112/vid/avc1/720x960/OuKsXcp99OdR19Ip.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084591480535130112/pl/FMdcdJKS6Wx7qEIi.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 964,
+        "media_key": "3_2084591480547708929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO306CvaEAEn6Bb.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2085460212438516157",
+        "created_at": "2026-08-06T20:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T21:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085460212438516157"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "门槛"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "上海"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "压榨"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "非绿"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "站街"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "原角"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "金主"
+            },
+            {
+              "end": 139,
+              "start": 137,
+              "tag": "色"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2084589955297488897",
+              "start": 3,
+              "username": "tuer44qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085460212438516157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084591508871921939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuer44qwq: hi我叫兔耳很高兴认识大家ovo 看主页窝个性签名！ 家里人欠钱上门讨债重男轻女 被迫下海 有没有心软的神看看我 可全国飞 可来找你 只回复口令 不过门槛不回直接拉黑 妹宝可互转互fo窝 #门槛 #上海 #压榨 #非绿 #站街 #原角 #金主 #色…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084591480535130112",
+            "3_2084591480547708929"
+          ]
+        },
+        "author_id": "2084589955297488897",
+        "conversation_id": "2084591508871921939",
+        "created_at": "2026-08-04T10:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084591508871921939"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "门槛"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "上海"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "压榨"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "非绿"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "站街"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "原角"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "金主"
+            },
+            {
+              "end": 124,
+              "start": 122,
+              "tag": "色"
+            },
+            {
+              "end": 129,
+              "start": 125,
+              "tag": "福利姬"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "反差"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "女大"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XN52KFTYaj",
+              "end": 161,
+              "expanded_url": "https://x.com/tuer44qwq/status/2084591508871921939/video/1",
+              "media_key": "13_2084591480535130112",
+              "start": 138,
+              "url": "https://t.co/XN52KFTYaj"
+            },
+            {
+              "display_url": "pic.x.com/XN52KFTYaj",
+              "end": 161,
+              "expanded_url": "https://x.com/tuer44qwq/status/2084591508871921939/video/1",
+              "media_key": "3_2084591480547708929",
+              "start": 138,
+              "url": "https://t.co/XN52KFTYaj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084591508871921939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 329,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "hi我叫兔耳很高兴认识大家ovo 看主页窝个性签名！ 家里人欠钱上门讨债重男轻女 被迫下海 有没有心软的神看看我 可全国飞 可来找你 只回复口令 不过门槛不回直接拉黑 妹宝可互转互fo窝 #门槛 #上海 #压榨 #非绿 #站街 #原角 #金主 #色 #福利姬 #反差 #女大 https://t.co/XN52KFTYaj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 697,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 1803
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-04T10:40:13.000Z",
+        "description": "上海07年/165/90斤\n过99验证 问的超过三个问题一个问题10元 详细地址20米",
+        "id": "2084589955297488897",
+        "location": "🚪99/188/520/666/1314/2000",
+        "name": "兔耳",
+        "pinned_tweet_id": "2084591508871921939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084590666651508736/dbxR4JpD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 14,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "tuer44qwq",
+        "verified": false
+      }
+    ]
+  }
+}

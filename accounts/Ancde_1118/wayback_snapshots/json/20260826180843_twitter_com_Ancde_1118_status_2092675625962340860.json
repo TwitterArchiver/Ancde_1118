@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2092379156428587499",
+    "created_at": "2026-08-26T18:08:43.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T19:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092675625962340860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1538881304301019136",
+          "start": 0,
+          "username": "bluemazha123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092675625962340860",
+    "in_reply_to_user_id": "1538881304301019136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092673043378352219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bluemazha123 看我新发的解释呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2092379156428587499",
+        "created_at": "2026-08-26T18:08:43.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T19:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092675625962340860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1538881304301019136",
+              "start": 0,
+              "username": "bluemazha123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092675625962340860",
+        "in_reply_to_user_id": "1538881304301019136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092673043378352219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bluemazha123 看我新发的解释呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1538881304301019136",
+        "conversation_id": "2092379156428587499",
+        "created_at": "2026-08-26T17:58:28.000Z",
+        "display_text_range": [
+          12,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092673043378352219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778719380639014913",
+              "start": 0,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092673043378352219",
+        "in_reply_to_user_id": "1778719380639014913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092379156428587499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ancde_1118 妈妈不是不爱你，她只是接不住你丰沛的情感也进不去你小小的世界，一边抱怨你不给她开门一边又用偏执笨拙的方式骂骂咧咧地爱着你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092675625962340860",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778719380639014913/1742543363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 682,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 307,
+          "tweet_count": 1896
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-20T13:47:56.000Z",
+        "description": "观我旧往，同我仰春",
+        "id": "1538881304301019136",
+        "is_identity_verified": false,
+        "location": "深圳",
+        "most_recent_tweet_id": "2092673043378352219",
+        "name": "星星",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1538881304301019136/1678729512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871948099767484416/wmTNYblh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 111,
+          "like_count": 944,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 517
+        },
+        "url": "",
+        "username": "bluemazha123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

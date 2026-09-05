@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094153884491239424"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "conversation_id": "2094153891671863555",
+    "created_at": "2026-08-30T20:02:49.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T21:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094153891671863555"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "wszx328.github.io/rikiceshi/",
+          "end": 32,
+          "expanded_url": "https://wszx328.github.io/rikiceshi/",
+          "start": 9,
+          "status": 200,
+          "title": "测测你的灵魂像什么食物",
+          "unwound_url": "https://wszx328.github.io/rikiceshi/",
+          "url": "https://t.co/bzmp25IYIl"
+        },
+        {
+          "display_url": "pic.x.com/laEm4QpECa",
+          "end": 56,
+          "expanded_url": "https://x.com/Ancde_1118/status/2094153891671863555/photo/1",
+          "media_key": "3_2094153884491239424",
+          "start": 33,
+          "url": "https://t.co/laEm4QpECa"
+        },
+        {
+          "display_url": "x.com/shawnx_nya/sta…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/shawnx_nya/status/2094084500041118076",
+          "start": 57,
+          "url": "https://t.co/DEIx58hADc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094153891671863555",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094153884491239424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094084500041118076",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "居然是方便面吗\n\nhttps://t.co/bzmp25IYIl https://t.co/laEm4QpECa https://t.co/DEIx58hADc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1652,
+        "media_key": "3_2094153884491239424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ_t3NYa0AAlrIw.jpg",
+        "width": 1170
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2094084488871780352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-uv2jboAArQyD.jpg",
+        "width": 1246
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094153884491239424"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "conversation_id": "2094153891671863555",
+        "created_at": "2026-08-30T20:02:49.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T21:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094153891671863555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "wszx328.github.io/rikiceshi/",
+              "end": 32,
+              "expanded_url": "https://wszx328.github.io/rikiceshi/",
+              "start": 9,
+              "status": 200,
+              "title": "测测你的灵魂像什么食物",
+              "unwound_url": "https://wszx328.github.io/rikiceshi/",
+              "url": "https://t.co/bzmp25IYIl"
+            },
+            {
+              "display_url": "pic.x.com/laEm4QpECa",
+              "end": 56,
+              "expanded_url": "https://x.com/Ancde_1118/status/2094153891671863555/photo/1",
+              "media_key": "3_2094153884491239424",
+              "start": 33,
+              "url": "https://t.co/laEm4QpECa"
+            },
+            {
+              "display_url": "x.com/shawnx_nya/sta…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/shawnx_nya/status/2094084500041118076",
+              "start": 57,
+              "url": "https://t.co/DEIx58hADc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094153891671863555",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094153884491239424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094084500041118076",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "居然是方便面吗\n\nhttps://t.co/bzmp25IYIl https://t.co/laEm4QpECa https://t.co/DEIx58hADc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094084488871780352"
+          ]
+        },
+        "author_id": "1518254263457431552",
+        "conversation_id": "2094084500041118076",
+        "created_at": "2026-08-30T15:27:05.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094084500041118076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eyr8B4TBio",
+              "end": 36,
+              "expanded_url": "https://x.com/ShawnX_nya/status/2094084500041118076/photo/1",
+              "media_key": "3_2094084488871780352",
+              "start": 13,
+              "url": "https://t.co/Eyr8B4TBio"
+            },
+            {
+              "display_url": "x.com/Wesley10032/st…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Wesley10032/status/2093984604005007565",
+              "start": 37,
+              "url": "https://t.co/2fj34ScOLg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094084500041118076",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094084488871780352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093984604005007565",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "梅干菜扣肉\n香的嘞\n不谈 https://t.co/Eyr8B4TBio https://t.co/2fj34ScOLg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094153891671863555",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778719380639014913/1742543363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 693,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 313,
+          "tweet_count": 1948
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-24T15:43:43.000Z",
+        "description": "CN/EN OK | JP 勉強中 | RU 还没开始学\nMTX 任何称呼OK\n各种pc音游 fps都打\n欢迎私信\n十八线coder 主Go\n日常发癫/emo  fo都会回\n长文参见 https://t.co/jb5NgL6g4G",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xuanpt2.org",
+                "end": 115,
+                "expanded_url": "http://xuanpt2.org",
+                "start": 92,
+                "url": "https://t.co/jb5NgL6g4G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuanpt2.org",
+                "end": 23,
+                "expanded_url": "http://xuanpt2.org",
+                "start": 0,
+                "url": "https://t.co/jb5NgL6g4G"
+              }
+            ]
+          }
+        },
+        "id": "1518254263457431552",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094135460033647057",
+        "name": "ShawNya",
+        "pinned_tweet_id": "2092193270881501282",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518254263457431552/1786910914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089081907594280960/62tuuQ13_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 502,
+          "like_count": 862,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 458
+        },
+        "url": "https://t.co/jb5NgL6g4G",
+        "username": "ShawnX_nya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

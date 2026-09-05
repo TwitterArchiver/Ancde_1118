@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2094045705350631789",
+    "created_at": "2026-08-30T12:52:56.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T13:52:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094045705350631789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drugs_artists/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/drugs_artists/status/2093773564927504653",
+          "start": 6,
+          "url": "https://t.co/dEm5755KEM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094045705350631789",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093773564927504653",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "rip璐哥 https://t.co/dEm5755KEM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3248,
+        "media_key": "3_2093773553435045888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ6T9ByacAAEccY.jpg",
+        "width": 3064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2094045705350631789",
+        "created_at": "2026-08-30T12:52:56.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T13:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094045705350631789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drugs_artists/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/drugs_artists/status/2093773564927504653",
+              "start": 6,
+              "url": "https://t.co/dEm5755KEM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094045705350631789",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093773564927504653",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "rip璐哥 https://t.co/dEm5755KEM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093773553435045888"
+          ]
+        },
+        "author_id": "1464941699889696768",
+        "conversation_id": "2093773564927504653",
+        "created_at": "2026-08-29T18:51:32.000Z",
+        "display_text_range": [
+          0,
+          162
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T19:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093773564927504653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1132729630245265408",
+              "start": 8,
+              "username": "pr80net"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rQHd4BwmR8",
+              "end": 186,
+              "expanded_url": "https://x.com/drugs_artists/status/2093773564927504653/photo/1",
+              "media_key": "3_2093773553435045888",
+              "start": 163,
+              "url": "https://t.co/rQHd4BwmR8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093773564927504653",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093773553435045888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 18597,
+          "like_count": 219,
+          "quote_count": 16,
+          "reply_count": 97,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\n永夜安港@pr80net现运营人\n扎克另一个运营者\n璐璐璐森堡 真名王嘉雨 化名姚志云\n死因是服用60t右美+两瓶西柚汁与 84mg专注达和普瑞巴林\n早上八点睡觉中逐渐呼吸抑制窒息猝死\n1点他妈喊他发货时人就已经没了\n我本想看护 但他对我说Leave me alone 我很自责\n已经火化了骨灰寄存在殡仪馆\n沉重悼念 https://t.co/rQHd4BwmR8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094045705350631789",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778719380639014913/1742543363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 692,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 1937
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-28T12:58:24.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|4i男娘INFPI|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!年号雨玄二年名人堂梦工厂RC-沐雨零售策划药产品联系我的tg：@drug_artist 我的双子星：@qiyueqiye11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 97,
+                "username": "drug_artist"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "qiyueqiye11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/7EyvDSe3J6"
+              }
+            ]
+          }
+        },
+        "id": "1464941699889696768",
+        "is_identity_verified": false,
+        "location": "Xanax天国8mg自治区",
+        "most_recent_tweet_id": "2093775431778673017",
+        "name": "沐雨八世",
+        "pinned_tweet_id": "2093068227492651062",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1464941699889696768/1787861084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093066704456953856/2BIY4fKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 43,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/7EyvDSe3J6",
+        "username": "drugs_artists",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2092379156428587499",
+    "created_at": "2026-08-26T18:09:12.000Z",
+    "display_text_range": [
+      29,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T19:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092675747240644981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1890782708877393920",
+          "start": 0,
+          "username": "hanfeng_sis01"
+        },
+        {
+          "end": 28,
+          "id": "1954130439997931520",
+          "start": 15,
+          "username": "hui_nan45838"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092675747240644981",
+    "in_reply_to_user_id": "1890782708877393920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092661127624691807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanfeng_sis01 @hui_nan45838 看我新发的解释呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2092379156428587499",
+        "created_at": "2026-08-26T18:09:12.000Z",
+        "display_text_range": [
+          29,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T19:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092675747240644981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1890782708877393920",
+              "start": 0,
+              "username": "hanfeng_sis01"
+            },
+            {
+              "end": 28,
+              "id": "1954130439997931520",
+              "start": 15,
+              "username": "hui_nan45838"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092675747240644981",
+        "in_reply_to_user_id": "1890782708877393920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092661127624691807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanfeng_sis01 @hui_nan45838 看我新发的解释呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890782708877393920",
+        "conversation_id": "2092379156428587499",
+        "created_at": "2026-08-26T17:11:07.000Z",
+        "display_text_range": [
+          26,
+          167
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092661127624691807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1954130439997931520",
+              "start": 0,
+              "username": "hui_nan45838"
+            },
+            {
+              "end": 25,
+              "id": "1778719380639014913",
+              "start": 14,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092661127624691807",
+        "in_reply_to_user_id": "1954130439997931520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092657980386979908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hui_nan45838 @Ancde_1118 不是这样的。爱不是万能的挡箭牌，打着爱的旗号压榨孩子是绝对ng的。如果孩子只抱着“她是爱我的”这个想法而忽略了客观上受到的伤害，那就是自我pua而已，只会带来更多的痛苦。\n就我个人的体会而言，比起不知深浅的安慰与劝和，还是站在孩子的角度共情比较好。说到底我是更喜欢有人支持我啦..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092675747240644981",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778719380639014913/1742543363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 682,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 307,
+          "tweet_count": 1899
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-15T15:18:43.000Z",
+        "description": "边缘透明人一枚，↓存在感down↓",
+        "id": "1890782708877393920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092672896506187879",
+        "name": "江涵枫",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029598958100828162/EIZrrJQR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 38,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "hanfeng_sis01",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-09T10:39:57.000Z",
+        "description": "",
+        "id": "1954130439997931520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092659282701607232",
+        "name": "回南天",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048050734835589120/sXCwwRnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 49,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 218
+        },
+        "url": "",
+        "username": "hui_nan45838",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

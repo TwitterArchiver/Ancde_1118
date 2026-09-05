@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079989135109226496"
+      ],
+      "media_source_tweet_id": [
+        "2079989141778080244"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "conversation_id": "2090707605467562221",
+    "created_at": "2026-08-21T07:48:31.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T08:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090707605467562221"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 82,
+          "start": 78,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1700683784390164480",
+          "start": 3,
+          "username": "AndersonCr40066"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fiQcrZHlOE",
+          "end": 106,
+          "expanded_url": "https://x.com/AndersonCr40066/status/2079989141778080244/photo/1",
+          "media_key": "3_2079989135109226496",
+          "start": 83,
+          "url": "https://t.co/fiQcrZHlOE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090707605467562221",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2079989135109226496"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079989141778080244",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AndersonCr40066: 这里是呀米07小女孩\n喜欢玩游戏和COS\n🚪88喜欢我的可以私信发口令带姓\n只是想赚点生活费的小女孩陪聊陪玩呜呜 #门槛妹 https://t.co/fiQcrZHlOE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079989135109226496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2bGR7bgAAmsgR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079989135109226496"
+          ],
+          "media_source_tweet_id": [
+            "2079989141778080244"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "conversation_id": "2090707605467562221",
+        "created_at": "2026-08-21T07:48:31.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T08:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090707605467562221"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 78,
+              "tag": "门槛妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1700683784390164480",
+              "start": 3,
+              "username": "AndersonCr40066"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fiQcrZHlOE",
+              "end": 106,
+              "expanded_url": "https://x.com/AndersonCr40066/status/2079989141778080244/photo/1",
+              "media_key": "3_2079989135109226496",
+              "start": 83,
+              "url": "https://t.co/fiQcrZHlOE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090707605467562221",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2079989135109226496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079989141778080244",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AndersonCr40066: 这里是呀米07小女孩\n喜欢玩游戏和COS\n🚪88喜欢我的可以私信发口令带姓\n只是想赚点生活费的小女孩陪聊陪玩呜呜 #门槛妹 https://t.co/fiQcrZHlOE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079989135109226496"
+          ]
+        },
+        "author_id": "1700683784390164480",
+        "conversation_id": "2079989141778080244",
+        "created_at": "2026-07-22T17:57:10.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079989141778080244"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 57,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fiQcrZHlOE",
+              "end": 85,
+              "expanded_url": "https://x.com/AndersonCr40066/status/2079989141778080244/photo/1",
+              "media_key": "3_2079989135109226496",
+              "start": 62,
+              "url": "https://t.co/fiQcrZHlOE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079989141778080244",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2079989135109226496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1165,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "这里是呀米07小女孩\n喜欢玩游戏和COS\n🚪88喜欢我的可以私信发口令带姓\n只是想赚点生活费的小女孩陪聊陪玩呜呜 #门槛妹 https://t.co/fiQcrZHlOE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090707605467562221",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778719380639014913/1742543363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 683,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 304,
+          "tweet_count": 1866
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-10T01:33:41.000Z",
+        "description": "",
+        "id": "1700683784390164480",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090451154857812303",
+        "name": "呀米",
+        "pinned_tweet_id": "2079989141778080244",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1700683784390164480/1784742631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079987419844317185/wKkbfeUC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 7,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "AndersonCr40066",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

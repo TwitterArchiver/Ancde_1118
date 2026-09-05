@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2090075572898787515",
+    "created_at": "2026-08-19T13:57:02.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T14:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090075572898787515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1820813328618323969",
+          "start": 3,
+          "username": "liqun671012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090075572898787515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 164
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089728007615521023",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liqun671012: 后任你一定要是高壮男啊 一定要重欲啊 一定要是S啊 一定要技术好啊 一定要牛大了啊 一定要骚啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2090075572898787515",
+        "created_at": "2026-08-19T13:57:02.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090075572898787515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1820813328618323969",
+              "start": 3,
+              "username": "liqun671012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090075572898787515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 164
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089728007615521023",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liqun671012: 后任你一定要是高壮男啊 一定要重欲啊 一定要是S啊 一定要技术好啊 一定要牛大了啊 一定要骚啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820813328618323969",
+        "conversation_id": "2089728007615521023",
+        "created_at": "2026-08-18T14:55:56.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T15:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089728007615521023"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089728007615521023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 76928,
+          "like_count": 2110,
+          "quote_count": 25,
+          "reply_count": 156,
+          "retweet_count": 164
+        },
+        "reply_settings": "everyone",
+        "text": "后任你一定要是高壮男啊 一定要重欲啊 一定要是S啊 一定要技术好啊 一定要牛大了啊 一定要骚啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090075572898787515",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778719380639014913/1742543363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 684,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 304,
+          "tweet_count": 1852
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-06T13:25:10.000Z",
+        "description": "下一個晴天還要多久/🚪更新随缘/不线下/不定制🍰",
+        "id": "1820813328618323969",
+        "is_identity_verified": false,
+        "location": "Americana",
+        "most_recent_tweet_id": "2090041086882508916",
+        "name": "朽郁",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820813328618323969/1768329723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089009379635052544/Hx-qwing_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2159,
+          "following_count": 256,
+          "like_count": 2000,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 587
+        },
+        "url": "",
+        "username": "liqun671012",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
