@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2094801359157735482",
+    "created_at": "2026-09-02T17:31:50.000Z",
+    "display_text_range": [
+      11,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T18:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095203057525268690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2049152537316720641",
+          "start": 0,
+          "username": "ln_yf0620"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095203057525268690",
+    "in_reply_to_user_id": "2049152537316720641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095006737023824000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ln_yf0620 我也想这么喝掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2094801359157735482",
+        "created_at": "2026-09-02T17:31:50.000Z",
+        "display_text_range": [
+          11,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T18:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095203057525268690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2049152537316720641",
+              "start": 0,
+              "username": "ln_yf0620"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095203057525268690",
+        "in_reply_to_user_id": "2049152537316720641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095006737023824000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ln_yf0620 我也想这么喝掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049152537316720641",
+        "conversation_id": "2094801359157735482",
+        "created_at": "2026-09-02T04:31:44.000Z",
+        "display_text_range": [
+          12,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095006737023824000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778719380639014913",
+              "start": 0,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095006737023824000",
+        "in_reply_to_user_id": "1778719380639014913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 397,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094801359157735482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ancde_1118 其实自己也想喝掉，然后回答提前写好的问题，我喜欢她吗？她是特别的那个人吗？我对她的感情足够纯粹吗？我会坚定不移不计代价的喜欢她吗？我会后悔吗？我有比她更在乎的人或事吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095203057525268690",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778719380639014913/1742543363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 695,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 1967
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-28T15:43:56.000Z",
+        "description": "06/4i/小圈贝",
+        "id": "2049152537316720641",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095006737023824000",
+        "name": "yf ln",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094784093166940160/E43puunW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 48,
+          "like_count": 417,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 180
+        },
+        "url": "",
+        "username": "ln_yf0620",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

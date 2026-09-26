@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2095235060761088305",
+    "created_at": "2026-09-02T19:39:00.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T20:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095235060761088305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/4xxu4/status/2…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/4xxu4/status/2094478612565291071",
+          "start": 32,
+          "url": "https://t.co/vljGKp25Kc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095235060761088305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094478612565291071",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们一个两个走进我的世界让我产生依赖又离开我的人到底有没有心？ https://t.co/vljGKp25Kc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2095235060761088305",
+        "created_at": "2026-09-02T19:39:00.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T20:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095235060761088305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/4xxu4/status/2…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/4xxu4/status/2094478612565291071",
+              "start": 32,
+              "url": "https://t.co/vljGKp25Kc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095235060761088305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094478612565291071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们一个两个走进我的世界让我产生依赖又离开我的人到底有没有心？ https://t.co/vljGKp25Kc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728682389621161984",
+        "conversation_id": "2094478612565291071",
+        "created_at": "2026-08-31T17:33:09.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T18:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094478612565291071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094478612565291071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 42783,
+          "like_count": 1503,
+          "quote_count": 25,
+          "reply_count": 115,
+          "retweet_count": 421
+        },
+        "reply_settings": "everyone",
+        "text": "我特别害怕对一个人产生依赖，实际上最害怕的就是产生依赖后的落差感，不要这样对我，我无法承受。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095235060761088305",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778719380639014913/1742543363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 696,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 313,
+          "tweet_count": 1971
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-26T07:49:51.000Z",
+        "description": "🚪88",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/4xxux4",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/4xxux4",
+                "start": 0,
+                "url": "https://t.co/Yg5jjomcTt"
+              }
+            ]
+          }
+        },
+        "id": "1728682389621161984",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094478612565291071",
+        "name": "血",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1728682389621161984/1783536205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090505642847227904/nqc1ZPW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8414,
+          "following_count": 0,
+          "like_count": 13,
+          "listed_count": 22,
+          "media_count": 23,
+          "tweet_count": 232
+        },
+        "url": "https://t.co/Yg5jjomcTt",
+        "username": "4xxu4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
