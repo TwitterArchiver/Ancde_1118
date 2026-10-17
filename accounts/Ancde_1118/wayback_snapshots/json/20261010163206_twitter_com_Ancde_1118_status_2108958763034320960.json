@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108958748941410304"
+      ]
+    },
+    "author_id": "1778719380639014913",
+    "conversation_id": "2108958763034320960",
+    "created_at": "2026-10-10T16:32:06.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T17:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108958763034320960"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Shadowban Radar 可对任何公开账号免费进行推特（X）限流（影子禁令）检测，无需登录或密码。它运行 4 项检测：搜索建议禁令（搜索建议限制）、搜索禁令（搜索限制）、幽灵禁令（回复隐藏）、回复降权（回复排序降低），给出判定，并注明每项检测的置信程度。",
+          "display_url": "shadowbanradar.com/zh?utm_source=…",
+          "end": 47,
+          "expanded_url": "https://shadowbanradar.com/zh?utm_source=share",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2107634299591905280/lpCeGlVP?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2107634299591905280/lpCeGlVP?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 24,
+          "status": 200,
+          "title": "推特（X）限流检测：影子禁令免费查询，无需登录 | Shadowban Radar",
+          "unwound_url": "https://shadowbanradar.com/zh?utm_source=share",
+          "url": "https://t.co/fVi9RQBG6v"
+        },
+        {
+          "display_url": "pic.x.com/QJDimd0uIC",
+          "end": 71,
+          "expanded_url": "https://x.com/Ancde_1118/status/2108958763034320960/photo/1",
+          "media_key": "3_2108958748941410304",
+          "start": 48,
+          "url": "https://t.co/QJDimd0uIC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108958763034320960",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2108958748941410304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太好了 msk爸爸没有给我限流 还是爱我的☺️\nhttps://t.co/fVi9RQBG6v https://t.co/QJDimd0uIC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1656,
+        "media_key": "3_2108958748941410304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUSGzvSa4AAs58M.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108958748941410304"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "conversation_id": "2108958763034320960",
+        "created_at": "2026-10-10T16:32:06.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T17:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108958763034320960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Shadowban Radar 可对任何公开账号免费进行推特（X）限流（影子禁令）检测，无需登录或密码。它运行 4 项检测：搜索建议禁令（搜索建议限制）、搜索禁令（搜索限制）、幽灵禁令（回复隐藏）、回复降权（回复排序降低），给出判定，并注明每项检测的置信程度。",
+              "display_url": "shadowbanradar.com/zh?utm_source=…",
+              "end": 47,
+              "expanded_url": "https://shadowbanradar.com/zh?utm_source=share",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2107634299591905280/lpCeGlVP?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2107634299591905280/lpCeGlVP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "推特（X）限流检测：影子禁令免费查询，无需登录 | Shadowban Radar",
+              "unwound_url": "https://shadowbanradar.com/zh?utm_source=share",
+              "url": "https://t.co/fVi9RQBG6v"
+            },
+            {
+              "display_url": "pic.x.com/QJDimd0uIC",
+              "end": 71,
+              "expanded_url": "https://x.com/Ancde_1118/status/2108958763034320960/photo/1",
+              "media_key": "3_2108958748941410304",
+              "start": 48,
+              "url": "https://t.co/QJDimd0uIC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108958763034320960",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108958748941410304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太好了 msk爸爸没有给我限流 还是爱我的☺️\nhttps://t.co/fVi9RQBG6v https://t.co/QJDimd0uIC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108958763034320960",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778719380639014913/1742543363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 685,
+          "like_count": 150,
+          "listed_count": 1,
+          "media_count": 332,
+          "tweet_count": 2146
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

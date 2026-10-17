@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1778719380639014913",
+    "conversation_id": "2102574497669017718",
+    "created_at": "2026-10-03T16:35:59.000Z",
+    "display_text_range": [
+      27,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T17:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106423027743502816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2049431032353697792",
+          "start": 0,
+          "username": "nemoo1047665"
+        },
+        {
+          "end": 26,
+          "id": "2082317744977154048",
+          "start": 14,
+          "username": "USER7444444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106423027743502816",
+    "in_reply_to_user_id": "2049431032353697792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104453552886452351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nemoo1047665 @USER7444444 求链接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1076,
+        "media_key": "3_2104453545798098944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSFWZubYAABbVP.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2102574497669017718",
+        "created_at": "2026-10-03T16:35:59.000Z",
+        "display_text_range": [
+          27,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T17:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106423027743502816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2049431032353697792",
+              "start": 0,
+              "username": "nemoo1047665"
+            },
+            {
+              "end": 26,
+              "id": "2082317744977154048",
+              "start": 14,
+              "username": "USER7444444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106423027743502816",
+        "in_reply_to_user_id": "2049431032353697792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104453552886452351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nemoo1047665 @USER7444444 求链接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104453545798098944"
+          ]
+        },
+        "author_id": "2049431032353697792",
+        "conversation_id": "2102574497669017718",
+        "created_at": "2026-09-28T06:10:00.000Z",
+        "display_text_range": [
+          13,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T07:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104453552886452351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2082317744977154048",
+              "start": 0,
+              "username": "USER7444444"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/snGEPZ9brk",
+              "end": 88,
+              "expanded_url": "https://x.com/nemoo1047665/status/2104453552886452351/photo/1",
+              "media_key": "3_2104453545798098944",
+              "start": 65,
+              "url": "https://t.co/snGEPZ9brk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104453552886452351",
+        "in_reply_to_user_id": "2082317744977154048",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104453545798098944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102574497669017718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@USER7444444 hommi！反正我在上面买了，不知道能不能到呢🥺今天刚买，他们好像有什么活动，反正95折到30号结束吧 https://t.co/snGEPZ9brk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106423027743502816",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778719380639014913/1742543363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 689,
+          "like_count": 150,
+          "listed_count": 1,
+          "media_count": 328,
+          "tweet_count": 2130
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-29T10:10:40.000Z",
+        "description": "",
+        "id": "2049431032353697792",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106270071241023849",
+        "name": "糯米米",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049938224479371264/SPjg3dMo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 72,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "nemoo1047665",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T04:11:49.000Z",
+        "description": "繪畫..！/$$超愛服藥/血液/破損玩偶/繃帶 ok繃等的描繪#@( ◕ x ◕ )@#",
+        "id": "2082317744977154048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106205960150900780",
+        "name": "USER",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097376790880849921/YOzcTcFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 0,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "USER7444444",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
